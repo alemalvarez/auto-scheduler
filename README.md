@@ -9,7 +9,7 @@ The **LLM-based Autoscheduler** is a project developed by the Data Science Club 
 
 ## 1. Scraper 🕵️‍♂️
 ⚠️ **Important: The included chromium engine ONLY runs on ARM MacOS (Apple silicon chips). If your system is different, you can find the appropiate version in [Chrome for Testing](https://googlechromelabs.github.io/chrome-for-testing/) ⚠️** <br>
-The scraper is a Python-based module that retrieves class schedule data from the CSUS webpage. It utilizes selenium and BeautifulSoup to navigate the website, render dynamic content, and parse the HTML structure.
+The scraper is a Python-based module that retrieves class schedule data from the CSUS webpage. It utilizes [Selenium](https://www.selenium.dev/documentation/webdriver/) and [BeautifulSoup](https://pypi.org/project/beautifulsoup4/) to navigate the website, render dynamic content, and parse the HTML structure.
 
 The scraper performs the following tasks:
 - Retrieves the rendered HTML content of the class schedule page.
