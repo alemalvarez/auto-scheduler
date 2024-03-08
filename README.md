@@ -1,6 +1,8 @@
 ![Banner](assets/banner.png)
 # 🐍 LLM powered autoscheduler - CSUS DS Club
 
+*Tested and developed using **Python 3.11.5**!*
+
 The **LLM-based Autoscheduler** is a project developed by the Data Science Club at CSUS, aiming to provide an automated scheduling system for students. 📅 The project comprises three main components:
 
 1. **Scraper** 🕵️‍♂️

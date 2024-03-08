@@ -1,0 +1,4 @@
+beautifulsoup4==4.12.3
+openai==1.13.3
+Requests==2.31.0
+selenium==4.18.1
