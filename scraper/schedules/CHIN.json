@@ -1,0 +1,28 @@
+{
+    "chin 1A - Elementary Mandarin - 5 Units": [
+        {
+            "days": "MTWRF",
+            "startTime": "1000AM",
+            "endTime": "1050AM"
+        },
+        {
+            "days": "MTWRF",
+            "startTime": "0300PM",
+            "endTime": "0350PM"
+        }
+    ],
+    "chin 2A - Intermediate Mandarin - 4 Units": [
+        {
+            "days": "MTWR",
+            "startTime": "0900AM",
+            "endTime": "0950AM"
+        }
+    ],
+    "chin 120 - Chinese Civilization - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        }
+    ]
+}

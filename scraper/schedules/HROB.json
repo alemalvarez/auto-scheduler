@@ -1,0 +1,136 @@
+{
+    "hrob 101 - Mgmt Contemporary Organiz - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0300PM",
+            "endTime": "0415PM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0430PM",
+            "endTime": "0545PM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0600PM",
+            "endTime": "0715PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0730AM",
+            "endTime": "0845AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0900AM",
+            "endTime": "1015AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "1030AM",
+            "endTime": "1145AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0300PM",
+            "endTime": "0415PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0430PM",
+            "endTime": "0545PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0600PM",
+            "endTime": "0715PM"
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "hrob 151 - Management Human Resource - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        }
+    ],
+    "hrob 152 - Management Skills Seminar - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0900AM",
+            "endTime": "1015AM"
+        }
+    ],
+    "hrob 153 - Employment Law - 3 Units": [
+        {
+            "days": "W",
+            "startTime": "0600PM",
+            "endTime": "0850PM"
+        }
+    ],
+    "hrob 154 - Strategic Hum Res Mgmt - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0730AM",
+            "endTime": "0845AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0900AM",
+            "endTime": "1015AM"
+        }
+    ],
+    "hrob 155 - Conflict Mgmt+Negotiation - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        }
+    ],
+    "hrob 158 - Spec Topics Hr Management - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0300PM",
+            "endTime": "0415PM"
+        }
+    ]
+}

@@ -1,0 +1,160 @@
+{
+    "dnce 1A - Jazz Dance Level IA - 2 Units": [
+        {
+            "days": "MW",
+            "startTime": "1030AM",
+            "endTime": "1055AM"
+        },
+        {
+            "days": "MW",
+            "startTime": "1055AM",
+            "endTime": "1145AM"
+        }
+    ],
+    "dnce 3A - Ballet Level lA - 2 Units": [
+        {
+            "days": "MW",
+            "startTime": "0900AM",
+            "endTime": "0925AM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0925AM",
+            "endTime": "1015AM"
+        }
+    ],
+    "dnce 4A - Tap Dance Level lA - 2 Units": [
+        {
+            "days": "TR",
+            "startTime": "0130PM",
+            "endTime": "0155PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0155PM",
+            "endTime": "0245PM"
+        }
+    ],
+    "dnce 5A - Mexican Folklorico Level lA - 2 Units": [
+        {
+            "days": "MW",
+            "startTime": "0430PM",
+            "endTime": "0455PM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0455PM",
+            "endTime": "0545PM"
+        }
+    ],
+    "dnce 6A - Hip Hop Level lA - 2 Units": [
+        {
+            "days": "MW",
+            "startTime": "0300PM",
+            "endTime": "0325PM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0325PM",
+            "endTime": "0415PM"
+        }
+    ],
+    "dnce 12A - Contemporary Dance Level IIA - 2 Units": [
+        {
+            "days": "TR",
+            "startTime": "1200PM",
+            "endTime": "1225PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "1225PM",
+            "endTime": "0115PM"
+        }
+    ],
+    "dnce 112A - Contemporary Dance Level IlIA - 2 Units": [
+        {
+            "days": "TR",
+            "startTime": "1200PM",
+            "endTime": "1225PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "1225PM",
+            "endTime": "0115PM"
+        }
+    ],
+    "dnce 113A - Ballet Level IIIA - 2 Units": [
+        {
+            "days": "MW",
+            "startTime": "0900AM",
+            "endTime": "0925AM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0925AM",
+            "endTime": "1015AM"
+        }
+    ],
+    "dnce 120 - Dance Composition I - 2 Units": [
+        {
+            "days": "MW",
+            "startTime": "0130PM",
+            "endTime": "0155PM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0155PM",
+            "endTime": "0245PM"
+        }
+    ],
+    "dnce 130 - Apprec+History Of Dance - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0300PM",
+            "endTime": "0415PM"
+        }
+    ],
+    "dnce 131 - Dance Cultures Of America - 3 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "TR",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        }
+    ],
+    "dnce 132 - African-Caribbean Dance - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "1200PM",
+            "endTime": "1250PM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0100PM",
+            "endTime": "0150PM"
+        }
+    ],
+    "dnce 143 - University Dance Company - 1 Units": [
+        {
+            "days": "F",
+            "startTime": "1100AM",
+            "endTime": "1240PM"
+        }
+    ],
+    "dnce 150 - Dance Theory & Criticism - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0900AM",
+            "endTime": "0925AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0930AM",
+            "endTime": "1110AM"
+        }
+    ]
+}

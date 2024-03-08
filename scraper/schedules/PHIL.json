@@ -1,0 +1,343 @@
+{
+    "phil 2 - Ethics - 3 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "T",
+            "startTime": "0600PM",
+            "endTime": "0850PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "1030AM",
+            "endTime": "1145AM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0300PM",
+            "endTime": "0415PM"
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "MW",
+            "startTime": "1000AM",
+            "endTime": "1050AM"
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "MW",
+            "startTime": "0900AM",
+            "endTime": "0950AM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "0800AM",
+            "endTime": "0850AM"
+        }
+    ],
+    "phil 4 - Critical Thinking - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0730AM",
+            "endTime": "0845AM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "0900AM",
+            "endTime": "0950AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0430PM",
+            "endTime": "0545PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        }
+    ],
+    "phil 6 - Introductn To Philosophy - 3 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "T",
+            "startTime": "0600PM",
+            "endTime": "0850PM"
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "TR",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "1000AM",
+            "endTime": "1050AM"
+        }
+    ],
+    "phil 26 - History of Philosophy - 3 Units": [
+        {
+            "days": "MWF",
+            "startTime": "0900AM",
+            "endTime": "0950AM"
+        }
+    ],
+    "phil 56 - Research Integrity - 1 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "phil 60 - Deductive Logic I - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0430PM",
+            "endTime": "0545PM"
+        }
+    ],
+    "phil 61 - Inductive Logic I - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "1030AM",
+            "endTime": "1145AM"
+        }
+    ],
+    "phil 89 - Philosophical Methods - 2 Units": [
+        {
+            "days": "MW",
+            "startTime": "1100AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "MW",
+            "startTime": "1100AM",
+            "endTime": "1150AM"
+        }
+    ],
+    "phil 102 - Prof and Public Service Ethics - 3 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "phil 103 - Business+Computer Ethics - 3 Units": [
+        {
+            "days": "MWF",
+            "startTime": "1000AM",
+            "endTime": "1050AM"
+        }
+    ],
+    "phil 104 - Bioethics - 3 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "TR",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "phil 105 - Science+Human Values - 3 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "MW",
+            "startTime": "0900AM",
+            "endTime": "0950AM"
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "phil 112 - History Of Ethics - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        }
+    ],
+    "phil 117 - Existentialism - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        }
+    ],
+    "phil 122 - Political Philosophy - 3 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "phil 125 - Philosophy Of Science - 3 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "phil 127 - History of Ancient Philosophy - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0300PM",
+            "endTime": "0415PM"
+        }
+    ],
+    "phil 128 - History of Modern Philosophy - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        }
+    ],
+    "phil 131 - Philosophy Of Religion - 3 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "phil 134 - Philosophy of Sports - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "1030AM",
+            "endTime": "1145AM"
+        }
+    ],
+    "phil 136 - Philosophy Of Art - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0430PM",
+            "endTime": "0545PM"
+        }
+    ],
+    "phil 145A - Chinese Philosophy - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        }
+    ],
+    "phil 155 - Philosophy Of Law - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        }
+    ],
+    "phil 180 - Knowledge and Understanding - 3 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "M",
+            "startTime": "0430PM",
+            "endTime": "0545PM"
+        }
+    ],
+    "phil 183 - Rationality - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        }
+    ],
+    "phil 189 - Senior Seminar Philosophy - 1 Units": [
+        {
+            "days": "F",
+            "startTime": "1100AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "F",
+            "startTime": "1100AM",
+            "endTime": "1150AM"
+        }
+    ],
+    "phil 197 - Honors Thesis - 1 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "phil 199 - Special Problems - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        }
+    ]
+}

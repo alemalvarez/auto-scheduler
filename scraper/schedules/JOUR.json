@@ -1,0 +1,164 @@
+{
+    "jour 20 - Style For Media Writers - 1 Units": [
+        {
+            "days": "MWF",
+            "startTime": "0800AM",
+            "endTime": "0850AM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "0900AM",
+            "endTime": "0950AM"
+        }
+    ],
+    "jour 30 - News Writing - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "0900AM",
+            "endTime": "1015AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        }
+    ],
+    "jour 50 - Media Lit+Critical Thinking - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "0300PM",
+            "endTime": "0415PM"
+        }
+    ],
+    "jour 55 - Media Communication+Soc - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        }
+    ],
+    "jour 116 - Data Visualization - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0900AM",
+            "endTime": "1015AM"
+        }
+    ],
+    "jour 120 - History Of The Media - 3 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "jour 123 - Writing Public Relations - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        }
+    ],
+    "jour 125 - Multimedia Storytelling - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        }
+    ],
+    "jour 128 - News Editing - 3 Units": [
+        {
+            "days": "T",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        },
+        {
+            "days": "R",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        }
+    ],
+    "jour 130A - News Reporting I - 3 Units": [
+        {
+            "days": "M",
+            "startTime": "0900AM",
+            "endTime": "1150AM"
+        }
+    ],
+    "jour 130B - News Reporting II - 3 Units": [
+        {
+            "days": "W",
+            "startTime": "0900AM",
+            "endTime": "1150AM"
+        }
+    ],
+    "jour 131 - Data Journalism - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "1030AM",
+            "endTime": "1145AM"
+        }
+    ],
+    "jour 132 - Digital Magazine - 3 Units": [
+        {
+            "days": "T",
+            "startTime": "0600PM",
+            "endTime": "0850PM"
+        }
+    ],
+    "jour 134 - War,Peace+Mass Media - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0900AM",
+            "endTime": "1015AM"
+        }
+    ],
+    "jour 135 - Public Affairs Reporting - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "1030AM",
+            "endTime": "1145AM"
+        }
+    ],
+    "jour 153 - Journalism Law + Ethics - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "0300PM",
+            "endTime": "0415PM"
+        }
+    ],
+    "jour 158 - PR Planning+Management - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0300PM",
+            "endTime": "0415PM"
+        }
+    ],
+    "jour 195 - Internship In Journalism - 6 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "jour 197A - The State Hornet-Introduction - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0300PM",
+            "endTime": "0415PM"
+        }
+    ],
+    "jour 197B - The State Hornet-Continuing - 3 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "jour 199 - Special Problems - 3 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ]
+}

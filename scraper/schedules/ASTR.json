@@ -1,0 +1,84 @@
+{
+    "astr 4B - Intro to Stars and Galaxies - 3 Units": [
+        {
+            "days": "MWF",
+            "startTime": "0900AM",
+            "endTime": "0950AM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "0300PM",
+            "endTime": "0350PM"
+        }
+    ],
+    "astr 4C - Introduction to Astrobiology - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        }
+    ],
+    "astr 6 - Astronomical Observtn Lab - 1 Units": [
+        {
+            "days": "MT",
+            "startTime": "0700PM",
+            "endTime": "1100PM"
+        },
+        {
+            "days": "F",
+            "startTime": "0900AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "WR",
+            "startTime": "0700PM",
+            "endTime": "1100PM"
+        },
+        {
+            "days": "F",
+            "startTime": "0100PM",
+            "endTime": "0350PM"
+        }
+    ],
+    "astr 131 - The Solar System - 3 Units": [
+        {
+            "days": "MWF",
+            "startTime": "0200PM",
+            "endTime": "0250PM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "1200PM",
+            "endTime": "1250PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0300PM",
+            "endTime": "0415PM"
+        }
+    ],
+    "astr 180 - Through Space and Time - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0300PM",
+            "endTime": "0415PM"
+        }
+    ],
+    "astr 199 - Special Problems - 2 Units": [
+        {
+            "days": "M",
+            "startTime": "1200PM",
+            "endTime": "1250PM"
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ]
+}

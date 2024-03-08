@@ -1,0 +1,23 @@
+{
+    "wll 15 - World Literatures in Film - 3 Units": [
+        {
+            "days": "W",
+            "startTime": "0600PM",
+            "endTime": "0850PM"
+        }
+    ],
+    "wll 21 - First Year Seminar - 3 Units": [
+        {
+            "days": "MWF",
+            "startTime": "1100AM",
+            "endTime": "1150AM"
+        }
+    ],
+    "wll 385 - FORL in Secondary School - 3 Units": [
+        {
+            "days": "W",
+            "startTime": "0130PM",
+            "endTime": "0420PM"
+        }
+    ]
+}

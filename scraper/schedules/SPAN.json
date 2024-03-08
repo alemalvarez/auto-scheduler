@@ -1,0 +1,248 @@
+{
+    "span 1A - Elementary Spanish - 4 Units": [
+        {
+            "days": "MTW",
+            "startTime": "0800AM",
+            "endTime": "0850AM"
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "MTW",
+            "startTime": "0900AM",
+            "endTime": "0950AM"
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "MTW",
+            "startTime": "1000AM",
+            "endTime": "1050AM"
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "MTW",
+            "startTime": "0200PM",
+            "endTime": "0250PM"
+        }
+    ],
+    "span 1B - Elementary Spanish - 4 Units": [
+        {
+            "days": "MTWR",
+            "startTime": "0900AM",
+            "endTime": "0950AM"
+        },
+        {
+            "days": "MTW",
+            "startTime": "1100AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "R",
+            "startTime": "1030AM",
+            "endTime": "1120AM"
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "MTW",
+            "startTime": "1200PM",
+            "endTime": "1250PM"
+        },
+        {
+            "days": "MTWR",
+            "startTime": "0300PM",
+            "endTime": "0350PM"
+        },
+        {
+            "days": "MTW",
+            "startTime": "1000AM",
+            "endTime": "1050AM"
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "span 2B - Intermediate Spanish - 4 Units": [
+        {
+            "days": "MTWR",
+            "startTime": "1200PM",
+            "endTime": "1250PM"
+        }
+    ],
+    "span 6A - Interm Span Professionals I - 4 Units": [
+        {
+            "days": "MW",
+            "startTime": "0600PM",
+            "endTime": "0750PM"
+        }
+    ],
+    "span 7 - Spanish Read Proficiency - 3 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "span 8A - Interm Span CRJ I - 4 Units": [
+        {
+            "days": "MW",
+            "startTime": "0600PM",
+            "endTime": "0750PM"
+        }
+    ],
+    "span 42 - Conversation In Spanish - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0300PM",
+            "endTime": "0415PM"
+        }
+    ],
+    "span 47 - Intro Comp+Grammar Review - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "0300PM",
+            "endTime": "0415PM"
+        }
+    ],
+    "span 100 - Intro Study Hispanic Lit - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        }
+    ],
+    "span 102 - Spanish Phonetics - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0300PM",
+            "endTime": "0415PM"
+        }
+    ],
+    "span 103 - Advanced Spanish Grammar - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        }
+    ],
+    "span 106 - Adv Spanish Composition - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "0430PM",
+            "endTime": "0545PM"
+        }
+    ],
+    "span 110 - Survey Span Lit To 1800 - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        }
+    ],
+    "span 113 - Latin Amer Lit Beg To Mod - 4 Units": [
+        {
+            "days": "TR",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        }
+    ],
+    "span 121J - Spanish Language Criminal Just - 3 Units": [
+        {
+            "days": "T",
+            "startTime": "0600PM",
+            "endTime": "0715PM"
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "span 123 - Topics in Spanish Literature - 3 Units": [
+        {
+            "days": "M",
+            "startTime": "0530PM",
+            "endTime": "0820PM"
+        }
+    ],
+    "span 125 - Spanish-English Translation - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        }
+    ],
+    "span 142 - Adv Spanish Conversation - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "0300PM",
+            "endTime": "0415PM"
+        }
+    ],
+    "span 151 - Civ & Culture Hispanic America - 3 Units": [
+        {
+            "days": "T",
+            "startTime": "0430PM",
+            "endTime": "0545PM"
+        },
+        {
+            "days": "R",
+            "startTime": "0430PM",
+            "endTime": "0545PM"
+        }
+    ],
+    "span 153 - Civilization+Cult Mexico - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "1030AM",
+            "endTime": "1145AM"
+        }
+    ],
+    "span 195 - Internship--Field Experience - 3 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "span 201A - Gen Spanish Linguistics - 3 Units": [
+        {
+            "days": "R",
+            "startTime": "0600PM",
+            "endTime": "0850PM"
+        }
+    ],
+    "span 250B - Civilzatn+Cult Mod Spain - 3 Units": [
+        {
+            "days": "W",
+            "startTime": "0600PM",
+            "endTime": "0850PM"
+        }
+    ]
+}

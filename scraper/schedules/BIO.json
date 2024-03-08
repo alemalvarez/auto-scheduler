@@ -1,0 +1,1648 @@
+{
+    "bio 1 - Biodiver,Evolution+Ecol - 5 Units": [
+        {
+            "days": "MW",
+            "startTime": "0400PM",
+            "endTime": "0515PM"
+        },
+        {
+            "days": "M",
+            "startTime": "0100PM",
+            "endTime": "0350PM"
+        },
+        {
+            "days": "T",
+            "startTime": "0130PM",
+            "endTime": "0420PM"
+        },
+        {
+            "days": "W",
+            "startTime": "0100PM",
+            "endTime": "0350PM"
+        },
+        {
+            "days": "R",
+            "startTime": "0130PM",
+            "endTime": "0420PM"
+        },
+        {
+            "days": "M",
+            "startTime": "0600PM",
+            "endTime": "0750PM"
+        },
+        {
+            "days": "T",
+            "startTime": "1000AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "W",
+            "startTime": "0600PM",
+            "endTime": "0750PM"
+        },
+        {
+            "days": "R",
+            "startTime": "1000AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0730AM",
+            "endTime": "0845AM"
+        },
+        {
+            "days": "M",
+            "startTime": "0900AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "T",
+            "startTime": "0900AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "W",
+            "startTime": "0900AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "R",
+            "startTime": "0900AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "M",
+            "startTime": "1100AM",
+            "endTime": "1250PM"
+        },
+        {
+            "days": "T",
+            "startTime": "0100PM",
+            "endTime": "0250PM"
+        },
+        {
+            "days": "W",
+            "startTime": "1100AM",
+            "endTime": "1250PM"
+        },
+        {
+            "days": "R",
+            "startTime": "0100PM",
+            "endTime": "0250PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        },
+        {
+            "days": "M",
+            "startTime": "0900AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "T",
+            "startTime": "0900AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "W",
+            "startTime": "0900AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "R",
+            "startTime": "0900AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "M",
+            "startTime": "0100PM",
+            "endTime": "0250PM"
+        },
+        {
+            "days": "T",
+            "startTime": "0400PM",
+            "endTime": "0550PM"
+        },
+        {
+            "days": "W",
+            "startTime": "0100PM",
+            "endTime": "0250PM"
+        },
+        {
+            "days": "R",
+            "startTime": "0400PM",
+            "endTime": "0550PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "1030AM",
+            "endTime": "1145AM"
+        },
+        {
+            "days": "M",
+            "startTime": "0100PM",
+            "endTime": "0350PM"
+        },
+        {
+            "days": "T",
+            "startTime": "0130PM",
+            "endTime": "0420PM"
+        },
+        {
+            "days": "W",
+            "startTime": "0100PM",
+            "endTime": "0350PM"
+        },
+        {
+            "days": "R",
+            "startTime": "0130PM",
+            "endTime": "0420PM"
+        },
+        {
+            "days": "M",
+            "startTime": "0400PM",
+            "endTime": "0550PM"
+        },
+        {
+            "days": "T",
+            "startTime": "0800AM",
+            "endTime": "0950AM"
+        },
+        {
+            "days": "W",
+            "startTime": "0400PM",
+            "endTime": "0550PM"
+        },
+        {
+            "days": "R",
+            "startTime": "0800AM",
+            "endTime": "0950AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0430PM",
+            "endTime": "0545PM"
+        }
+    ],
+    "bio 2 - Cells,Molecules+Genes - 5 Units": [
+        {
+            "days": "MW",
+            "startTime": "0430PM",
+            "endTime": "0545PM"
+        },
+        {
+            "days": "W",
+            "startTime": "0900AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "W",
+            "startTime": "0100PM",
+            "endTime": "0350PM"
+        },
+        {
+            "days": "M",
+            "startTime": "0100PM",
+            "endTime": "0350PM"
+        },
+        {
+            "days": "M",
+            "startTime": "1000AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "M",
+            "startTime": "0100PM",
+            "endTime": "0250PM"
+        },
+        {
+            "days": "W",
+            "startTime": "1000AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0900AM",
+            "endTime": "1015AM"
+        },
+        {
+            "days": "R",
+            "startTime": "1030AM",
+            "endTime": "0120PM"
+        },
+        {
+            "days": "R",
+            "startTime": "0300PM",
+            "endTime": "0550PM"
+        },
+        {
+            "days": "T",
+            "startTime": "1030AM",
+            "endTime": "1220PM"
+        },
+        {
+            "days": "T",
+            "startTime": "0130PM",
+            "endTime": "0320PM"
+        }
+    ],
+    "bio 7 - Intro Science Of Biology - 4 Units": [
+        {
+            "days": "TR",
+            "startTime": "0730AM",
+            "endTime": "0845AM"
+        },
+        {
+            "days": "T",
+            "startTime": "0900AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "R",
+            "startTime": "0900AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "R",
+            "startTime": "0100PM",
+            "endTime": "0350PM"
+        }
+    ],
+    "bio 9 - Living World: Evo, Eco, Behv - 3 Units": [
+        {
+            "days": "MWF",
+            "startTime": "0800AM",
+            "endTime": "0850AM"
+        }
+    ],
+    "bio 10 - Basic Biological Concepts - 3 Units": [
+        {
+            "days": "MWF",
+            "startTime": "0900AM",
+            "endTime": "0950AM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "1000AM",
+            "endTime": "1050AM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "1100AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "1200PM",
+            "endTime": "1250PM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0730AM",
+            "endTime": "0845AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0900AM",
+            "endTime": "1015AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0300PM",
+            "endTime": "0415PM"
+        }
+    ],
+    "bio 15L - Lab Investigations in Biology - 1 Units": [
+        {
+            "days": "M",
+            "startTime": "0900AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "M",
+            "startTime": "0100PM",
+            "endTime": "0350PM"
+        },
+        {
+            "days": "T",
+            "startTime": "0130PM",
+            "endTime": "0420PM"
+        },
+        {
+            "days": "W",
+            "startTime": "0900AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "W",
+            "startTime": "0100PM",
+            "endTime": "0350PM"
+        }
+    ],
+    "bio 20 - Biology: Human Perspective - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "0300PM",
+            "endTime": "0415PM"
+        }
+    ],
+    "bio 22 - Intro Human Anatomy - 4 Units": [
+        {
+            "days": "MW",
+            "startTime": "0730AM",
+            "endTime": "0845AM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0900AM",
+            "endTime": "1015AM"
+        },
+        {
+            "days": "MW",
+            "startTime": "1030AM",
+            "endTime": "1145AM"
+        },
+        {
+            "days": "MW",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "1030AM",
+            "endTime": "1145AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0300PM",
+            "endTime": "0415PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0430PM",
+            "endTime": "0545PM"
+        }
+    ],
+    "bio 25 - Human Anatomy+Physio I - 4 Units": [
+        {
+            "days": "TR",
+            "startTime": "0730AM",
+            "endTime": "0845AM"
+        },
+        {
+            "days": "T",
+            "startTime": "0900AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "R",
+            "startTime": "0900AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "T",
+            "startTime": "0130PM",
+            "endTime": "0420PM"
+        },
+        {
+            "days": "R",
+            "startTime": "0130PM",
+            "endTime": "0420PM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "1100AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "M",
+            "startTime": "0100PM",
+            "endTime": "0350PM"
+        },
+        {
+            "days": "W",
+            "startTime": "0100PM",
+            "endTime": "0350PM"
+        },
+        {
+            "days": "F",
+            "startTime": "0100PM",
+            "endTime": "0350PM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "0800AM",
+            "endTime": "0850AM"
+        },
+        {
+            "days": "M",
+            "startTime": "0900AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "W",
+            "startTime": "0900AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "F",
+            "startTime": "0900AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        },
+        {
+            "days": "T",
+            "startTime": "0430PM",
+            "endTime": "0720PM"
+        },
+        {
+            "days": "W",
+            "startTime": "0400PM",
+            "endTime": "0650PM"
+        },
+        {
+            "days": "R",
+            "startTime": "0430PM",
+            "endTime": "0720PM"
+        }
+    ],
+    "bio 26 - Human Anatomy+Physio II - 4 Units": [
+        {
+            "days": "MW",
+            "startTime": "0730AM",
+            "endTime": "0845AM"
+        },
+        {
+            "days": "M",
+            "startTime": "0900AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "W",
+            "startTime": "0900AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "W",
+            "startTime": "0100PM",
+            "endTime": "0350PM"
+        },
+        {
+            "days": "F",
+            "startTime": "0900AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        },
+        {
+            "days": "T",
+            "startTime": "0730AM",
+            "endTime": "1020AM"
+        },
+        {
+            "days": "T",
+            "startTime": "0130PM",
+            "endTime": "0420PM"
+        },
+        {
+            "days": "T",
+            "startTime": "0430PM",
+            "endTime": "0720PM"
+        },
+        {
+            "days": "R",
+            "startTime": "0130PM",
+            "endTime": "0420PM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "1100AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "M",
+            "startTime": "0100PM",
+            "endTime": "0350PM"
+        },
+        {
+            "days": "T",
+            "startTime": "1030AM",
+            "endTime": "0120PM"
+        },
+        {
+            "days": "R",
+            "startTime": "0900AM",
+            "endTime": "1150AM"
+        }
+    ],
+    "bio 39 - Microbio-Allied Hlth Students - 4 Units": [
+        {
+            "days": "MW",
+            "startTime": "0730AM",
+            "endTime": "0845AM"
+        },
+        {
+            "days": "M",
+            "startTime": "0900AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "M",
+            "startTime": "0100PM",
+            "endTime": "0350PM"
+        },
+        {
+            "days": "W",
+            "startTime": "0900AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "W",
+            "startTime": "0100PM",
+            "endTime": "0350PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0730AM",
+            "endTime": "0845AM"
+        },
+        {
+            "days": "T",
+            "startTime": "0900AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "T",
+            "startTime": "0130PM",
+            "endTime": "0420PM"
+        },
+        {
+            "days": "R",
+            "startTime": "0900AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "R",
+            "startTime": "0130PM",
+            "endTime": "0420PM"
+        }
+    ],
+    "bio 100 - Intro to Scientific Analysis - 3 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "M",
+            "startTime": "0100PM",
+            "endTime": "0350PM"
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "T",
+            "startTime": "0900AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "T",
+            "startTime": "0130PM",
+            "endTime": "0420PM"
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "W",
+            "startTime": "0900AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "W",
+            "startTime": "0100PM",
+            "endTime": "0350PM"
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "R",
+            "startTime": "0900AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "R",
+            "startTime": "0130PM",
+            "endTime": "0420PM"
+        }
+    ],
+    "bio 103 - Plants+Civilization - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "0300PM",
+            "endTime": "0415PM"
+        }
+    ],
+    "bio 104 - Physiology Human Reproduc - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0300PM",
+            "endTime": "0415PM"
+        }
+    ],
+    "bio 105 - Life in the Ocean - 3 Units": [
+        {
+            "days": "MWF",
+            "startTime": "1000AM",
+            "endTime": "1050AM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "1100AM",
+            "endTime": "1150AM"
+        }
+    ],
+    "bio 113 - Evol+Speciatn Flowering Plants - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        }
+    ],
+    "bio 118 - Natural Resource Consrvtn - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0730AM",
+            "endTime": "0845AM"
+        }
+    ],
+    "bio 121 - Molecular Cell Biology - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "0300PM",
+            "endTime": "0415PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0900AM",
+            "endTime": "1015AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "1030AM",
+            "endTime": "1145AM"
+        }
+    ],
+    "bio 123 - Neuroanatomy - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "0730AM",
+            "endTime": "0845AM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0900AM",
+            "endTime": "1015AM"
+        }
+    ],
+    "bio 125 - Body Fluid Analysis - 1 Units": [
+        {
+            "days": "M",
+            "startTime": "0500PM",
+            "endTime": "0550PM"
+        }
+    ],
+    "bio 127 - Developmental Biology - 4 Units": [
+        {
+            "days": "MWF",
+            "startTime": "1100AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "R",
+            "startTime": "0900AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "R",
+            "startTime": "0130PM",
+            "endTime": "0420PM"
+        }
+    ],
+    "bio 131 - Systemic Physiology - 4 Units": [
+        {
+            "days": "TR",
+            "startTime": "1030AM",
+            "endTime": "1145AM"
+        },
+        {
+            "days": "T",
+            "startTime": "0130PM",
+            "endTime": "0420PM"
+        },
+        {
+            "days": "W",
+            "startTime": "0900AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "W",
+            "startTime": "0100PM",
+            "endTime": "0350PM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0730AM",
+            "endTime": "0845AM"
+        },
+        {
+            "days": "M",
+            "startTime": "0900AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "M",
+            "startTime": "0100PM",
+            "endTime": "0350PM"
+        },
+        {
+            "days": "T",
+            "startTime": "0900AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0730AM",
+            "endTime": "0845AM"
+        },
+        {
+            "days": "R",
+            "startTime": "0900AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "R",
+            "startTime": "0130PM",
+            "endTime": "0420PM"
+        },
+        {
+            "days": "F",
+            "startTime": "0900AM",
+            "endTime": "1150AM"
+        }
+    ],
+    "bio 131A - Adv Problem In Physiology - 1 Units": [
+        {
+            "days": "MW",
+            "startTime": "1100AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "MW",
+            "startTime": "1200PM",
+            "endTime": "1250PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0300PM",
+            "endTime": "0350PM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0100PM",
+            "endTime": "0150PM"
+        }
+    ],
+    "bio 132 - Neurophysiology - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "1030AM",
+            "endTime": "1145AM"
+        }
+    ],
+    "bio 133 - Cardio-Resp-Renal Physiology - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "0730AM",
+            "endTime": "0845AM"
+        }
+    ],
+    "bio 135 - Endocrinology - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0900AM",
+            "endTime": "1015AM"
+        }
+    ],
+    "bio 139 - General Microbiology - 4 Units": [
+        {
+            "days": "MW",
+            "startTime": "0300PM",
+            "endTime": "0415PM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0900AM",
+            "endTime": "1015AM"
+        },
+        {
+            "days": "MW",
+            "startTime": "1030AM",
+            "endTime": "1145AM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0300PM",
+            "endTime": "0415PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0900AM",
+            "endTime": "1015AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "1030AM",
+            "endTime": "1145AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        }
+    ],
+    "bio 144 - Pathogenic Bacteriology - 4 Units": [
+        {
+            "days": "TR",
+            "startTime": "0800AM",
+            "endTime": "0850AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0900AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0130PM",
+            "endTime": "0420PM"
+        }
+    ],
+    "bio 149A - Immunology - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        }
+    ],
+    "bio 151 - Adv Lab Tech in Forensic Bio - 2 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "bio 156 - Food Microbiology - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "0100PM",
+            "endTime": "0150PM"
+        },
+        {
+            "days": "W",
+            "startTime": "0200PM",
+            "endTime": "0450PM"
+        }
+    ],
+    "bio 157 - General Entomology - 4 Units": [
+        {
+            "days": "TR",
+            "startTime": "0730AM",
+            "endTime": "0845AM"
+        },
+        {
+            "days": "T",
+            "startTime": "0900AM",
+            "endTime": "1150AM"
+        }
+    ],
+    "bio 160 - General Ecology - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0800AM",
+            "endTime": "0850AM"
+        },
+        {
+            "days": "T",
+            "startTime": "0900AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "T",
+            "startTime": "0130PM",
+            "endTime": "0420PM"
+        },
+        {
+            "days": "R",
+            "startTime": "0900AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0800AM",
+            "endTime": "0850AM"
+        },
+        {
+            "days": "M",
+            "startTime": "0900AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "M",
+            "startTime": "0100PM",
+            "endTime": "0350PM"
+        },
+        {
+            "days": "W",
+            "startTime": "0900AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "W",
+            "startTime": "0100PM",
+            "endTime": "0350PM"
+        }
+    ],
+    "bio 162 - Ichthyology-Study Of Fish - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "0100PM",
+            "endTime": "0150PM"
+        },
+        {
+            "days": "W",
+            "startTime": "0200PM",
+            "endTime": "0450PM"
+        }
+    ],
+    "bio 168 - Mammalogy - 4 Units": [
+        {
+            "days": "MW",
+            "startTime": "1030AM",
+            "endTime": "1145AM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0900AM",
+            "endTime": "1015AM"
+        }
+    ],
+    "bio 178 - Molecular Ecology - 4 Units": [
+        {
+            "days": "TR",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        },
+        {
+            "days": "T",
+            "startTime": "0300PM",
+            "endTime": "0550PM"
+        },
+        {
+            "days": "R",
+            "startTime": "0300PM",
+            "endTime": "0550PM"
+        }
+    ],
+    "bio 180 - Advanced Molecular Biology - 4 Units": [
+        {
+            "days": "TR",
+            "startTime": "0300PM",
+            "endTime": "0350PM"
+        },
+        {
+            "days": "WF",
+            "startTime": "0900AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "WF",
+            "startTime": "0100PM",
+            "endTime": "0350PM"
+        }
+    ],
+    "bio 183 - Cancer Biology - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        }
+    ],
+    "bio 184 - General Genetics - 4 Units": [
+        {
+            "days": "TR",
+            "startTime": "0300PM",
+            "endTime": "0415PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0900AM",
+            "endTime": "1015AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "1030AM",
+            "endTime": "1145AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "1000AM",
+            "endTime": "1050AM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0300PM",
+            "endTime": "0415PM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0430PM",
+            "endTime": "0545PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0300PM",
+            "endTime": "0415PM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0900AM",
+            "endTime": "1015AM"
+        }
+    ],
+    "bio 185 - Topics in Biology - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        }
+    ],
+    "bio 186B - Ecol+Envir Issues Seminar - 1 Units": [
+        {
+            "days": "W",
+            "startTime": "0600PM",
+            "endTime": "0650PM"
+        }
+    ],
+    "bio 186C - Intro to Health Careers - 1 Units": [
+        {
+            "days": "R",
+            "startTime": "1200PM",
+            "endTime": "1250PM"
+        }
+    ],
+    "bio 188 - Evolution - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0430PM",
+            "endTime": "0545PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0300PM",
+            "endTime": "0415PM"
+        }
+    ],
+    "bio 195 - Biological Internship - 2 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "bio 195D - Dental Internship - 1 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "bio 197A - Lab Teaching Assistant - 2 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "bio 197B - Laboratory Techniques - 2 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "bio 197D - Adv Lab Exploration - 1 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "bio 199A - Intro Undergrad Research - 2 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "bio 199B - Directed Readings - 2 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "bio 199C - Intermed Undergrad Research - 1 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "bio 199D - Adv Undergrad Research - 1 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "bio 220 - Intro to Scientific Inquiry - 2 Units": [
+        {
+            "days": "F",
+            "startTime": "1000AM",
+            "endTime": "1150AM"
+        }
+    ],
+    "bio 220A - Foundations in Sci Inquiry - 3 Units": [
+        {
+            "days": "F",
+            "startTime": "0100PM",
+            "endTime": "0350PM"
+        }
+    ],
+    "bio 222 - Molecular Biology - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "0400PM",
+            "endTime": "0515PM"
+        }
+    ],
+    "bio 224 - Geno Proteo+Bioinfrmatics - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "0900AM",
+            "endTime": "0950AM"
+        },
+        {
+            "days": "MW",
+            "startTime": "1000AM",
+            "endTime": "1115AM"
+        }
+    ],
+    "bio 269 - Behavioral Ecology - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0300PM",
+            "endTime": "0415PM"
+        }
+    ],
+    "bio 280 - Advanced Molecular Biology - 4 Units": [
+        {
+            "days": "TR",
+            "startTime": "0300PM",
+            "endTime": "0350PM"
+        },
+        {
+            "days": "WF",
+            "startTime": "0900AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "WF",
+            "startTime": "0100PM",
+            "endTime": "0350PM"
+        }
+    ],
+    "bio 282 - Evolution - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "1030AM",
+            "endTime": "1145AM"
+        }
+    ],
+    "bio 293 - Research Conference - 2 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "bio 294A - Molecular and Cell Seminar - 1 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "bio 294B - Seminar in Ecology - 1 Units": [
+        {
+            "days": "M",
+            "startTime": "0530PM",
+            "endTime": "0620PM"
+        }
+    ],
+    "bio 294C - Seminar In Sci Communication - 1 Units": [
+        {
+            "days": "T",
+            "startTime": "0600PM",
+            "endTime": "0650PM"
+        }
+    ],
+    "bio 297A - Teaching Biology Seminar - 1 Units": [
+        {
+            "days": "R",
+            "startTime": "0300PM",
+            "endTime": "0350PM"
+        }
+    ],
+    "bio 297B - Laboratory Teaching - 1 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "bio 299 - Problems In Biol Sciences - 4 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "bio 500 - Master's Thesis - 4 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "bio 633 - Human Gross Anat Phys Therap - 3 Units": [
+        {
+            "days": "M",
+            "startTime": "0130PM",
+            "endTime": "0320PM"
+        },
+        {
+            "days": "W",
+            "startTime": "0200PM",
+            "endTime": "0420PM"
+        },
+        {
+            "days": "W",
+            "startTime": "0130PM",
+            "endTime": "0420PM"
+        },
+        {
+            "days": "W",
+            "startTime": "0430PM",
+            "endTime": "0720PM"
+        },
+        {
+            "days": "W",
+            "startTime": "0430PM",
+            "endTime": "0720PM"
+        }
+    ]
+}

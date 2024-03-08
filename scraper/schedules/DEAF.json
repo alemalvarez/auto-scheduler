@@ -1,0 +1,291 @@
+{
+    "deaf 51 - American Sign Language 1 - 4 Units": [
+        {
+            "days": "MW",
+            "startTime": "0900AM",
+            "endTime": "1050AM"
+        },
+        {
+            "days": "MW",
+            "startTime": "1200PM",
+            "endTime": "0150PM"
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "T",
+            "startTime": "0900AM",
+            "endTime": "1050AM"
+        },
+        {
+            "days": "T",
+            "startTime": "1100AM",
+            "endTime": "1250PM"
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "T",
+            "startTime": "0300PM",
+            "endTime": "0450PM"
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "T",
+            "startTime": "1200PM",
+            "endTime": "0150PM"
+        },
+        {
+            "days": "M",
+            "startTime": "0430PM",
+            "endTime": "0620PM"
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "M",
+            "startTime": "0630PM",
+            "endTime": "0820PM"
+        },
+        {
+            "days": "W",
+            "startTime": "0430PM",
+            "endTime": "0620PM"
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "T",
+            "startTime": "0200PM",
+            "endTime": "0350PM"
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "TR",
+            "startTime": "0900AM",
+            "endTime": "1050AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "1200PM",
+            "endTime": "0150PM"
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "F",
+            "startTime": "0900AM",
+            "endTime": "1250PM"
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "deaf 52 - Amer Sign Language 2 - 4 Units": [
+        {
+            "days": "M",
+            "startTime": "0530PM",
+            "endTime": "0720PM"
+        },
+        {
+            "days": "W",
+            "startTime": "0530PM",
+            "endTime": "0720PM"
+        },
+        {
+            "days": "T",
+            "startTime": "0700PM",
+            "endTime": "0850PM"
+        },
+        {
+            "days": "M",
+            "startTime": "1000AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "T",
+            "startTime": "0900AM",
+            "endTime": "1050AM"
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "T",
+            "startTime": "1100AM",
+            "endTime": "1250PM"
+        },
+        {
+            "days": "R",
+            "startTime": "1000AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "R",
+            "startTime": "1200PM",
+            "endTime": "0150PM"
+        },
+        {
+            "days": "R",
+            "startTime": "0300PM",
+            "endTime": "0450PM"
+        },
+        {
+            "days": "",
+            "startTime": "1100AM",
+            "endTime": "1250PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "1100AM",
+            "endTime": "1250PM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0500PM",
+            "endTime": "0650PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0600PM",
+            "endTime": "0750PM"
+        },
+        {
+            "days": "R",
+            "startTime": "0500PM",
+            "endTime": "0650PM"
+        }
+    ],
+    "deaf 53 - American Sign Language 3 - 4 Units": [
+        {
+            "days": "T",
+            "startTime": "0900AM",
+            "endTime": "1050AM"
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "deaf 56 - ASL Fingerspelling and Numbers - 1 Units": [
+        {
+            "days": "M",
+            "startTime": "0300PM",
+            "endTime": "0350PM"
+        }
+    ],
+    "deaf 60 - Introduction to Deaf Studies - 3 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "TR",
+            "startTime": "1030AM",
+            "endTime": "1145AM"
+        }
+    ],
+    "deaf 154 - Amer Sign Language 4 - 4 Units": [
+        {
+            "days": "W",
+            "startTime": "0300PM",
+            "endTime": "0450PM"
+        }
+    ],
+    "deaf 155 - American Sign Language 5 - 4 Units": [
+        {
+            "days": "W",
+            "startTime": "1000AM",
+            "endTime": "1150AM"
+        }
+    ],
+    "deaf 161 - Deaf History - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        }
+    ],
+    "deaf 162 - Deaf Culture+Community - 3 Units": [
+        {
+            "days": "T",
+            "startTime": "0430PM",
+            "endTime": "0720PM"
+        }
+    ],
+    "deaf 164 - Sign Language Structure+Usage - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        }
+    ],
+    "deaf 165 - Curr Issues in the Deaf -Wor - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "0300PM",
+            "endTime": "0415PM"
+        }
+    ],
+    "deaf 166 - Experiences Deaf Community - 3 Units": [
+        {
+            "days": "W",
+            "startTime": "0430PM",
+            "endTime": "0720PM"
+        }
+    ]
+}

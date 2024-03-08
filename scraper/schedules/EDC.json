@@ -1,0 +1,421 @@
+{
+    "edc 210 - Social and Cultural Counseling - 3 Units": [
+        {
+            "days": "M",
+            "startTime": "0400PM",
+            "endTime": "0650PM"
+        },
+        {
+            "days": "R",
+            "startTime": "0700PM",
+            "endTime": "0950PM"
+        },
+        {
+            "days": "R",
+            "startTime": "0900AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "W",
+            "startTime": "0400PM",
+            "endTime": "0650PM"
+        },
+        {
+            "days": "W",
+            "startTime": "0100PM",
+            "endTime": "0350PM"
+        }
+    ],
+    "edc 216 - Counseling Theory - 3 Units": [
+        {
+            "days": "T",
+            "startTime": "0400PM",
+            "endTime": "0650PM"
+        },
+        {
+            "days": "T",
+            "startTime": "0900AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "R",
+            "startTime": "0100PM",
+            "endTime": "0350PM"
+        },
+        {
+            "days": "W",
+            "startTime": "0400PM",
+            "endTime": "0650PM"
+        }
+    ],
+    "edc 218 - Assessment In Counseling - 3 Units": [
+        {
+            "days": "M",
+            "startTime": "0400PM",
+            "endTime": "0650PM"
+        },
+        {
+            "days": "T",
+            "startTime": "0700PM",
+            "endTime": "0950PM"
+        },
+        {
+            "days": "T",
+            "startTime": "0700PM",
+            "endTime": "0950PM"
+        },
+        {
+            "days": "W",
+            "startTime": "0700PM",
+            "endTime": "0950PM"
+        }
+    ],
+    "edc 219 - Group Processes Counseling - 3 Units": [
+        {
+            "days": "M",
+            "startTime": "0900AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "M",
+            "startTime": "0900AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "M",
+            "startTime": "0400PM",
+            "endTime": "0650PM"
+        },
+        {
+            "days": "M",
+            "startTime": "0400PM",
+            "endTime": "0650PM"
+        },
+        {
+            "days": "M",
+            "startTime": "0700PM",
+            "endTime": "0950PM"
+        },
+        {
+            "days": "M",
+            "startTime": "0700PM",
+            "endTime": "0950PM"
+        },
+        {
+            "days": "W",
+            "startTime": "0400PM",
+            "endTime": "0650PM"
+        },
+        {
+            "days": "W",
+            "startTime": "0400PM",
+            "endTime": "0650PM"
+        },
+        {
+            "days": "M",
+            "startTime": "0100PM",
+            "endTime": "0350PM"
+        },
+        {
+            "days": "M",
+            "startTime": "0100PM",
+            "endTime": "0350PM"
+        }
+    ],
+    "edc 231 - Diagnosis+Treatment Plan - 3 Units": [
+        {
+            "days": "M",
+            "startTime": "0100PM",
+            "endTime": "0350PM"
+        },
+        {
+            "days": "W",
+            "startTime": "0900AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "R",
+            "startTime": "0700PM",
+            "endTime": "0950PM"
+        },
+        {
+            "days": "W",
+            "startTime": "0400PM",
+            "endTime": "0650PM"
+        }
+    ],
+    "edc 233 - Substance&Addiction Counseling - 3 Units": [
+        {
+            "days": "M",
+            "startTime": "0400PM",
+            "endTime": "0650PM"
+        },
+        {
+            "days": "T",
+            "startTime": "0700PM",
+            "endTime": "0950PM"
+        },
+        {
+            "days": "M",
+            "startTime": "0700PM",
+            "endTime": "0950PM"
+        },
+        {
+            "days": "W",
+            "startTime": "0700PM",
+            "endTime": "0950PM"
+        }
+    ],
+    "edc 238 - Professional Issues in MCFC - 2 Units": [
+        {
+            "days": "R",
+            "startTime": "0500PM",
+            "endTime": "0650PM"
+        }
+    ],
+    "edc 240A - Med Aspects Disabilities - 3 Units": [
+        {
+            "days": "W",
+            "startTime": "0400PM",
+            "endTime": "0650PM"
+        }
+    ],
+    "edc 242 - Play+Art Therapy Children - 3 Units": [
+        {
+            "days": "T",
+            "startTime": "0400PM",
+            "endTime": "0650PM"
+        }
+    ],
+    "edc 244 - Trauma & Crisis Counseling - 3 Units": [
+        {
+            "days": "M",
+            "startTime": "0400PM",
+            "endTime": "0650PM"
+        },
+        {
+            "days": "M",
+            "startTime": "0700PM",
+            "endTime": "0950PM"
+        },
+        {
+            "days": "R",
+            "startTime": "0100PM",
+            "endTime": "0350PM"
+        },
+        {
+            "days": "W",
+            "startTime": "0700PM",
+            "endTime": "0950PM"
+        }
+    ],
+    "edc 245 - Advanced Play Therapy - 3 Units": [
+        {
+            "days": "S",
+            "startTime": "0800AM",
+            "endTime": "1200PM"
+        },
+        {
+            "days": "S",
+            "startTime": "0800AM",
+            "endTime": "1200PM"
+        },
+        {
+            "days": "T",
+            "startTime": "0900AM",
+            "endTime": "1150AM"
+        }
+    ],
+    "edc 252 - Legal & Ethical Issues Counsel - 3 Units": [
+        {
+            "days": "M",
+            "startTime": "0100PM",
+            "endTime": "0350PM"
+        },
+        {
+            "days": "T",
+            "startTime": "0700PM",
+            "endTime": "0950PM"
+        },
+        {
+            "days": "R",
+            "startTime": "0400PM",
+            "endTime": "0650PM"
+        },
+        {
+            "days": "M",
+            "startTime": "0400PM",
+            "endTime": "0650PM"
+        }
+    ],
+    "edc 263 - Adv Case Clinical Rehab Couns - 3 Units": [
+        {
+            "days": "W",
+            "startTime": "0400PM",
+            "endTime": "0650PM"
+        }
+    ],
+    "edc 264 - Sem Couns Career Syst Dev - 3 Units": [
+        {
+            "days": "T",
+            "startTime": "0400PM",
+            "endTime": "0650PM"
+        }
+    ],
+    "edc 266 - Sem Couns Career Prog Dev - 3 Units": [
+        {
+            "days": "R",
+            "startTime": "0400PM",
+            "endTime": "0650PM"
+        }
+    ],
+    "edc 272 - Counseling Children+Youth - 3 Units": [
+        {
+            "days": "M",
+            "startTime": "0400PM",
+            "endTime": "0650PM"
+        }
+    ],
+    "edc 274 - Advocacy+Systemic Change in SC - 3 Units": [
+        {
+            "days": "R",
+            "startTime": "0400PM",
+            "endTime": "0650PM"
+        }
+    ],
+    "edc 280 - Counseling Skills Lab - 2 Units": [
+        {
+            "days": "M",
+            "startTime": "0900AM",
+            "endTime": "1120AM"
+        },
+        {
+            "days": "M",
+            "startTime": "0900AM",
+            "endTime": "1120AM"
+        },
+        {
+            "days": "M",
+            "startTime": "0100PM",
+            "endTime": "0320PM"
+        },
+        {
+            "days": "M",
+            "startTime": "0100PM",
+            "endTime": "0320PM"
+        },
+        {
+            "days": "M",
+            "startTime": "0400PM",
+            "endTime": "0620PM"
+        },
+        {
+            "days": "M",
+            "startTime": "0400PM",
+            "endTime": "0620PM"
+        },
+        {
+            "days": "M",
+            "startTime": "0700PM",
+            "endTime": "0920PM"
+        },
+        {
+            "days": "M",
+            "startTime": "0700PM",
+            "endTime": "0920PM"
+        },
+        {
+            "days": "W",
+            "startTime": "0900AM",
+            "endTime": "1120AM"
+        },
+        {
+            "days": "W",
+            "startTime": "0900AM",
+            "endTime": "1120AM"
+        },
+        {
+            "days": "W",
+            "startTime": "0400PM",
+            "endTime": "0620PM"
+        },
+        {
+            "days": "W",
+            "startTime": "0400PM",
+            "endTime": "0620PM"
+        },
+        {
+            "days": "W",
+            "startTime": "0700PM",
+            "endTime": "0920PM"
+        },
+        {
+            "days": "W",
+            "startTime": "0700PM",
+            "endTime": "0920PM"
+        }
+    ],
+    "edc 299 - Special Problems - 3 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "edc 476 - Advanced Marriage+Family Coun - 1 Units": [
+        {
+            "days": "T",
+            "startTime": "0500PM",
+            "endTime": "0650PM"
+        }
+    ],
+    "edc 477 - Supervision in Play Therapy - 1 Units": [
+        {
+            "days": "W",
+            "startTime": "0400PM",
+            "endTime": "0650PM"
+        },
+        {
+            "days": "M",
+            "startTime": "0400PM",
+            "endTime": "0650PM"
+        }
+    ],
+    "edc 480 - Field Study In Counseling - 3 Units": [
+        {
+            "days": "R",
+            "startTime": "0700PM",
+            "endTime": "0850PM"
+        },
+        {
+            "days": "M",
+            "startTime": "0700PM",
+            "endTime": "0850PM"
+        },
+        {
+            "days": "M",
+            "startTime": "0400PM",
+            "endTime": "0550PM"
+        },
+        {
+            "days": "T",
+            "startTime": "0400PM",
+            "endTime": "0550PM"
+        },
+        {
+            "days": "W",
+            "startTime": "0700PM",
+            "endTime": "0850PM"
+        },
+        {
+            "days": "W",
+            "startTime": "0400PM",
+            "endTime": "0550PM"
+        },
+        {
+            "days": "W",
+            "startTime": "0700PM",
+            "endTime": "0850PM"
+        }
+    ]
+}

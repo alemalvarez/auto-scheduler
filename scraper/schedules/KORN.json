@@ -1,0 +1,19 @@
+{
+    "korn 1A - Elementary Korean 1A - 5 Units": [
+        {
+            "days": "MW",
+            "startTime": "1000AM",
+            "endTime": "1050AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "1030AM",
+            "endTime": "1120AM"
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ]
+}

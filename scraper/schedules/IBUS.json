@@ -1,0 +1,21 @@
+{
+    "ibus 180 - Sustainability Business in Glo - 3 Units": [
+        {
+            "days": "T",
+            "startTime": "0600PM",
+            "endTime": "0850PM"
+        }
+    ],
+    "ibus 190 - International Business - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0900AM",
+            "endTime": "1015AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "1030AM",
+            "endTime": "1145AM"
+        }
+    ]
+}

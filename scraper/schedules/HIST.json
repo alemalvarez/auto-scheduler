@@ -1,0 +1,722 @@
+{
+    "hist 6 - Asian Civilizations - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        }
+    ],
+    "hist 7 - Hist African Civilization - 3 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "hist 8 - Islam and the West - 3 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "hist 10 - History's Mysteries - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "0900AM",
+            "endTime": "0950AM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "1100AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0900AM",
+            "endTime": "1015AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "hist 15H - Major Problems in U.S. History - 3 Units": [
+        {
+            "days": "MWF",
+            "startTime": "1000AM",
+            "endTime": "1050AM"
+        }
+    ],
+    "hist 17A - U.S. History 1607-1877 - 3 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "MW",
+            "startTime": "1000AM",
+            "endTime": "1050AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "1030AM",
+            "endTime": "1145AM"
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "hist 17B - U.S. Hist 1877 To Present - 3 Units": [
+        {
+            "days": "MWF",
+            "startTime": "0900AM",
+            "endTime": "0950AM"
+        },
+        {
+            "days": "MW",
+            "startTime": "1000AM",
+            "endTime": "1050AM"
+        },
+        {
+            "days": "MW",
+            "startTime": "1100AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "MW",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0300PM",
+            "endTime": "0415PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0900AM",
+            "endTime": "1015AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0300PM",
+            "endTime": "0415PM"
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "hist 18 - U S Hist Health Science - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "1030AM",
+            "endTime": "1145AM"
+        }
+    ],
+    "hist 18B - Becoming America - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        }
+    ],
+    "hist 21 - First Year Seminar - 3 Units": [
+        {
+            "days": "W",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0900AM",
+            "endTime": "1015AM"
+        },
+        {
+            "days": "MW",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        }
+    ],
+    "hist 50 - World History to 1500 - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "1030AM",
+            "endTime": "1145AM"
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "hist 50H - World History I: to 1500 - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        }
+    ],
+    "hist 51 - World History II: from 1500 - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "1100AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "hist 100 - Intro Historical Skills - 3 Units": [
+        {
+            "days": "M",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        },
+        {
+            "days": "T",
+            "startTime": "0300PM",
+            "endTime": "0415PM"
+        },
+        {
+            "days": "R",
+            "startTime": "0300PM",
+            "endTime": "0415PM"
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "hist 100R - DEV HIST SKILLS - 3 Units": [
+        {
+            "days": "T",
+            "startTime": "1030AM",
+            "endTime": "1145AM"
+        },
+        {
+            "days": "M",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        }
+    ],
+    "hist 102A - Mod Greek Culture A - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "1000AM",
+            "endTime": "1050AM"
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "hist 104A - Ancient Science - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0300PM",
+            "endTime": "0415PM"
+        }
+    ],
+    "hist 107 - History Of The Phys Sci - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0900AM",
+            "endTime": "0950AM"
+        }
+    ],
+    "hist 108 - Ancient Egypt - 3 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "hist 109B - Greece: Turbulent 20th Century - 3 Units": [
+        {
+            "days": "R",
+            "startTime": "1030AM",
+            "endTime": "1145AM"
+        }
+    ],
+    "hist 111 - Ancient Greece - 3 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "hist 124A - Warfare-Alexandr-Napoleon - 3 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "hist 126 - Christianity To Reformatn - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "1030AM",
+            "endTime": "1145AM"
+        }
+    ],
+    "hist 129A - Medieval Russia - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        }
+    ],
+    "hist 131 - History of Sexuality - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "0300PM",
+            "endTime": "0415PM"
+        }
+    ],
+    "hist 132 - Topics In World History - 3 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "hist 133 - 20th-Century World Hist - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "0900AM",
+            "endTime": "0950AM"
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "hist 135A - History Of Mexico To 1910 - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        }
+    ],
+    "hist 137A - Latin Amer. Revolution 20th C. - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        }
+    ],
+    "hist 138A - Colonial Latin America - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0900AM",
+            "endTime": "1015AM"
+        }
+    ],
+    "hist 139A - Global Environmental History - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "0300PM",
+            "endTime": "0415PM"
+        }
+    ],
+    "hist 141 - History Africa Since 1800 - 3 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "hist 142 - Hist Of Women In Africa - 3 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "hist 143C - Ottoman State and Society - 3 Units": [
+        {
+            "days": "T",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        }
+    ],
+    "hist 143D - The Arab-Israeli Conflict - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "1030AM",
+            "endTime": "1145AM"
+        }
+    ],
+    "hist 146A - Cultural Hist Of Japan - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        }
+    ],
+    "hist 146C - The History of Manga - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0900AM",
+            "endTime": "1015AM"
+        }
+    ],
+    "hist 148A - Hist China:Antqty-1600 Ad - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "1000AM",
+            "endTime": "1050AM"
+        }
+    ],
+    "hist 151B - American Democracy before 1800 - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        }
+    ],
+    "hist 153 - Civil War+Reconstruction - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        }
+    ],
+    "hist 159 - Hist U.S. Foreign Relatns - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        }
+    ],
+    "hist 162 - Social History Of U.S. - 3 Units": [
+        {
+            "days": "M",
+            "startTime": "0600PM",
+            "endTime": "0850PM"
+        }
+    ],
+    "hist 166 - Popular Culture - 3 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "hist 167 - Hist Of American Women - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        }
+    ],
+    "hist 169 - Hollywood+America - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "0900AM",
+            "endTime": "0950AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0900AM",
+            "endTime": "1015AM"
+        }
+    ],
+    "hist 171A - American Indian Hist to 1840 - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        }
+    ],
+    "hist 172B - Queer Black Histories - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        }
+    ],
+    "hist 174B - History of Madness in the U.S - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "1100AM",
+            "endTime": "1150AM"
+        }
+    ],
+    "hist 177 - Afri-Amer Exper,1603-Pres - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0430PM",
+            "endTime": "0545PM"
+        }
+    ],
+    "hist 178 - Mexican-American History - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0300PM",
+            "endTime": "0415PM"
+        }
+    ],
+    "hist 180 - American Legal History - 3 Units": [
+        {
+            "days": "T",
+            "startTime": "0600PM",
+            "endTime": "0850PM"
+        }
+    ],
+    "hist 183A - Calif History,1542-1860 - 3 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "hist 183B - Calif History,1860-1970 - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0900AM",
+            "endTime": "1015AM"
+        }
+    ],
+    "hist 191 - Sem Hist Interpretation - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        }
+    ],
+    "hist 192A - Sem Interp U.S. History - 3 Units": [
+        {
+            "days": "W",
+            "startTime": "0600PM",
+            "endTime": "0850PM"
+        },
+        {
+            "days": "T",
+            "startTime": "0300PM",
+            "endTime": "0550PM"
+        }
+    ],
+    "hist 192Z - Sem Interp Special Topic - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        }
+    ],
+    "hist 193 - Public History - 3 Units": [
+        {
+            "days": "M",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        }
+    ],
+    "hist 195A - History Internship - 3 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "hist 195B - Advanced History Internship - 3 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "hist 195T - History Pre-cred Internship - 3 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "hist 197A - Senior Research Sem: U.S. - 3 Units": [
+        {
+            "days": "M",
+            "startTime": "0300PM",
+            "endTime": "0550PM"
+        },
+        {
+            "days": "R",
+            "startTime": "0600PM",
+            "endTime": "0850PM"
+        }
+    ],
+    "hist 197B - Senior Research Sem:World - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "1030AM",
+            "endTime": "1145AM"
+        }
+    ],
+    "hist 198 - Sum Assess For Teachers - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0300PM",
+            "endTime": "0415PM"
+        }
+    ],
+    "hist 199 - Special Problems - 3 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "hist 200 - History+Theory - 3 Units": [
+        {
+            "days": "T",
+            "startTime": "0600PM",
+            "endTime": "0850PM"
+        }
+    ],
+    "hist 202 - Interpreting U.S. History - 3 Units": [
+        {
+            "days": "W",
+            "startTime": "0600PM",
+            "endTime": "0850PM"
+        }
+    ],
+    "hist 203 - Public Hist Prin+Technque - 3 Units": [
+        {
+            "days": "M",
+            "startTime": "0600PM",
+            "endTime": "0850PM"
+        }
+    ],
+    "hist 209C - Research+Writ World Hist - 3 Units": [
+        {
+            "days": "R",
+            "startTime": "0600PM",
+            "endTime": "0850PM"
+        }
+    ],
+    "hist 282B - Archives+Manuscripts - 3 Units": [
+        {
+            "days": "R",
+            "startTime": "0600PM",
+            "endTime": "0850PM"
+        }
+    ],
+    "hist 282E - Historic Preservation - 3 Units": [
+        {
+            "days": "T",
+            "startTime": "0600PM",
+            "endTime": "0850PM"
+        }
+    ],
+    "hist 282Z - Special Topic Public Hist - 3 Units": [
+        {
+            "days": "M",
+            "startTime": "0600PM",
+            "endTime": "0850PM"
+        }
+    ],
+    "hist 295 - History Internship - 3 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "hist 297 - Advanced Internship - 3 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "hist 299 - Special Problems - 3 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "hist 500 - Culminating Experience - 3 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ]
+}

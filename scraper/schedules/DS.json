@@ -1,0 +1,92 @@
+{
+    "ds 101 - Intro to Business Analytics - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "0730AM",
+            "endTime": "0845AM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0900AM",
+            "endTime": "1015AM"
+        },
+        {
+            "days": "MW",
+            "startTime": "1030AM",
+            "endTime": "1145AM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0300PM",
+            "endTime": "0415PM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0430PM",
+            "endTime": "0545PM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0600PM",
+            "endTime": "0715PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0900AM",
+            "endTime": "1015AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "1030AM",
+            "endTime": "1145AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0430PM",
+            "endTime": "0545PM"
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "ds 102 - Foundation and Tools for B.A. - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0300PM",
+            "endTime": "0415PM"
+        }
+    ],
+    "ds 105 - Decision Analytics - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        }
+    ],
+    "ds 110 - Data Mining for Business Analy - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0900AM",
+            "endTime": "1015AM"
+        }
+    ],
+    "ds 115 - Advanced Business Analytics - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "1030AM",
+            "endTime": "1145AM"
+        }
+    ]
+}

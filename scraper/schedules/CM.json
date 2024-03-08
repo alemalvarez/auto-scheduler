@@ -1,0 +1,320 @@
+{
+    "cm 9 - Construction Survey & Layout - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0800AM",
+            "endTime": "0850AM"
+        },
+        {
+            "days": "T",
+            "startTime": "0900AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "R",
+            "startTime": "0900AM",
+            "endTime": "1150AM"
+        }
+    ],
+    "cm 10 - Construction Industry - 1 Units": [
+        {
+            "days": "T",
+            "startTime": "1100AM",
+            "endTime": "1150AM"
+        }
+    ],
+    "cm 15 - Fundamentals of Const. Mgmt. - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "0300PM",
+            "endTime": "0415PM"
+        }
+    ],
+    "cm 20 - Constructn Materl+Process - 3 Units": [
+        {
+            "days": "F",
+            "startTime": "0700AM",
+            "endTime": "0840AM"
+        },
+        {
+            "days": "F",
+            "startTime": "0900AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "F",
+            "startTime": "1200PM",
+            "endTime": "0250PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0530PM",
+            "endTime": "0620PM"
+        },
+        {
+            "days": "F",
+            "startTime": "0800AM",
+            "endTime": "1050AM"
+        },
+        {
+            "days": "T",
+            "startTime": "1000AM",
+            "endTime": "1250PM"
+        }
+    ],
+    "cm 21 - Construction Graphics - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "1000AM",
+            "endTime": "1050AM"
+        },
+        {
+            "days": "M",
+            "startTime": "1200PM",
+            "endTime": "0250PM"
+        },
+        {
+            "days": "W",
+            "startTime": "1200PM",
+            "endTime": "0250PM"
+        },
+        {
+            "days": "T",
+            "startTime": "0600PM",
+            "endTime": "0850PM"
+        }
+    ],
+    "cm 22 - Construction Documents - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "1000AM",
+            "endTime": "1050AM"
+        },
+        {
+            "days": "M",
+            "startTime": "1100AM",
+            "endTime": "0150PM"
+        },
+        {
+            "days": "W",
+            "startTime": "0200PM",
+            "endTime": "0450PM"
+        }
+    ],
+    "cm 30 - Engr Mechanics-Statics - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "0730AM",
+            "endTime": "0845AM"
+        }
+    ],
+    "cm 40 - Properties Constrctn Mtrl - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0900AM",
+            "endTime": "0950AM"
+        },
+        {
+            "days": "T",
+            "startTime": "1000AM",
+            "endTime": "1250PM"
+        },
+        {
+            "days": "R",
+            "startTime": "1000AM",
+            "endTime": "1250PM"
+        },
+        {
+            "days": "T",
+            "startTime": "0400PM",
+            "endTime": "0650PM"
+        }
+    ],
+    "cm 110 - Legal Aspect Construction - 3 Units": [
+        {
+            "days": "W",
+            "startTime": "0530PM",
+            "endTime": "0820PM"
+        }
+    ],
+    "cm 111 - Construction Labor Relatn - 3 Units": [
+        {
+            "days": "F",
+            "startTime": "0730AM",
+            "endTime": "1020AM"
+        }
+    ],
+    "cm 120 - Constrctn Oper+Meth Analy - 3 Units": [
+        {
+            "days": "T",
+            "startTime": "1200PM",
+            "endTime": "0250PM"
+        },
+        {
+            "days": "R",
+            "startTime": "1200PM",
+            "endTime": "0250PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "1000AM",
+            "endTime": "1050AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "1100AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "R",
+            "startTime": "1200PM",
+            "endTime": "0250PM"
+        },
+        {
+            "days": "T",
+            "startTime": "1200PM",
+            "endTime": "0250PM"
+        }
+    ],
+    "cm 121 - Fundmnt Construct Estimat - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "0500PM",
+            "endTime": "0550PM"
+        },
+        {
+            "days": "M",
+            "startTime": "0600PM",
+            "endTime": "0850PM"
+        },
+        {
+            "days": "W",
+            "startTime": "0600PM",
+            "endTime": "0850PM"
+        },
+        {
+            "days": "M",
+            "startTime": "0600PM",
+            "endTime": "0850PM"
+        }
+    ],
+    "cm 124 - Engineering Construction - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0800AM",
+            "endTime": "0850AM"
+        },
+        {
+            "days": "T",
+            "startTime": "0900AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "W",
+            "startTime": "1000AM",
+            "endTime": "1250PM"
+        }
+    ],
+    "cm 125 - Advanced Estimating+Bid - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "0730AM",
+            "endTime": "0820AM"
+        },
+        {
+            "days": "W",
+            "startTime": "0600PM",
+            "endTime": "0850PM"
+        },
+        {
+            "days": "W",
+            "startTime": "0600PM",
+            "endTime": "0850PM"
+        }
+    ],
+    "cm 126 - Constr Project Management - 3 Units": [
+        {
+            "days": "W",
+            "startTime": "0700AM",
+            "endTime": "0950AM"
+        }
+    ],
+    "cm 127 - Plan,Scheduling+Control - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "0430PM",
+            "endTime": "0545PM"
+        }
+    ],
+    "cm 129 - Senior Project - 3 Units": [
+        {
+            "days": "W",
+            "startTime": "0600PM",
+            "endTime": "0850PM"
+        }
+    ],
+    "cm 130 - Struc I Des Prin+Strc Stl - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "0730AM",
+            "endTime": "0845AM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0730AM",
+            "endTime": "0845AM"
+        }
+    ],
+    "cm 135 - Soils+Foundations - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0100PM",
+            "endTime": "0150PM"
+        },
+        {
+            "days": "T",
+            "startTime": "0200PM",
+            "endTime": "0450PM"
+        },
+        {
+            "days": "R",
+            "startTime": "0200PM",
+            "endTime": "0450PM"
+        }
+    ],
+    "cm 136 - Principle Mech+Elec Engr - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0630PM",
+            "endTime": "0745PM"
+        }
+    ],
+    "cm 140 - Struc II-Tmbr+Formwk Dsgn - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0730AM",
+            "endTime": "0845AM"
+        }
+    ],
+    "cm 150 - Struc III Reinf Con &  Masonry - 3 Units": [
+        {
+            "days": "T",
+            "startTime": "0330PM",
+            "endTime": "0620PM"
+        }
+    ],
+    "cm 196D - Virtual Design & Construction - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "0300PM",
+            "endTime": "0415PM"
+        }
+    ],
+    "cm 296A - Sustainable Design and Const. - 3 Units": [
+        {
+            "days": "T",
+            "startTime": "0300PM",
+            "endTime": "0550PM"
+        }
+    ]
+}

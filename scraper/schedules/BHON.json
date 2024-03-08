@@ -1,0 +1,65 @@
+{
+    "bhon 102 - Business Communication - 2 Units": [
+        {
+            "days": "MW",
+            "startTime": "0100PM",
+            "endTime": "0250PM"
+        }
+    ],
+    "bhon 104 - Fundamentals of Org  Behavior - 2 Units": [
+        {
+            "days": "MW",
+            "startTime": "0100PM",
+            "endTime": "0250PM"
+        }
+    ],
+    "bhon 105 - Intro Mgmt Info Systems - 2 Units": [
+        {
+            "days": "MW",
+            "startTime": "1000AM",
+            "endTime": "1150AM"
+        }
+    ],
+    "bhon 106 - Business Data Analysis - 2 Units": [
+        {
+            "days": "TR",
+            "startTime": "0100PM",
+            "endTime": "0250PM"
+        }
+    ],
+    "bhon 107 - Business Finance - 2 Units": [
+        {
+            "days": "TR",
+            "startTime": "1000AM",
+            "endTime": "1150AM"
+        }
+    ],
+    "bhon 108 - Fundamentals in Marketing - 2 Units": [
+        {
+            "days": "TR",
+            "startTime": "1000AM",
+            "endTime": "1150AM"
+        }
+    ],
+    "bhon 109 - Operations Management - 2 Units": [
+        {
+            "days": "TR",
+            "startTime": "0100PM",
+            "endTime": "0250PM"
+        }
+    ],
+    "bhon 130 - Value Chain Supply Chain Mgmt - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0300PM",
+            "endTime": "0415PM"
+        }
+    ],
+    "bhon 140 - Enter Res Planning & Infrstrc - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0430PM",
+            "endTime": "0545PM"
+        }
+    ]
+}

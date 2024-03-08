@@ -1,0 +1,54 @@
+{
+    "ital 1A - Elementary Italian - 4 Units": [
+        {
+            "days": "TR",
+            "startTime": "1030AM",
+            "endTime": "1120AM"
+        },
+        {
+            "days": "MW",
+            "startTime": "1100AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "MTWR",
+            "startTime": "0300PM",
+            "endTime": "0350PM"
+        }
+    ],
+    "ital 1B - Elementary Italian - 4 Units": [
+        {
+            "days": "MTWR",
+            "startTime": "0400PM",
+            "endTime": "0450PM"
+        }
+    ],
+    "ital 2A - Intermediate Italian - 4 Units": [
+        {
+            "days": "MTWR",
+            "startTime": "1200PM",
+            "endTime": "1250PM"
+        }
+    ],
+    "ital 102 - Italian Adv Conversation - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0900AM",
+            "endTime": "1015AM"
+        }
+    ],
+    "ital 104A - Intro To Ital Cinema I - 3 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "ital 199 - Special Problems - 3 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ]
+}

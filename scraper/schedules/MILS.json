@@ -1,0 +1,89 @@
+{
+    "mils 14 - Intro Military Science I - 1 Units": [
+        {
+            "days": "T",
+            "startTime": "0830AM",
+            "endTime": "0945AM"
+        },
+        {
+            "days": "W",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        }
+    ],
+    "mils 24 - Principle+Tactics Soldier - 1 Units": [
+        {
+            "days": "W",
+            "startTime": "1015AM",
+            "endTime": "1215PM"
+        },
+        {
+            "days": "W",
+            "startTime": "0300PM",
+            "endTime": "0500PM"
+        }
+    ],
+    "mils 99 - Special Problems - 1 Units": [
+        {
+            "days": "W",
+            "startTime": "0300PM",
+            "endTime": "0500PM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "0630AM",
+            "endTime": "0730AM"
+        }
+    ],
+    "mils 134 - Principles Of Instruction - 2 Units": [
+        {
+            "days": "T",
+            "startTime": "0115PM",
+            "endTime": "0315PM"
+        },
+        {
+            "days": "W",
+            "startTime": "0200PM",
+            "endTime": "0500PM"
+        },
+        {
+            "days": "W",
+            "startTime": "0200PM",
+            "endTime": "0500PM"
+        },
+        {
+            "days": "M",
+            "startTime": "0900AM",
+            "endTime": "1100AM"
+        }
+    ],
+    "mils 144 - Principles Military Admin - 2 Units": [
+        {
+            "days": "W",
+            "startTime": "0300PM",
+            "endTime": "0500PM"
+        },
+        {
+            "days": "T",
+            "startTime": "1000AM",
+            "endTime": "0100PM"
+        },
+        {
+            "days": "W",
+            "startTime": "0300PM",
+            "endTime": "0500PM"
+        },
+        {
+            "days": "M",
+            "startTime": "0200PM",
+            "endTime": "0500PM"
+        }
+    ],
+    "mils 199 - Special Problems - 1 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ]
+}

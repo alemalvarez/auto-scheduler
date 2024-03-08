@@ -1,0 +1,597 @@
+{
+    "phys 5A - Gen Phys-Mech,Heat,Sound - 4 Units": [
+        {
+            "days": "MW",
+            "startTime": "0800AM",
+            "endTime": "0850AM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0900AM",
+            "endTime": "0925AM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0925AM",
+            "endTime": "1050AM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0300PM",
+            "endTime": "0325PM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0325PM",
+            "endTime": "0450PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "1200PM",
+            "endTime": "1225PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "1225PM",
+            "endTime": "0150PM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0400PM",
+            "endTime": "0450PM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0500PM",
+            "endTime": "0525PM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0525PM",
+            "endTime": "0650PM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0700PM",
+            "endTime": "0725PM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0725PM",
+            "endTime": "0850PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0600PM",
+            "endTime": "0625PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0625PM",
+            "endTime": "0750PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0800AM",
+            "endTime": "0850AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "1000AM",
+            "endTime": "1025AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "1025AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0200PM",
+            "endTime": "0225PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0225PM",
+            "endTime": "0350PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0400PM",
+            "endTime": "0425PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0425PM",
+            "endTime": "0550PM"
+        },
+        {
+            "days": "MW",
+            "startTime": "1000AM",
+            "endTime": "1050AM"
+        },
+        {
+            "days": "MW",
+            "startTime": "1100AM",
+            "endTime": "1125AM"
+        },
+        {
+            "days": "MW",
+            "startTime": "1125AM",
+            "endTime": "1250PM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0100PM",
+            "endTime": "0125PM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0125PM",
+            "endTime": "0250PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0800AM",
+            "endTime": "0825AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0825AM",
+            "endTime": "0950AM"
+        }
+    ],
+    "phys 5B - Gen Phys-Lgt,Elec,Mag,Phy - 4 Units": [
+        {
+            "days": "MW",
+            "startTime": "1200PM",
+            "endTime": "1250PM"
+        },
+        {
+            "days": "F",
+            "startTime": "1200PM",
+            "endTime": "1250PM"
+        },
+        {
+            "days": "M",
+            "startTime": "0230PM",
+            "endTime": "0520PM"
+        },
+        {
+            "days": "T",
+            "startTime": "1030AM",
+            "endTime": "0120PM"
+        },
+        {
+            "days": "W",
+            "startTime": "0900AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "W",
+            "startTime": "0200PM",
+            "endTime": "0450PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0900AM",
+            "endTime": "0950AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0950AM",
+            "endTime": "1015AM"
+        },
+        {
+            "days": "M",
+            "startTime": "1130AM",
+            "endTime": "0220PM"
+        },
+        {
+            "days": "T",
+            "startTime": "0130PM",
+            "endTime": "0420PM"
+        },
+        {
+            "days": "R",
+            "startTime": "1030AM",
+            "endTime": "0120PM"
+        },
+        {
+            "days": "R",
+            "startTime": "0200PM",
+            "endTime": "0450PM"
+        }
+    ],
+    "phys 10 - Physics In Our World - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "0530PM",
+            "endTime": "0645PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0530PM",
+            "endTime": "0645PM"
+        }
+    ],
+    "phys 11A - Gen Phys-Mechanics - 4 Units": [
+        {
+            "days": "MW",
+            "startTime": "0900AM",
+            "endTime": "0950AM"
+        },
+        {
+            "days": "F",
+            "startTime": "0900AM",
+            "endTime": "0950AM"
+        },
+        {
+            "days": "M",
+            "startTime": "0300PM",
+            "endTime": "0550PM"
+        },
+        {
+            "days": "T",
+            "startTime": "1200PM",
+            "endTime": "0250PM"
+        },
+        {
+            "days": "T",
+            "startTime": "0300PM",
+            "endTime": "0550PM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0200PM",
+            "endTime": "0250PM"
+        },
+        {
+            "days": "F",
+            "startTime": "0200PM",
+            "endTime": "0250PM"
+        },
+        {
+            "days": "R",
+            "startTime": "0900AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "R",
+            "startTime": "1200PM",
+            "endTime": "0250PM"
+        },
+        {
+            "days": "R",
+            "startTime": "0300PM",
+            "endTime": "0550PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "1030AM",
+            "endTime": "1120AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "1120AM",
+            "endTime": "1145AM"
+        },
+        {
+            "days": "W",
+            "startTime": "0900AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "W",
+            "startTime": "1200PM",
+            "endTime": "0250PM"
+        },
+        {
+            "days": "W",
+            "startTime": "0300PM",
+            "endTime": "0550PM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0200PM",
+            "endTime": "0250PM"
+        },
+        {
+            "days": "F",
+            "startTime": "0200PM",
+            "endTime": "0250PM"
+        },
+        {
+            "days": "R",
+            "startTime": "0600PM",
+            "endTime": "0850PM"
+        },
+        {
+            "days": "F",
+            "startTime": "0800AM",
+            "endTime": "1050AM"
+        },
+        {
+            "days": "F",
+            "startTime": "1100AM",
+            "endTime": "0150PM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0900AM",
+            "endTime": "0950AM"
+        },
+        {
+            "days": "F",
+            "startTime": "0900AM",
+            "endTime": "0950AM"
+        }
+    ],
+    "phys 11B - Gen Phys-Heat, Waves, Mod - 4 Units": [
+        {
+            "days": "MW",
+            "startTime": "1100AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "F",
+            "startTime": "1100AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "M",
+            "startTime": "0800AM",
+            "endTime": "1050AM"
+        }
+    ],
+    "phys 11C - Gen Phys-Elect & Mag - 4 Units": [
+        {
+            "days": "TR",
+            "startTime": "1200PM",
+            "endTime": "1250PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "1250PM",
+            "endTime": "0115PM"
+        },
+        {
+            "days": "R",
+            "startTime": "0130PM",
+            "endTime": "0420PM"
+        },
+        {
+            "days": "F",
+            "startTime": "0800AM",
+            "endTime": "1050AM"
+        },
+        {
+            "days": "F",
+            "startTime": "1100AM",
+            "endTime": "0150PM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0100PM",
+            "endTime": "0150PM"
+        },
+        {
+            "days": "F",
+            "startTime": "0100PM",
+            "endTime": "0150PM"
+        },
+        {
+            "days": "T",
+            "startTime": "0730AM",
+            "endTime": "1020AM"
+        },
+        {
+            "days": "T",
+            "startTime": "1030AM",
+            "endTime": "0120PM"
+        },
+        {
+            "days": "R",
+            "startTime": "1030AM",
+            "endTime": "0120PM"
+        }
+    ],
+    "phys 30 - Science+Pseudoscience - 3 Units": [
+        {
+            "days": "MWF",
+            "startTime": "0900AM",
+            "endTime": "0950AM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "0100PM",
+            "endTime": "0150PM"
+        }
+    ],
+    "phys 99 - Special Problems - 3 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "phys 105 - Math Methods In Physics - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "1030AM",
+            "endTime": "1145AM"
+        }
+    ],
+    "phys 106 - Intro To Modern Physics - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "0400PM",
+            "endTime": "0515PM"
+        }
+    ],
+    "phys 107 - Conceptl Physics+Inquiry - 4 Units": [
+        {
+            "days": "MW",
+            "startTime": "0900AM",
+            "endTime": "0950AM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0950AM",
+            "endTime": "1130AM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0100PM",
+            "endTime": "0150PM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0150PM",
+            "endTime": "0330PM"
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "TR",
+            "startTime": "0100PM",
+            "endTime": "0150PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0150PM",
+            "endTime": "0330PM"
+        }
+    ],
+    "phys 115 - Electronics+Instrumentatn - 4 Units": [
+        {
+            "days": "TR",
+            "startTime": "1200PM",
+            "endTime": "1250PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0100PM",
+            "endTime": "0350PM"
+        }
+    ],
+    "phys 136 - Electrodynamics - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "0400PM",
+            "endTime": "0515PM"
+        }
+    ],
+    "phys 150 - Quantum Mechanics - 3 Units": [
+        {
+            "days": "MWF",
+            "startTime": "0300PM",
+            "endTime": "0350PM"
+        }
+    ],
+    "phys 156 - Classical+Statistical Mech - 3 Units": [
+        {
+            "days": "MWF",
+            "startTime": "1000AM",
+            "endTime": "1050AM"
+        }
+    ],
+    "phys 162 - Sci Comp: Basic Methods - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "0100PM",
+            "endTime": "0215PM"
+        }
+    ],
+    "phys 172 - Biological Physics - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0900AM",
+            "endTime": "1015AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0300PM",
+            "endTime": "0415PM"
+        }
+    ],
+    "phys 175 - Adv Physics Laboratory - 2 Units": [
+        {
+            "days": "TR",
+            "startTime": "0900AM",
+            "endTime": "1150AM"
+        }
+    ],
+    "phys 181 - Mod Phys for Everyone - 3 Units": [
+        {
+            "days": "MWF",
+            "startTime": "1100AM",
+            "endTime": "1150AM"
+        }
+    ],
+    "phys 182 - Physics of Sports - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        }
+    ],
+    "phys 184 - Phys of Energy and Env - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "1030AM",
+            "endTime": "1145AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        }
+    ],
+    "phys 187 - Seeing the Light - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0900AM",
+            "endTime": "1015AM"
+        }
+    ],
+    "phys 190 - Physics Seminar - 2 Units": [
+        {
+            "days": "TR",
+            "startTime": "0400PM",
+            "endTime": "0520PM"
+        }
+    ],
+    "phys 191 - Senior Project - 2 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "phys 199 - Special Problems - 3 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ]
+}

@@ -1,0 +1,305 @@
+{
+    "stat 1 - Intro To Statistics - 3 Units": [
+        {
+            "days": "MWF",
+            "startTime": "0800AM",
+            "endTime": "0850AM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "0800AM",
+            "endTime": "0850AM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "0900AM",
+            "endTime": "0950AM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "0900AM",
+            "endTime": "0950AM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "1000AM",
+            "endTime": "1050AM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "1000AM",
+            "endTime": "1050AM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "1100AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "1100AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "1200PM",
+            "endTime": "1250PM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "0100PM",
+            "endTime": "0150PM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "0100PM",
+            "endTime": "0150PM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "0200PM",
+            "endTime": "0250PM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "0200PM",
+            "endTime": "0250PM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "0200PM",
+            "endTime": "0250PM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "1200PM",
+            "endTime": "1250PM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0530PM",
+            "endTime": "0645PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0730AM",
+            "endTime": "0845AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0900AM",
+            "endTime": "1015AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0900AM",
+            "endTime": "1015AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "1030AM",
+            "endTime": "1145AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "1030AM",
+            "endTime": "1145AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "1030AM",
+            "endTime": "1145AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0530PM",
+            "endTime": "0645PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "1000AM",
+            "endTime": "1050AM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0400PM",
+            "endTime": "0515PM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0400PM",
+            "endTime": "0515PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0400PM",
+            "endTime": "0515PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0400PM",
+            "endTime": "0515PM"
+        }
+    ],
+    "stat 10A - Intro Stat I w/ Dev. Math - 3 Units": [
+        {
+            "days": "MWF",
+            "startTime": "0900AM",
+            "endTime": "0950AM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "1100AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "0100PM",
+            "endTime": "0150PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        }
+    ],
+    "stat 10B - Intro Stat II w/ Dev. Math - 3 Units": [
+        {
+            "days": "MWF",
+            "startTime": "0900AM",
+            "endTime": "0950AM"
+        }
+    ],
+    "stat 50 - Intro Probability+Stat - 4 Units": [
+        {
+            "days": "MWF",
+            "startTime": "0800AM",
+            "endTime": "0850AM"
+        },
+        {
+            "days": "T",
+            "startTime": "0800AM",
+            "endTime": "0850AM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "0900AM",
+            "endTime": "0950AM"
+        },
+        {
+            "days": "T",
+            "startTime": "0900AM",
+            "endTime": "0950AM"
+        },
+        {
+            "days": "T",
+            "startTime": "1030AM",
+            "endTime": "1120AM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "1000AM",
+            "endTime": "1050AM"
+        },
+        {
+            "days": "R",
+            "startTime": "1030AM",
+            "endTime": "1120AM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "1100AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "0100PM",
+            "endTime": "0150PM"
+        },
+        {
+            "days": "R",
+            "startTime": "0130PM",
+            "endTime": "0220PM"
+        },
+        {
+            "days": "T",
+            "startTime": "0130PM",
+            "endTime": "0220PM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "0200PM",
+            "endTime": "0250PM"
+        },
+        {
+            "days": "R",
+            "startTime": "0400PM",
+            "endTime": "0515PM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0400PM",
+            "endTime": "0515PM"
+        }
+    ],
+    "stat 115A - Intro Probability Theory - 3 Units": [
+        {
+            "days": "MWF",
+            "startTime": "1100AM",
+            "endTime": "1150AM"
+        }
+    ],
+    "stat 115B - Intro Math Statistics - 3 Units": [
+        {
+            "days": "MWF",
+            "startTime": "0200PM",
+            "endTime": "0250PM"
+        }
+    ],
+    "stat 128 - Statistical Computing - 3 Units": [
+        {
+            "days": "MWF",
+            "startTime": "1200PM",
+            "endTime": "1250PM"
+        }
+    ],
+    "stat 140A - Linear Models - 3 Units": [
+        {
+            "days": "MWF",
+            "startTime": "1000AM",
+            "endTime": "1050AM"
+        }
+    ],
+    "stat 299 - Special Problems - 6 Units": [
+        {
+            "days": "TR",
+            "startTime": "0300PM",
+            "endTime": "0415PM"
+        }
+    ]
+}

@@ -1,0 +1,548 @@
+{
+    "pols 1 - Essentials Of Government - 3 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "TR",
+            "startTime": "0730AM",
+            "endTime": "0845AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0430PM",
+            "endTime": "0545PM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "0800AM",
+            "endTime": "0850AM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "0800AM",
+            "endTime": "0850AM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "0900AM",
+            "endTime": "0950AM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "0900AM",
+            "endTime": "0950AM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "1000AM",
+            "endTime": "1050AM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "1000AM",
+            "endTime": "1050AM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "1100AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "1100AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "MW",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0900AM",
+            "endTime": "1015AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "1030AM",
+            "endTime": "1145AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0530PM",
+            "endTime": "0645PM"
+        },
+        {
+            "days": "M",
+            "startTime": "0700PM",
+            "endTime": "0950PM"
+        },
+        {
+            "days": "M",
+            "startTime": "0700PM",
+            "endTime": "0950PM"
+        },
+        {
+            "days": "T",
+            "startTime": "0700PM",
+            "endTime": "0950PM"
+        },
+        {
+            "days": "W",
+            "startTime": "0700PM",
+            "endTime": "0950PM"
+        },
+        {
+            "days": "R",
+            "startTime": "0700PM",
+            "endTime": "0950PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0900AM",
+            "endTime": "1015AM"
+        }
+    ],
+    "pols 1H - Honors Government - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "1030AM",
+            "endTime": "1145AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        }
+    ],
+    "pols 10 - Meaning Of Government - 3 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "pols 35 - World Politics - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0900AM",
+            "endTime": "1015AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0300PM",
+            "endTime": "0415PM"
+        }
+    ],
+    "pols 100 - Intro Rsrch Meth Pol Sci - 3 Units": [
+        {
+            "days": "MWF",
+            "startTime": "1100AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "MW",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0300PM",
+            "endTime": "0415PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0530PM",
+            "endTime": "0645PM"
+        }
+    ],
+    "pols 111 - Political Thought II - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        }
+    ],
+    "pols 112 - Current Political Thought - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "1030AM",
+            "endTime": "1145AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        }
+    ],
+    "pols 113 - American Political Thought - 3 Units": [
+        {
+            "days": "MWF",
+            "startTime": "0800AM",
+            "endTime": "0850AM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "1000AM",
+            "endTime": "1050AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0300PM",
+            "endTime": "0415PM"
+        }
+    ],
+    "pols 115 - Democratic Theory - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0900AM",
+            "endTime": "1015AM"
+        }
+    ],
+    "pols 120A - Constitutional Law - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0900AM",
+            "endTime": "1015AM"
+        }
+    ],
+    "pols 120B - Constitutnal Rights & Libert - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        }
+    ],
+    "pols 123 - Elements Of Law - 3 Units": [
+        {
+            "days": "MWF",
+            "startTime": "1100AM",
+            "endTime": "1150AM"
+        }
+    ],
+    "pols 126 - Politics and Lawyers - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "0300PM",
+            "endTime": "0415PM"
+        }
+    ],
+    "pols 127 - International Law - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "1030AM",
+            "endTime": "1145AM"
+        }
+    ],
+    "pols 130 - International Politics - 3 Units": [
+        {
+            "days": "MWF",
+            "startTime": "0800AM",
+            "endTime": "0850AM"
+        },
+        {
+            "days": "MW",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        },
+        {
+            "days": "M",
+            "startTime": "0530PM",
+            "endTime": "0820PM"
+        }
+    ],
+    "pols 136 - Intl Political Economy - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "0300PM",
+            "endTime": "0415PM"
+        }
+    ],
+    "pols 138 - U.N. Simulation - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "0530PM",
+            "endTime": "0645PM"
+        }
+    ],
+    "pols 139A - Globalization - 3 Units": [
+        {
+            "days": "T",
+            "startTime": "0530PM",
+            "endTime": "0820PM"
+        }
+    ],
+    "pols 139E - Int. Conflict & Ethnicity - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        }
+    ],
+    "pols 139G - Intelligence+Espionage - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0300PM",
+            "endTime": "0415PM"
+        }
+    ],
+    "pols 140 - Comparative Politics - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "0900AM",
+            "endTime": "0950AM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "1000AM",
+            "endTime": "1050AM"
+        }
+    ],
+    "pols 143 - Causes of War, Causes of Peace - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        }
+    ],
+    "pols 144 - European Politics - 3 Units": [
+        {
+            "days": "MWF",
+            "startTime": "1100AM",
+            "endTime": "1150AM"
+        }
+    ],
+    "pols 148 - Govt+Politics Middle East - 3 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "pols 149A - Research Comparative Politics - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        }
+    ],
+    "pols 150 - American Governments - 3 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "MW",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0900AM",
+            "endTime": "1015AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        }
+    ],
+    "pols 154 - Political Parties in America - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        }
+    ],
+    "pols 155 - United States Congress - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "0300PM",
+            "endTime": "0415PM"
+        }
+    ],
+    "pols 159A - Campaigns and Elections - 3 Units": [
+        {
+            "days": "MWF",
+            "startTime": "0900AM",
+            "endTime": "0950AM"
+        }
+    ],
+    "pols 163 - Black Politics in the U.S. - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "1030AM",
+            "endTime": "1145AM"
+        }
+    ],
+    "pols 165 - Politics - Underrepresented - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        }
+    ],
+    "pols 166 - Gender and Politics - 3 Units": [
+        {
+            "days": "W",
+            "startTime": "0530PM",
+            "endTime": "0820PM"
+        }
+    ],
+    "pols 170 - Public Policy Development - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0300PM",
+            "endTime": "0415PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0300PM",
+            "endTime": "0415PM"
+        }
+    ],
+    "pols 180 - Calif State+Local Govt - 3 Units": [
+        {
+            "days": "MWF",
+            "startTime": "0800AM",
+            "endTime": "0850AM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "1000AM",
+            "endTime": "1050AM"
+        }
+    ],
+    "pols 195A - Internship - 6 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "pols 198A - Odyssey Peer Advisers - 1 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "pols 198B - Peer Advising by Odyssey - 1 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "pols 201 - Writing in Political Science - 3 Units": [
+        {
+            "days": "M",
+            "startTime": "0600PM",
+            "endTime": "0850PM"
+        }
+    ],
+    "pols 213 - Special Topics  Am Pol Thought - 3 Units": [
+        {
+            "days": "T",
+            "startTime": "0600PM",
+            "endTime": "0850PM"
+        }
+    ],
+    "pols 249A - Middle East Politics+U.S. - 3 Units": [
+        {
+            "days": "W",
+            "startTime": "0600PM",
+            "endTime": "0850PM"
+        }
+    ],
+    "pols 280 - California Politics - 3 Units": [
+        {
+            "days": "R",
+            "startTime": "0600PM",
+            "endTime": "0850PM"
+        }
+    ],
+    "pols 284 - Urban Politics - 3 Units": [
+        {
+            "days": "R",
+            "startTime": "0600PM",
+            "endTime": "0850PM"
+        }
+    ],
+    "pols 500 - Culminating Experience - 3 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ]
+}

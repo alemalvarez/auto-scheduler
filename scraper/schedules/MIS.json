@@ -1,0 +1,176 @@
+{
+    "mis 10 - Business Applications - 2 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "M",
+            "startTime": "0900AM",
+            "endTime": "0950AM"
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "W",
+            "startTime": "0900AM",
+            "endTime": "0950AM"
+        },
+        {
+            "days": "F",
+            "startTime": "0900AM",
+            "endTime": "0950AM"
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "M",
+            "startTime": "1000AM",
+            "endTime": "1050AM"
+        }
+    ],
+    "mis 15 - Intro To Business Progrm - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        }
+    ],
+    "mis 101 - Computer Info System Mgmt - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0300PM",
+            "endTime": "0415PM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0430PM",
+            "endTime": "0545PM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0600PM",
+            "endTime": "0715PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0900AM",
+            "endTime": "1015AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "1030AM",
+            "endTime": "1145AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0430PM",
+            "endTime": "0545PM"
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "mis 120 - Adv Oo Bus Programming - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        }
+    ],
+    "mis 125 - Mobile Business Applications - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0300PM",
+            "endTime": "0415PM"
+        }
+    ],
+    "mis 140 - Business Data Communication - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0300PM",
+            "endTime": "0415PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0430PM",
+            "endTime": "0545PM"
+        }
+    ],
+    "mis 150 - Database Systems Business - 3 Units": [
+        {
+            "days": "W",
+            "startTime": "0600PM",
+            "endTime": "0850PM"
+        },
+        {
+            "days": "MW",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        }
+    ],
+    "mis 160 - Systems Development Life Cycle - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0430PM",
+            "endTime": "0545PM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0600PM",
+            "endTime": "0715PM"
+        }
+    ],
+    "mis 161 - Information Systems Practicum - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0600PM",
+            "endTime": "0715PM"
+        }
+    ],
+    "mis 170 - Information Systems Security - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "0430PM",
+            "endTime": "0545PM"
+        }
+    ],
+    "mis 171 - ERP Systems - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "0730PM",
+            "endTime": "0845PM"
+        }
+    ],
+    "mis 183 - Business Intelligence Applicat - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "0900AM",
+            "endTime": "1015AM"
+        }
+    ]
+}

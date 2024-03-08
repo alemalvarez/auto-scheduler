@@ -1,0 +1,123 @@
+{
+    "epsy 201 - Legal Aspects Of Spec Ed - 3 Units": [
+        {
+            "days": "W",
+            "startTime": "0400PM",
+            "endTime": "0650PM"
+        },
+        {
+            "days": "W",
+            "startTime": "0400PM",
+            "endTime": "0650PM"
+        }
+    ],
+    "epsy 221 - Equity Considerations - 3 Units": [
+        {
+            "days": "T",
+            "startTime": "0900AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "T",
+            "startTime": "0900AM",
+            "endTime": "1150AM"
+        }
+    ],
+    "epsy 231 - Group Process In Sch Psyc - 3 Units": [
+        {
+            "days": "W",
+            "startTime": "0900AM",
+            "endTime": "1150AM"
+        }
+    ],
+    "epsy 239 - Ed Specialist Seminar - 3 Units": [
+        {
+            "days": "T",
+            "startTime": "0700PM",
+            "endTime": "0950PM"
+        },
+        {
+            "days": "T",
+            "startTime": "0700PM",
+            "endTime": "0950PM"
+        }
+    ],
+    "epsy 240 - Functnl Assessment Behavr - 3 Units": [
+        {
+            "days": "W",
+            "startTime": "0900AM",
+            "endTime": "1150AM"
+        }
+    ],
+    "epsy 243A - Assessment Practicum A - 3 Units": [
+        {
+            "days": "T",
+            "startTime": "0800AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "T",
+            "startTime": "1200PM",
+            "endTime": "0350PM"
+        },
+        {
+            "days": "R",
+            "startTime": "0800AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "T",
+            "startTime": "1200PM",
+            "endTime": "0350PM"
+        }
+    ],
+    "epsy 244 - Soc,Emotionl+Beh Assessmt - 3 Units": [
+        {
+            "days": "W",
+            "startTime": "0100PM",
+            "endTime": "0350PM"
+        }
+    ],
+    "epsy 245 - Psychology In The Schools - 3 Units": [
+        {
+            "days": "M",
+            "startTime": "0900AM",
+            "endTime": "1150AM"
+        }
+    ],
+    "epsy 246A - Preven Academ Interventn - 3 Units": [
+        {
+            "days": "M",
+            "startTime": "0400PM",
+            "endTime": "0650PM"
+        }
+    ],
+    "epsy 248 - Human Development+Learn - 3 Units": [
+        {
+            "days": "M",
+            "startTime": "0100PM",
+            "endTime": "0350PM"
+        }
+    ],
+    "epsy 439A - Early Fieldwork in School Psyc - 1 Units": [
+        {
+            "days": "T",
+            "startTime": "0400PM",
+            "endTime": "0650PM"
+        }
+    ],
+    "epsy 441A - Internship in School Psych - 3 Units": [
+        {
+            "days": "T",
+            "startTime": "0400PM",
+            "endTime": "0650PM"
+        }
+    ],
+    "epsy 441C - Internship School Psychology - 3 Units": [
+        {
+            "days": "T",
+            "startTime": "0400PM",
+            "endTime": "0650PM"
+        }
+    ]
+}

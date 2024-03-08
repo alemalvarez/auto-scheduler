@@ -1,0 +1,627 @@
+{
+    "ethn 10 - Africa-Myths+Realities - 3 Units": [
+        {
+            "days": "MWF",
+            "startTime": "0200PM",
+            "endTime": "0250PM"
+        }
+    ],
+    "ethn 11 - Intro to Ethnic Studies - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0900AM",
+            "endTime": "1015AM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "0200PM",
+            "endTime": "0250PM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "1100AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "0900AM",
+            "endTime": "0950AM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "0100PM",
+            "endTime": "0150PM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "0800AM",
+            "endTime": "0850AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0730AM",
+            "endTime": "0845AM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "0900AM",
+            "endTime": "0950AM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "0200PM",
+            "endTime": "0250PM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "0400PM",
+            "endTime": "0450PM"
+        }
+    ],
+    "ethn 11H - Intro Ethnic Studies (Honors) - 3 Units": [
+        {
+            "days": "MWF",
+            "startTime": "0200PM",
+            "endTime": "0250PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        }
+    ],
+    "ethn 14 - Intro To Asian Am Studies - 3 Units": [
+        {
+            "days": "MWF",
+            "startTime": "0800AM",
+            "endTime": "0850AM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "1000AM",
+            "endTime": "1050AM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "0900AM",
+            "endTime": "0950AM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "1200PM",
+            "endTime": "1250PM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "0100PM",
+            "endTime": "0150PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0900AM",
+            "endTime": "1015AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "1030AM",
+            "endTime": "1145AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0300PM",
+            "endTime": "0415PM"
+        }
+    ],
+    "ethn 30 - Chicano/Latino Studies - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "1030AM",
+            "endTime": "1145AM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "0100PM",
+            "endTime": "0150PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "1030AM",
+            "endTime": "1145AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0300PM",
+            "endTime": "0415PM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "0300PM",
+            "endTime": "0350PM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "0800AM",
+            "endTime": "0850AM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "1000AM",
+            "endTime": "1050AM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "1200PM",
+            "endTime": "1250PM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "0200PM",
+            "endTime": "0250PM"
+        },
+        {
+            "days": "T",
+            "startTime": "0530PM",
+            "endTime": "0820PM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "0200PM",
+            "endTime": "0250PM"
+        }
+    ],
+    "ethn 53 - Intro Native Amer Studies - 3 Units": [
+        {
+            "days": "MWF",
+            "startTime": "0300PM",
+            "endTime": "0350PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "1200PM",
+            "endTime": "1250PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "1030AM",
+            "endTime": "1145AM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "1100AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "0900AM",
+            "endTime": "0950AM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "1000AM",
+            "endTime": "1050AM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "0400PM",
+            "endTime": "0450PM"
+        }
+    ],
+    "ethn 70 - Intro Pan African Studies - 3 Units": [
+        {
+            "days": "MWF",
+            "startTime": "1000AM",
+            "endTime": "1050AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "1200PM",
+            "endTime": "1250PM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "0200PM",
+            "endTime": "0250PM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "0300PM",
+            "endTime": "0350PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0900AM",
+            "endTime": "1015AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "0800AM",
+            "endTime": "0850AM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "0900AM",
+            "endTime": "0950AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "1030AM",
+            "endTime": "1145AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0300PM",
+            "endTime": "0415PM"
+        }
+    ],
+    "ethn 72 - Blk Images in Popular Culture - 3 Units": [
+        {
+            "days": "MWF",
+            "startTime": "0100PM",
+            "endTime": "0150PM"
+        }
+    ],
+    "ethn 98 - Co-Curricular Activities - 3 Units": [
+        {
+            "days": "F",
+            "startTime": "0430PM",
+            "endTime": "0720PM"
+        }
+    ],
+    "ethn 100 - Ethnic America - 3 Units": [
+        {
+            "days": "MWF",
+            "startTime": "0300PM",
+            "endTime": "0350PM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "0400PM",
+            "endTime": "0450PM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "1100AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0300PM",
+            "endTime": "0415PM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "0800AM",
+            "endTime": "0850AM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "0100PM",
+            "endTime": "0150PM"
+        },
+        {
+            "days": "T",
+            "startTime": "0530PM",
+            "endTime": "0820PM"
+        }
+    ],
+    "ethn 110 - Asian American Experience - 3 Units": [
+        {
+            "days": "MWF",
+            "startTime": "1200PM",
+            "endTime": "1250PM"
+        },
+        {
+            "days": "T",
+            "startTime": "0530PM",
+            "endTime": "0820PM"
+        }
+    ],
+    "ethn 112 - Contemp Asian Amer Issues - 3 Units": [
+        {
+            "days": "MWF",
+            "startTime": "0300PM",
+            "endTime": "0350PM"
+        }
+    ],
+    "ethn 113 - Asian Amer Communities - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        }
+    ],
+    "ethn 115 - Biracial+Multiracial Iden - 3 Units": [
+        {
+            "days": "MWF",
+            "startTime": "0200PM",
+            "endTime": "0250PM"
+        }
+    ],
+    "ethn 116 - Asian Am Pol+Publc Policy - 3 Units": [
+        {
+            "days": "MWF",
+            "startTime": "0100PM",
+            "endTime": "0150PM"
+        }
+    ],
+    "ethn 118 - Asian American Women - 3 Units": [
+        {
+            "days": "MWF",
+            "startTime": "1000AM",
+            "endTime": "1050AM"
+        }
+    ],
+    "ethn 122 - Sikh Amer & Globalization - 3 Units": [
+        {
+            "days": "M",
+            "startTime": "0530PM",
+            "endTime": "0820PM"
+        }
+    ],
+    "ethn 130 - Chicano/Mexican Am Exper - 3 Units": [
+        {
+            "days": "MWF",
+            "startTime": "1000AM",
+            "endTime": "1050AM"
+        },
+        {
+            "days": "W",
+            "startTime": "0400PM",
+            "endTime": "0650PM"
+        },
+        {
+            "days": "M",
+            "startTime": "0400PM",
+            "endTime": "0650PM"
+        }
+    ],
+    "ethn 131 - La Raza Studies - 3 Units": [
+        {
+            "days": "MWF",
+            "startTime": "0200PM",
+            "endTime": "0250PM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "1100AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "W",
+            "startTime": "0530PM",
+            "endTime": "0820PM"
+        }
+    ],
+    "ethn 132 - La Mujer Chicana - 3 Units": [
+        {
+            "days": "MWF",
+            "startTime": "0300PM",
+            "endTime": "0350PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0300PM",
+            "endTime": "0415PM"
+        }
+    ],
+    "ethn 133 - Cross-Cult Aging In Amer - 3 Units": [
+        {
+            "days": "MWF",
+            "startTime": "0300PM",
+            "endTime": "0350PM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "0100PM",
+            "endTime": "0150PM"
+        }
+    ],
+    "ethn 136 - U.S. Mexican Brdr Relatns - 3 Units": [
+        {
+            "days": "M",
+            "startTime": "0530PM",
+            "endTime": "0820PM"
+        }
+    ],
+    "ethn 137 - Race+Ethn Latin+Caribbean - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        }
+    ],
+    "ethn 140 - Native American Experienc - 3 Units": [
+        {
+            "days": "MWF",
+            "startTime": "1100AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0300PM",
+            "endTime": "0415PM"
+        }
+    ],
+    "ethn 141 - Politics African Diaspora - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0900AM",
+            "endTime": "1015AM"
+        }
+    ],
+    "ethn 142 - Native Amer Tribal Govt - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0900AM",
+            "endTime": "1015AM"
+        }
+    ],
+    "ethn 145 - Native Biography - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "1030AM",
+            "endTime": "1145AM"
+        }
+    ],
+    "ethn 150 - Native Oral Trad/Stories - 3 Units": [
+        {
+            "days": "MWF",
+            "startTime": "0100PM",
+            "endTime": "0150PM"
+        }
+    ],
+    "ethn 151 - Native American Women - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        }
+    ],
+    "ethn 155 - Genocide & Holocaust Stds - 3 Units": [
+        {
+            "days": "MWF",
+            "startTime": "0400PM",
+            "endTime": "0450PM"
+        },
+        {
+            "days": "T",
+            "startTime": "0530PM",
+            "endTime": "0820PM"
+        }
+    ],
+    "ethn 170 - Pan African Studies - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "1030AM",
+            "endTime": "1145AM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "0900AM",
+            "endTime": "0950AM"
+        }
+    ],
+    "ethn 171 - African Religion+Phil - 3 Units": [
+        {
+            "days": "MWF",
+            "startTime": "0300PM",
+            "endTime": "0350PM"
+        }
+    ],
+    "ethn 172 - Black Women In America - 3 Units": [
+        {
+            "days": "MWF",
+            "startTime": "0900AM",
+            "endTime": "0950AM"
+        }
+    ],
+    "ethn 179 - Black Music+Consciousness - 3 Units": [
+        {
+            "days": "MWF",
+            "startTime": "0200PM",
+            "endTime": "0250PM"
+        }
+    ],
+    "ethn 182 - Protest in Hip Hop - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        }
+    ],
+    "ethn 194 - Research Ethnic Studies - 3 Units": [
+        {
+            "days": "MWF",
+            "startTime": "1000AM",
+            "endTime": "1050AM"
+        }
+    ],
+    "ethn 195A - Ethnic Studies Fieldwork - 1 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "ethn 195B - Ethnic Studies Seminar - 2 Units": [
+        {
+            "days": "MW",
+            "startTime": "0900AM",
+            "endTime": "0950AM"
+        }
+    ],
+    "ethn 198 - Co-Curricular Activities - 3 Units": [
+        {
+            "days": "MWF",
+            "startTime": "0100PM",
+            "endTime": "0150PM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "0200PM",
+            "endTime": "0250PM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "0200PM",
+            "endTime": "0250PM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "0100PM",
+            "endTime": "0150PM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "0200PM",
+            "endTime": "0250PM"
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "ethn 199 - Special Problems - 3 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "M",
+            "startTime": "0200PM",
+            "endTime": "0450PM"
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ]
+}

@@ -1,0 +1,227 @@
+{
+    "gero 21 - First Year Seminar - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0300PM",
+            "endTime": "0415PM"
+        }
+    ],
+    "gero 100 - Aging Issues In Contem Am - 3 Units": [
+        {
+            "days": "M",
+            "startTime": "0530PM",
+            "endTime": "0820PM"
+        },
+        {
+            "days": "M",
+            "startTime": "0530PM",
+            "endTime": "0820PM"
+        }
+    ],
+    "gero 101 - Older Adult Svcs + Strat - 3 Units": [
+        {
+            "days": "R",
+            "startTime": "0530PM",
+            "endTime": "0820PM"
+        }
+    ],
+    "gero 102 - Soc Pol For An Aging Soc - 3 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "gero 103 - Care Mgmt Gero Practice - 3 Units": [
+        {
+            "days": "T",
+            "startTime": "0530PM",
+            "endTime": "0820PM"
+        }
+    ],
+    "gero 121 - Strategies for Optimal Aging - 3 Units": [
+        {
+            "days": "M",
+            "startTime": "0530PM",
+            "endTime": "0820PM"
+        },
+        {
+            "days": "M",
+            "startTime": "0530PM",
+            "endTime": "0820PM"
+        }
+    ],
+    "gero 122 - Healthcare in Older Adults - 3 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "gero 123 - Research on Aging - 3 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "gero 124 - Perspectives on Death & Dying - 3 Units": [
+        {
+            "days": "T",
+            "startTime": "0530PM",
+            "endTime": "0820PM"
+        }
+    ],
+    "gero 125 - California Aging Policy - 3 Units": [
+        {
+            "days": "R",
+            "startTime": "0530PM",
+            "endTime": "0820PM"
+        },
+        {
+            "days": "R",
+            "startTime": "0530PM",
+            "endTime": "0820PM"
+        }
+    ],
+    "gero 130 - Gerontology Practicum - 3 Units": [
+        {
+            "days": "F",
+            "startTime": "0900AM",
+            "endTime": "1100AM"
+        },
+        {
+            "days": "F",
+            "startTime": "0900AM",
+            "endTime": "1100AM"
+        },
+        {
+            "days": "F",
+            "startTime": "0900AM",
+            "endTime": "1100AM"
+        },
+        {
+            "days": "F",
+            "startTime": "0900AM",
+            "endTime": "1100AM"
+        },
+        {
+            "days": "F",
+            "startTime": "0900AM",
+            "endTime": "1100AM"
+        },
+        {
+            "days": "F",
+            "startTime": "0900AM",
+            "endTime": "1100AM"
+        },
+        {
+            "days": "F",
+            "startTime": "0900AM",
+            "endTime": "1100AM"
+        },
+        {
+            "days": "F",
+            "startTime": "0900AM",
+            "endTime": "1100AM"
+        }
+    ],
+    "gero 131 - Gerontology Capstone Practicum - 3 Units": [
+        {
+            "days": "F",
+            "startTime": "0900AM",
+            "endTime": "1100AM"
+        },
+        {
+            "days": "F",
+            "startTime": "0900AM",
+            "endTime": "1100AM"
+        },
+        {
+            "days": "F",
+            "startTime": "0900AM",
+            "endTime": "1100AM"
+        },
+        {
+            "days": "F",
+            "startTime": "0900AM",
+            "endTime": "1100AM"
+        },
+        {
+            "days": "F",
+            "startTime": "0900AM",
+            "endTime": "1100AM"
+        },
+        {
+            "days": "F",
+            "startTime": "0900AM",
+            "endTime": "1100AM"
+        },
+        {
+            "days": "F",
+            "startTime": "0900AM",
+            "endTime": "1100AM"
+        },
+        {
+            "days": "F",
+            "startTime": "0900AM",
+            "endTime": "1100AM"
+        }
+    ],
+    "gero 221 - Strategies for Optimal Aging - 3 Units": [
+        {
+            "days": "M",
+            "startTime": "0530PM",
+            "endTime": "0820PM"
+        },
+        {
+            "days": "M",
+            "startTime": "0530PM",
+            "endTime": "0820PM"
+        }
+    ],
+    "gero 222 - Health Care in Older Adults - 3 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "gero 225 - Aging Policy in California - 3 Units": [
+        {
+            "days": "R",
+            "startTime": "0530PM",
+            "endTime": "0820PM"
+        },
+        {
+            "days": "R",
+            "startTime": "0530PM",
+            "endTime": "0820PM"
+        }
+    ]
+}

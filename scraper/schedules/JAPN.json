@@ -1,0 +1,77 @@
+{
+    "japn 1A - Elementary Japanese - 5 Units": [
+        {
+            "days": "MW",
+            "startTime": "0800AM",
+            "endTime": "0850AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0800AM",
+            "endTime": "0915AM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0900AM",
+            "endTime": "0950AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0900AM",
+            "endTime": "1015AM"
+        },
+        {
+            "days": "MW",
+            "startTime": "1000AM",
+            "endTime": "1050AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "1030AM",
+            "endTime": "1145AM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0200PM",
+            "endTime": "0250PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        }
+    ],
+    "japn 2A - Intermediate Japanese - 4 Units": [
+        {
+            "days": "MTWR",
+            "startTime": "0800AM",
+            "endTime": "0850AM"
+        }
+    ],
+    "japn 116A - Third-Year Japanese 1 - 4 Units": [
+        {
+            "days": "MTWR",
+            "startTime": "0900AM",
+            "endTime": "0950AM"
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "japn 128 - Intro to Japn Pop Culture - 3 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "japn 150 - Adv Japn Grammar,Convers - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        }
+    ]
+}

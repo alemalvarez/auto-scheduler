@@ -1,0 +1,1320 @@
+{
+    "kins 4 - Beginning Swimming - 1 Units": [
+        {
+            "days": "TR",
+            "startTime": "1000AM",
+            "endTime": "1050AM"
+        }
+    ],
+    "kins 5 - Intermediate Swimming - 1 Units": [
+        {
+            "days": "TR",
+            "startTime": "1100AM",
+            "endTime": "1150AM"
+        }
+    ],
+    "kins 9 - Beginning Sailing - 1 Units": [
+        {
+            "days": "F",
+            "startTime": "1200PM",
+            "endTime": "0150PM"
+        }
+    ],
+    "kins 11 - Basic Windsurfing - 1 Units": [
+        {
+            "days": "F",
+            "startTime": "0200PM",
+            "endTime": "0350PM"
+        }
+    ],
+    "kins 15 - Introduction to Fly Fishing - 1 Units": [
+        {
+            "days": "T",
+            "startTime": "0500PM",
+            "endTime": "0650PM"
+        }
+    ],
+    "kins 21 - First Year Seminar - 3 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "MW",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        },
+        {
+            "days": "MW",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        },
+        {
+            "days": "MW",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        }
+    ],
+    "kins 26 - Exercise For Fitness - 1 Units": [
+        {
+            "days": "MW",
+            "startTime": "0900AM",
+            "endTime": "0950AM"
+        }
+    ],
+    "kins 28 - Jogging - 1 Units": [
+        {
+            "days": "MW",
+            "startTime": "1100AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "MW",
+            "startTime": "1100AM",
+            "endTime": "1150AM"
+        }
+    ],
+    "kins 30 - Bicycling - 2 Units": [
+        {
+            "days": "MW",
+            "startTime": "0130PM",
+            "endTime": "0155PM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0155PM",
+            "endTime": "0245PM"
+        }
+    ],
+    "kins 40 - Tai Chi - 1 Units": [
+        {
+            "days": "MW",
+            "startTime": "0900AM",
+            "endTime": "0950AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0900AM",
+            "endTime": "0950AM"
+        }
+    ],
+    "kins 72 - Beginning Basketball - 1 Units": [
+        {
+            "days": "MW",
+            "startTime": "0900AM",
+            "endTime": "0950AM"
+        }
+    ],
+    "kins 73 - Intermediate Basketball - 1 Units": [
+        {
+            "days": "MW",
+            "startTime": "1100AM",
+            "endTime": "1150AM"
+        }
+    ],
+    "kins 79 - Beginning Soccer - 1 Units": [
+        {
+            "days": "MW",
+            "startTime": "0900AM",
+            "endTime": "0950AM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0900AM",
+            "endTime": "0950AM"
+        },
+        {
+            "days": "MW",
+            "startTime": "1000AM",
+            "endTime": "1050AM"
+        },
+        {
+            "days": "MW",
+            "startTime": "1000AM",
+            "endTime": "1050AM"
+        }
+    ],
+    "kins 86 - Beginning Tennis - 1 Units": [
+        {
+            "days": "TR",
+            "startTime": "1100AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "1100AM",
+            "endTime": "1150AM"
+        }
+    ],
+    "kins 89 - Beginning Badminton - 1 Units": [
+        {
+            "days": "TR",
+            "startTime": "1200PM",
+            "endTime": "1250PM"
+        }
+    ],
+    "kins 99 - Exercise Healthy Living - 2 Units": [
+        {
+            "days": "TR",
+            "startTime": "1200PM",
+            "endTime": "1250PM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0130PM",
+            "endTime": "0220PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "1030AM",
+            "endTime": "1120AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0900AM",
+            "endTime": "0950AM"
+        }
+    ],
+    "kins 101 - Kinesiology: Research and Prac - 2 Units": [
+        {
+            "days": "TR",
+            "startTime": "0800AM",
+            "endTime": "0850AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0300PM",
+            "endTime": "0350PM"
+        }
+    ],
+    "kins 106C - Advanced Weight Training - 1 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "kins 118A - Martial Arts-Karate - 3 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "W",
+            "startTime": "0500PM",
+            "endTime": "0650PM"
+        }
+    ],
+    "kins 118C - Martial Arts-Tai Chi - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0130PM",
+            "endTime": "0220PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0220PM",
+            "endTime": "0320PM"
+        }
+    ],
+    "kins 120 - Strength & Conditioning - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0900AM",
+            "endTime": "0925AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0900AM",
+            "endTime": "0925AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0930AM",
+            "endTime": "1015AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0930AM",
+            "endTime": "1015AM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0730AM",
+            "endTime": "0755AM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0730AM",
+            "endTime": "0755AM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0800AM",
+            "endTime": "0845AM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0800AM",
+            "endTime": "0845AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0730AM",
+            "endTime": "0845AM"
+        }
+    ],
+    "kins 121 - Peak Perform Psych Skills - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "0900AM",
+            "endTime": "1015AM"
+        }
+    ],
+    "kins 122B - Cardiopulmonry Resuscitat - 1 Units": [
+        {
+            "days": "TR",
+            "startTime": "0800AM",
+            "endTime": "0850AM"
+        }
+    ],
+    "kins 131 - Secondary PE Curriculum - 2 Units": [
+        {
+            "days": "TR",
+            "startTime": "1200PM",
+            "endTime": "1250PM"
+        }
+    ],
+    "kins 132 - Plan,Dsgn+Manag Fitns Ctr - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        }
+    ],
+    "kins 134 - Hist&Phil of Phys Ed & Sport - 3 Units": [
+        {
+            "days": "MWF",
+            "startTime": "0300PM",
+            "endTime": "0350PM"
+        },
+        {
+            "days": "F",
+            "startTime": "0100PM",
+            "endTime": "0150PM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0100PM",
+            "endTime": "0150PM"
+        }
+    ],
+    "kins 135 - Assess Strategies In PE - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "0730AM",
+            "endTime": "0845AM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0730AM",
+            "endTime": "0845AM"
+        }
+    ],
+    "kins 136 - Sport And Aging - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        },
+        {
+            "days": "M",
+            "startTime": "0500PM",
+            "endTime": "0750PM"
+        },
+        {
+            "days": "MW",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        },
+        {
+            "days": "MW",
+            "startTime": "1030AM",
+            "endTime": "1145AM"
+        }
+    ],
+    "kins 137 - Sociology Of Sport - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        }
+    ],
+    "kins 138 - Sport Pedagogy - 3 Units": [
+        {
+            "days": "MWF",
+            "startTime": "1000AM",
+            "endTime": "1050AM"
+        },
+        {
+            "days": "MW",
+            "startTime": "1000AM",
+            "endTime": "1050AM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "1000AM",
+            "endTime": "1050AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "1030AM",
+            "endTime": "1145AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "1030AM",
+            "endTime": "1145AM"
+        },
+        {
+            "days": "M",
+            "startTime": "0500PM",
+            "endTime": "0750PM"
+        },
+        {
+            "days": "M",
+            "startTime": "0500PM",
+            "endTime": "0750PM"
+        }
+    ],
+    "kins 139 - Leadership+Communication - 3 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "MW",
+            "startTime": "0730AM",
+            "endTime": "0845AM"
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "kins 141 - PRO ACT I - Dual Sports - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "1000AM",
+            "endTime": "1050AM"
+        },
+        {
+            "days": "MW",
+            "startTime": "1000AM",
+            "endTime": "1050AM"
+        },
+        {
+            "days": "MW",
+            "startTime": "1000AM",
+            "endTime": "1050AM"
+        },
+        {
+            "days": "MW",
+            "startTime": "1000AM",
+            "endTime": "1050AM"
+        },
+        {
+            "days": "MW",
+            "startTime": "1100AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "MW",
+            "startTime": "1100AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "MW",
+            "startTime": "1100AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "MW",
+            "startTime": "1100AM",
+            "endTime": "1150AM"
+        }
+    ],
+    "kins 144 - Weight Train & Musc Fitness - 2 Units": [
+        {
+            "days": "TR",
+            "startTime": "0730AM",
+            "endTime": "0755AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0730AM",
+            "endTime": "0755AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0755AM",
+            "endTime": "0845AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0755AM",
+            "endTime": "0845AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "1030AM",
+            "endTime": "1055AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "1030AM",
+            "endTime": "1055AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "1055AM",
+            "endTime": "1145AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "1055AM",
+            "endTime": "1145AM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0930AM",
+            "endTime": "0955AM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0930AM",
+            "endTime": "0955AM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0955AM",
+            "endTime": "1045AM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0955AM",
+            "endTime": "1045AM"
+        },
+        {
+            "days": "MW",
+            "startTime": "1100AM",
+            "endTime": "1125AM"
+        },
+        {
+            "days": "MW",
+            "startTime": "1100AM",
+            "endTime": "1125AM"
+        },
+        {
+            "days": "MW",
+            "startTime": "1125AM",
+            "endTime": "1215PM"
+        },
+        {
+            "days": "MW",
+            "startTime": "1125AM",
+            "endTime": "1215PM"
+        }
+    ],
+    "kins 145 - Pro Act III - Team Sports - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0800AM",
+            "endTime": "0850AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0800AM",
+            "endTime": "0850AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0800AM",
+            "endTime": "0850AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0900AM",
+            "endTime": "0950AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0900AM",
+            "endTime": "0950AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0900AM",
+            "endTime": "0950AM"
+        }
+    ],
+    "kins 148 - ProAct V-Non Trad Game/Sport - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "1200PM",
+            "endTime": "1250PM"
+        },
+        {
+            "days": "MW",
+            "startTime": "1200PM",
+            "endTime": "1250PM"
+        },
+        {
+            "days": "MW",
+            "startTime": "1200PM",
+            "endTime": "1250PM"
+        },
+        {
+            "days": "MW",
+            "startTime": "1200PM",
+            "endTime": "1250PM"
+        },
+        {
+            "days": "MW",
+            "startTime": "1200PM",
+            "endTime": "1250PM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0100PM",
+            "endTime": "0150PM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0100PM",
+            "endTime": "0150PM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0100PM",
+            "endTime": "0150PM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0100PM",
+            "endTime": "0150PM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0100PM",
+            "endTime": "0150PM"
+        }
+    ],
+    "kins 149 - ProActVI-HealthRelatedFitness - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "1000AM",
+            "endTime": "1050AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "1000AM",
+            "endTime": "1050AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "1000AM",
+            "endTime": "1050AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "1100AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "1100AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "1100AM",
+            "endTime": "1150AM"
+        }
+    ],
+    "kins 150 - Exercise and Sport Physiology - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "1100AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "T",
+            "startTime": "0730AM",
+            "endTime": "0950AM"
+        },
+        {
+            "days": "R",
+            "startTime": "0730AM",
+            "endTime": "0950AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "1100AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "T",
+            "startTime": "0130PM",
+            "endTime": "0350PM"
+        },
+        {
+            "days": "R",
+            "startTime": "0130PM",
+            "endTime": "0350PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0900AM",
+            "endTime": "0950AM"
+        },
+        {
+            "days": "F",
+            "startTime": "0900AM",
+            "endTime": "1120AM"
+        },
+        {
+            "days": "F",
+            "startTime": "1130AM",
+            "endTime": "0150PM"
+        }
+    ],
+    "kins 151 - Kinesiology - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "0900AM",
+            "endTime": "0950AM"
+        },
+        {
+            "days": "M",
+            "startTime": "0200PM",
+            "endTime": "0430PM"
+        },
+        {
+            "days": "W",
+            "startTime": "0200PM",
+            "endTime": "0430PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "1030AM",
+            "endTime": "1120AM"
+        },
+        {
+            "days": "T",
+            "startTime": "0730AM",
+            "endTime": "1000AM"
+        },
+        {
+            "days": "R",
+            "startTime": "0730AM",
+            "endTime": "1000AM"
+        }
+    ],
+    "kins 151A - Biomechanics - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "1000AM",
+            "endTime": "1050AM"
+        },
+        {
+            "days": "M",
+            "startTime": "1100AM",
+            "endTime": "0130PM"
+        },
+        {
+            "days": "W",
+            "startTime": "1100AM",
+            "endTime": "0130PM"
+        },
+        {
+            "days": "MW",
+            "startTime": "1100AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "M",
+            "startTime": "0800AM",
+            "endTime": "1030AM"
+        },
+        {
+            "days": "W",
+            "startTime": "0800AM",
+            "endTime": "1030AM"
+        }
+    ],
+    "kins 151D - Appl Kinesiology+Biomech - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "1200PM",
+            "endTime": "1250PM"
+        },
+        {
+            "days": "T",
+            "startTime": "0130PM",
+            "endTime": "0350PM"
+        },
+        {
+            "days": "T",
+            "startTime": "1100AM",
+            "endTime": "0120PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "1000AM",
+            "endTime": "1050AM"
+        },
+        {
+            "days": "R",
+            "startTime": "0130PM",
+            "endTime": "0350PM"
+        },
+        {
+            "days": "R",
+            "startTime": "1100AM",
+            "endTime": "0120PM"
+        }
+    ],
+    "kins 152 - Physiology Of Exercise - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "0900AM",
+            "endTime": "0950AM"
+        },
+        {
+            "days": "M",
+            "startTime": "1100AM",
+            "endTime": "0130PM"
+        },
+        {
+            "days": "W",
+            "startTime": "1100AM",
+            "endTime": "0130PM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0100PM",
+            "endTime": "0150PM"
+        },
+        {
+            "days": "M",
+            "startTime": "0800AM",
+            "endTime": "1030AM"
+        },
+        {
+            "days": "W",
+            "startTime": "0200PM",
+            "endTime": "0430PM"
+        }
+    ],
+    "kins 152A - Fund Of Exercise Program - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0200PM",
+            "endTime": "0315PM"
+        }
+    ],
+    "kins 152B - Exer Physiology Women - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        }
+    ],
+    "kins 152S - Energy Production & Perform - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0900AM",
+            "endTime": "1015AM"
+        }
+    ],
+    "kins 153 - Cardiov Test+Exrc Prscrip - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "0400PM",
+            "endTime": "0450PM"
+        },
+        {
+            "days": "M",
+            "startTime": "0500PM",
+            "endTime": "0730PM"
+        },
+        {
+            "days": "W",
+            "startTime": "0500PM",
+            "endTime": "0730PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0800AM",
+            "endTime": "0850AM"
+        },
+        {
+            "days": "T",
+            "startTime": "1030AM",
+            "endTime": "0100PM"
+        },
+        {
+            "days": "R",
+            "startTime": "1030AM",
+            "endTime": "0100PM"
+        }
+    ],
+    "kins 155A - Clin Eval Upper Extremity - 2 Units": [
+        {
+            "days": "T",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        },
+        {
+            "days": "T",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        },
+        {
+            "days": "R",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        },
+        {
+            "days": "R",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        }
+    ],
+    "kins 155B - Clin Eval Lower Extremity - 2 Units": [
+        {
+            "days": "T",
+            "startTime": "0730AM",
+            "endTime": "0845AM"
+        },
+        {
+            "days": "R",
+            "startTime": "0730AM",
+            "endTime": "0845AM"
+        },
+        {
+            "days": "M",
+            "startTime": "0730AM",
+            "endTime": "0845AM"
+        },
+        {
+            "days": "W",
+            "startTime": "0730AM",
+            "endTime": "0845AM"
+        }
+    ],
+    "kins 156 - Care Of Athletic Injuries - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0730AM",
+            "endTime": "0845AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "1030AM",
+            "endTime": "1145AM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0730AM",
+            "endTime": "0845AM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0900AM",
+            "endTime": "1015AM"
+        },
+        {
+            "days": "R",
+            "startTime": "0700PM",
+            "endTime": "0950PM"
+        },
+        {
+            "days": "M",
+            "startTime": "0700PM",
+            "endTime": "0950PM"
+        },
+        {
+            "days": "MW",
+            "startTime": "1030AM",
+            "endTime": "1145AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0900AM",
+            "endTime": "1015AM"
+        }
+    ],
+    "kins 157 - Therapeutic Exercise - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0300PM",
+            "endTime": "0415PM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0300PM",
+            "endTime": "0415PM"
+        }
+    ],
+    "kins 157B - Ther Ex for Chronic Conditions - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "1030AM",
+            "endTime": "1145AM"
+        }
+    ],
+    "kins 158 - Motor Learning and Control - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "0800AM",
+            "endTime": "0850AM"
+        },
+        {
+            "days": "M",
+            "startTime": "0900AM",
+            "endTime": "1130AM"
+        },
+        {
+            "days": "M",
+            "startTime": "0200PM",
+            "endTime": "0430PM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0100PM",
+            "endTime": "0150PM"
+        },
+        {
+            "days": "W",
+            "startTime": "0900AM",
+            "endTime": "1130AM"
+        },
+        {
+            "days": "W",
+            "startTime": "0200PM",
+            "endTime": "0430PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0200PM",
+            "endTime": "0250PM"
+        },
+        {
+            "days": "T",
+            "startTime": "1030AM",
+            "endTime": "0100PM"
+        },
+        {
+            "days": "T",
+            "startTime": "0300PM",
+            "endTime": "0530PM"
+        },
+        {
+            "days": "R",
+            "startTime": "1030AM",
+            "endTime": "0100PM"
+        },
+        {
+            "days": "R",
+            "startTime": "0300PM",
+            "endTime": "0530PM"
+        }
+    ],
+    "kins 160 - Sport+Exercise Psychology - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "0900AM",
+            "endTime": "0950AM"
+        },
+        {
+            "days": "M",
+            "startTime": "1000AM",
+            "endTime": "1230PM"
+        },
+        {
+            "days": "M",
+            "startTime": "0200PM",
+            "endTime": "0430PM"
+        },
+        {
+            "days": "W",
+            "startTime": "1000AM",
+            "endTime": "1230PM"
+        },
+        {
+            "days": "W",
+            "startTime": "0200PM",
+            "endTime": "0430PM"
+        }
+    ],
+    "kins 161 - Theory of Sport/Fitness Mgmt - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0730AM",
+            "endTime": "0845AM"
+        }
+    ],
+    "kins 166 - Coaching-Ethics, Inclu, Equity - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        }
+    ],
+    "kins 172 - Movement Education - 3 Units": [
+        {
+            "days": "M",
+            "startTime": "1200PM",
+            "endTime": "0150PM"
+        },
+        {
+            "days": "M",
+            "startTime": "1200PM",
+            "endTime": "0150PM"
+        },
+        {
+            "days": "W",
+            "startTime": "1200PM",
+            "endTime": "0150PM"
+        },
+        {
+            "days": "W",
+            "startTime": "1200PM",
+            "endTime": "0150PM"
+        },
+        {
+            "days": "T",
+            "startTime": "0800AM",
+            "endTime": "0950AM"
+        },
+        {
+            "days": "T",
+            "startTime": "0800AM",
+            "endTime": "0950AM"
+        },
+        {
+            "days": "R",
+            "startTime": "0800AM",
+            "endTime": "0950AM"
+        },
+        {
+            "days": "R",
+            "startTime": "0800AM",
+            "endTime": "0950AM"
+        },
+        {
+            "days": "T",
+            "startTime": "1000AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "T",
+            "startTime": "1000AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "R",
+            "startTime": "1000AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "R",
+            "startTime": "1000AM",
+            "endTime": "1150AM"
+        }
+    ],
+    "kins 194A - Assign Fld Exper In Kins - 2 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "kins 194D - Assign Fld Exper Coaching - 2 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "kins 194F - Assign Fld Exp Allied Hth - 1 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "kins 195A - Direct Fld Exper In Kins - 2 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "kins 196G - Sleep, Health & Ath Perform - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0900AM",
+            "endTime": "1015AM"
+        }
+    ],
+    "kins 209 - Grad Studies Kinesiology - 3 Units": [
+        {
+            "days": "M",
+            "startTime": "0600PM",
+            "endTime": "0850PM"
+        }
+    ],
+    "kins 211 - Research Seminar - 1 Units": [
+        {
+            "days": "M",
+            "startTime": "0500PM",
+            "endTime": "0550PM"
+        }
+    ],
+    "kins 252 - Advanced Exer Physiology - 3 Units": [
+        {
+            "days": "T",
+            "startTime": "0600PM",
+            "endTime": "0800PM"
+        }
+    ],
+    "kins 294A - Contemp Topics Sprt Prfrm - 3 Units": [
+        {
+            "days": "W",
+            "startTime": "0500PM",
+            "endTime": "0550PM"
+        }
+    ],
+    "kins 295 - Practicum - 3 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "kins 299 - Directed Individual Study - 3 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "kins 380 - Method Teach Elem Phys Edu - 1.5 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "kins 381 - Meth Teach Second Phys Edu - 1.5 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "kins 500 - Culminating Experience - 4 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ]
+}

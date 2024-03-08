@@ -1,0 +1,213 @@
+{
+    "intd 15 - Intro To Interior Design - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        }
+    ],
+    "intd 20 - Design - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0900AM",
+            "endTime": "1015AM"
+        }
+    ],
+    "intd 25 - Design Fundamentals - 3 Units": [
+        {
+            "days": "F",
+            "startTime": "1000AM",
+            "endTime": "0250PM"
+        },
+        {
+            "days": "F",
+            "startTime": "1000AM",
+            "endTime": "0250PM"
+        },
+        {
+            "days": "F",
+            "startTime": "1000AM",
+            "endTime": "0250PM"
+        }
+    ],
+    "intd 27 - Intro to Interior Arch Studio - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "0130PM",
+            "endTime": "0400PM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0830AM",
+            "endTime": "1100AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0900AM",
+            "endTime": "1130AM"
+        }
+    ],
+    "intd 30 - Introduction To CAD - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "1130AM",
+            "endTime": "0120PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "1230PM",
+            "endTime": "0220PM"
+        }
+    ],
+    "intd 123 - Survey Wstrn Archtct+Intr - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0300PM",
+            "endTime": "0415PM"
+        }
+    ],
+    "intd 124A - American Design - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "0300PM",
+            "endTime": "0415PM"
+        }
+    ],
+    "intd 124E - Film/Design - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0900AM",
+            "endTime": "1015AM"
+        }
+    ],
+    "intd 151 - Interior Arch. Graphics I - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "1200PM",
+            "endTime": "0230PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0330PM",
+            "endTime": "0600PM"
+        }
+    ],
+    "intd 153 - Interior Architecture Studio I - 5 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "intd 155 - Professional Practice I - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        }
+    ],
+    "intd 161 - Interior Dsgn Graphics II - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "0830AM",
+            "endTime": "1100AM"
+        }
+    ],
+    "intd 171 - Interior Dsgn Graphcs III - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "1230PM",
+            "endTime": "0300PM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0300PM",
+            "endTime": "0530PM"
+        }
+    ],
+    "intd 173 - Interior Architecture Studio 3 - 5 Units": [
+        {
+            "days": "MW",
+            "startTime": "1200PM",
+            "endTime": "0215PM"
+        },
+        {
+            "days": "F",
+            "startTime": "1200PM",
+            "endTime": "0215PM"
+        },
+        {
+            "days": "MW",
+            "startTime": "1200PM",
+            "endTime": "0215PM"
+        },
+        {
+            "days": "F",
+            "startTime": "1200PM",
+            "endTime": "0215PM"
+        },
+        {
+            "days": "T",
+            "startTime": "0830AM",
+            "endTime": "1200PM"
+        },
+        {
+            "days": "R",
+            "startTime": "0830AM",
+            "endTime": "1200PM"
+        }
+    ],
+    "intd 175 - Professional Practice III - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "0300PM",
+            "endTime": "0415PM"
+        }
+    ],
+    "intd 181 - Interior Architecture Portfoli - 1 Units": [
+        {
+            "days": "TR",
+            "startTime": "1030AM",
+            "endTime": "1145AM"
+        }
+    ],
+    "intd 183 - Interior Architecture Studio 4 - 5 Units": [
+        {
+            "days": "T",
+            "startTime": "1230PM",
+            "endTime": "0400PM"
+        },
+        {
+            "days": "R",
+            "startTime": "1230PM",
+            "endTime": "0400PM"
+        }
+    ],
+    "intd 185 - Pro Practice - Career Prep - 3 Units": [
+        {
+            "days": "T",
+            "startTime": "0900AM",
+            "endTime": "1015AM"
+        },
+        {
+            "days": "R",
+            "startTime": "0900AM",
+            "endTime": "1015AM"
+        }
+    ]
+}

@@ -1,0 +1,309 @@
+{
+    "econ 1A - Intro Macroeconomic Analy - 3 Units": [
+        {
+            "days": "MWF",
+            "startTime": "0900AM",
+            "endTime": "0950AM"
+        },
+        {
+            "days": "MWF",
+            "startTime": "1000AM",
+            "endTime": "1050AM"
+        },
+        {
+            "days": "M",
+            "startTime": "0530PM",
+            "endTime": "0820PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "1030AM",
+            "endTime": "1145AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        }
+    ],
+    "econ 1B - Intro Microeconomic Analy - 3 Units": [
+        {
+            "days": "MWF",
+            "startTime": "1100AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0300PM",
+            "endTime": "0415PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0900AM",
+            "endTime": "1015AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0300PM",
+            "endTime": "0415PM"
+        }
+    ],
+    "econ 100A - Interm Macroecon Theory - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "1030AM",
+            "endTime": "1145AM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0300PM",
+            "endTime": "0415PM"
+        }
+    ],
+    "econ 100B - Interm Microecon Theory - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0300PM",
+            "endTime": "0415PM"
+        }
+    ],
+    "econ 101 - History Of Econ Thought - 3 Units": [
+        {
+            "days": "MWF",
+            "startTime": "1000AM",
+            "endTime": "1050AM"
+        }
+    ],
+    "econ 113 - Economic History Of US - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0900AM",
+            "endTime": "1015AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        }
+    ],
+    "econ 114 - California Economy - 3 Units": [
+        {
+            "days": "R",
+            "startTime": "0530PM",
+            "endTime": "0820PM"
+        }
+    ],
+    "econ 132 - State+Local Govt Finance - 3 Units": [
+        {
+            "days": "MWF",
+            "startTime": "1100AM",
+            "endTime": "1150AM"
+        }
+    ],
+    "econ 135 - Money+Banking - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        }
+    ],
+    "econ 138 - Monetary and Fiscal Policy - 3 Units": [
+        {
+            "days": "MWF",
+            "startTime": "1000AM",
+            "endTime": "1050AM"
+        }
+    ],
+    "econ 140 - Quantitatve Econ Analysis - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        },
+        {
+            "days": "MW",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0900AM",
+            "endTime": "1015AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0900AM",
+            "endTime": "1015AM"
+        },
+        {
+            "days": "W",
+            "startTime": "0530PM",
+            "endTime": "0820PM"
+        }
+    ],
+    "econ 141 - Intro To Econometrics - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        }
+    ],
+    "econ 145 - Econ Research Methods - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0300PM",
+            "endTime": "0415PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "1030AM",
+            "endTime": "1145AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0300PM",
+            "endTime": "0415PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0300PM",
+            "endTime": "0415PM"
+        },
+        {
+            "days": "T",
+            "startTime": "0530PM",
+            "endTime": "0820PM"
+        },
+        {
+            "days": "F",
+            "startTime": "1100AM",
+            "endTime": "0150PM"
+        }
+    ],
+    "econ 160 - Industrial Organization - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        }
+    ],
+    "econ 162 - Energy Economics - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0900AM",
+            "endTime": "1015AM"
+        }
+    ],
+    "econ 180 - Urban Economics - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "0300PM",
+            "endTime": "0415PM"
+        }
+    ],
+    "econ 181 - Economics of Racism - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "1030AM",
+            "endTime": "1145AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0300PM",
+            "endTime": "0415PM"
+        }
+    ],
+    "econ 186 - Sports Economics - 3 Units": [
+        {
+            "days": "T",
+            "startTime": "0530PM",
+            "endTime": "0820PM"
+        }
+    ],
+    "econ 192 - International Finance - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        }
+    ],
+    "econ 193 - Development Economics - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        }
+    ],
+    "econ 196P - Economics of Personal Finance - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        }
+    ],
+    "econ 196R - Programming & Data Analysis - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        }
+    ],
+    "econ 200C - Advanced Applied Economics - 3 Units": [
+        {
+            "days": "M",
+            "startTime": "0530PM",
+            "endTime": "0820PM"
+        }
+    ],
+    "econ 200M - Math For Economists - 3 Units": [
+        {
+            "days": "W",
+            "startTime": "0530PM",
+            "endTime": "0820PM"
+        }
+    ],
+    "econ 213 - US Econ Historical Perspective - 3 Units": [
+        {
+            "days": "T",
+            "startTime": "0530PM",
+            "endTime": "0820PM"
+        }
+    ],
+    "econ 241 - Applied Econometric Analy - 3 Units": [
+        {
+            "days": "R",
+            "startTime": "0530PM",
+            "endTime": "0820PM"
+        },
+        {
+            "days": "R",
+            "startTime": "0530PM",
+            "endTime": "0820PM"
+        }
+    ]
+}

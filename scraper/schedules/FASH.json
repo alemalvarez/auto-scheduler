@@ -1,0 +1,104 @@
+{
+    "fash 30 - Fashion and Human Environment - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0300PM",
+            "endTime": "0415PM"
+        }
+    ],
+    "fash 31 - Science of Textile - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "1030AM",
+            "endTime": "1145AM"
+        }
+    ],
+    "fash 32 - Fundmntl Apparel Productn - 3 Units": [
+        {
+            "days": "F",
+            "startTime": "0930AM",
+            "endTime": "1120AM"
+        },
+        {
+            "days": "F",
+            "startTime": "1200PM",
+            "endTime": "0250PM"
+        }
+    ],
+    "fash 33 - Fashion Sustainability - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        }
+    ],
+    "fash 130 - History Of Western Fashion - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        }
+    ],
+    "fash 133 - Creative Prin Apprl Dsgn - 3 Units": [
+        {
+            "days": "M",
+            "startTime": "1000AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "W",
+            "startTime": "1000AM",
+            "endTime": "1150AM"
+        }
+    ],
+    "fash 134 - Intro to the Fashion Industry - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        }
+    ],
+    "fash 135 - Merchandise Buying - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        }
+    ],
+    "fash 137 - Clothing, Society+Culture - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        }
+    ],
+    "fash 146 - Fashion Entrepreneurship - 3 Units": [
+        {
+            "days": "T",
+            "startTime": "0300PM",
+            "endTime": "0450PM"
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "fash 148 - Fashion Law - 3 Units": [
+        {
+            "days": "R",
+            "startTime": "0600PM",
+            "endTime": "0850PM"
+        }
+    ]
+}

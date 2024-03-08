@@ -1,0 +1,90 @@
+{
+    "fshd 50 - The Family+Social Issues - 3 Units": [
+        {
+            "days": "MWF",
+            "startTime": "1000AM",
+            "endTime": "1050AM"
+        }
+    ],
+    "fshd 52 - The Child In The Family - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        }
+    ],
+    "fshd 108 - Family Communication - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        }
+    ],
+    "fshd 150 - Family Stress+Coping - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "1030AM",
+            "endTime": "1145AM"
+        }
+    ],
+    "fshd 152 - Adolescent Development - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "1030AM",
+            "endTime": "1145AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        }
+    ],
+    "fshd 154 - Issues in Parenting - 3 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "R",
+            "startTime": "0300PM",
+            "endTime": "0415PM"
+        }
+    ],
+    "fshd 155 - Family Life Education - 3 Units": [
+        {
+            "days": "R",
+            "startTime": "0430PM",
+            "endTime": "0720PM"
+        }
+    ],
+    "fshd 159 - Adulthood and Aging - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0900AM",
+            "endTime": "1015AM"
+        }
+    ],
+    "fshd 162 - Family Support Services - 3 Units": [
+        {
+            "days": "T",
+            "startTime": "0430PM",
+            "endTime": "0620PM"
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ]
+}

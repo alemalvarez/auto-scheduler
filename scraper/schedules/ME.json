@@ -1,0 +1,613 @@
+{
+    "me 37 - Manufacturing Processes - 3 Units": [
+        {
+            "days": "T",
+            "startTime": "1100AM",
+            "endTime": "0145PM"
+        },
+        {
+            "days": "T",
+            "startTime": "0330PM",
+            "endTime": "0615PM"
+        },
+        {
+            "days": "W",
+            "startTime": "0800AM",
+            "endTime": "1045AM"
+        },
+        {
+            "days": "W",
+            "startTime": "1200PM",
+            "endTime": "0245PM"
+        },
+        {
+            "days": "R",
+            "startTime": "1200PM",
+            "endTime": "0245PM"
+        },
+        {
+            "days": "R",
+            "startTime": "0330PM",
+            "endTime": "0615PM"
+        },
+        {
+            "days": "F",
+            "startTime": "0800AM",
+            "endTime": "1045AM"
+        },
+        {
+            "days": "F",
+            "startTime": "1100AM",
+            "endTime": "0145PM"
+        },
+        {
+            "days": "F",
+            "startTime": "0200PM",
+            "endTime": "0445PM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0800AM",
+            "endTime": "0850AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0800AM",
+            "endTime": "0850AM"
+        }
+    ],
+    "me 76 - Programming & Problem Solving - 2 Units": [
+        {
+            "days": "T",
+            "startTime": "0130PM",
+            "endTime": "0220PM"
+        },
+        {
+            "days": "T",
+            "startTime": "0230PM",
+            "endTime": "0520PM"
+        },
+        {
+            "days": "R",
+            "startTime": "0130PM",
+            "endTime": "0220PM"
+        },
+        {
+            "days": "R",
+            "startTime": "0230PM",
+            "endTime": "0520PM"
+        },
+        {
+            "days": "W",
+            "startTime": "0130PM",
+            "endTime": "0220PM"
+        },
+        {
+            "days": "W",
+            "startTime": "0230PM",
+            "endTime": "0520PM"
+        }
+    ],
+    "me 106 - Programming Applications in ME - 1 Units": [
+        {
+            "days": "T",
+            "startTime": "0530PM",
+            "endTime": "0730PM"
+        },
+        {
+            "days": "T",
+            "startTime": "0745PM",
+            "endTime": "0945PM"
+        },
+        {
+            "days": "R",
+            "startTime": "0530PM",
+            "endTime": "0730PM"
+        },
+        {
+            "days": "R",
+            "startTime": "0745PM",
+            "endTime": "0945PM"
+        }
+    ],
+    "me 108 - Professional Topics Mech Engin - 2 Units": [
+        {
+            "days": "TR",
+            "startTime": "0800AM",
+            "endTime": "0850AM"
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "TR",
+            "startTime": "0900AM",
+            "endTime": "0950AM"
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "TR",
+            "startTime": "1000AM",
+            "endTime": "1050AM"
+        }
+    ],
+    "me 116 - Machinery Design I - 2 Units": [
+        {
+            "days": "MW",
+            "startTime": "0300PM",
+            "endTime": "0350PM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0500PM",
+            "endTime": "0550PM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0600PM",
+            "endTime": "0650PM"
+        }
+    ],
+    "me 117 - Machinery Design II - 2 Units": [
+        {
+            "days": "MW",
+            "startTime": "0400PM",
+            "endTime": "0450PM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0700PM",
+            "endTime": "0750PM"
+        }
+    ],
+    "me 120 - Fluid Mechanics for Mech Engr - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "1030AM",
+            "endTime": "1145AM"
+        },
+        {
+            "days": "MW",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0900AM",
+            "endTime": "1015AM"
+        }
+    ],
+    "me 126 - Heat Transfer - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0900AM",
+            "endTime": "1015AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "1030AM",
+            "endTime": "1145AM"
+        }
+    ],
+    "me 128 - Thermal-Fluid Systems - 3 Units": [
+        {
+            "days": "F",
+            "startTime": "1100AM",
+            "endTime": "0150PM"
+        },
+        {
+            "days": "F",
+            "startTime": "0230PM",
+            "endTime": "0520PM"
+        },
+        {
+            "days": "W",
+            "startTime": "0300PM",
+            "endTime": "0550PM"
+        },
+        {
+            "days": "W",
+            "startTime": "1100AM",
+            "endTime": "0150PM"
+        },
+        {
+            "days": "F",
+            "startTime": "0900AM",
+            "endTime": "1050AM"
+        },
+        {
+            "days": "W",
+            "startTime": "0900AM",
+            "endTime": "1050AM"
+        }
+    ],
+    "me 132 - Solar, Geothermal, Bioenergy - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0900AM",
+            "endTime": "1015AM"
+        }
+    ],
+    "me 137 - Prod Dsgn Manfct+Automatn - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        }
+    ],
+    "me 138 - Concur Prod+Proces Design - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0800AM",
+            "endTime": "0850AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0900AM",
+            "endTime": "1015AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "1230PM",
+            "endTime": "0120PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0900AM",
+            "endTime": "0950AM"
+        },
+        {
+            "days": "MW",
+            "startTime": "1000AM",
+            "endTime": "1115AM"
+        }
+    ],
+    "me 143 - Vehicle Dynamics and Design - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        }
+    ],
+    "me 156 - Heat+Air Condition System - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "1030AM",
+            "endTime": "1145AM"
+        }
+    ],
+    "me 165 - Introduction To Robotics - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "1100AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "F",
+            "startTime": "0900AM",
+            "endTime": "1145AM"
+        }
+    ],
+    "me 171 - System  Modeling & Simulation - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "1030AM",
+            "endTime": "1145AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0300PM",
+            "endTime": "0415PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        }
+    ],
+    "me 172 - Control System Design - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0900AM",
+            "endTime": "1015AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0130PM",
+            "endTime": "0245PM"
+        }
+    ],
+    "me 177 - 3D Parametric Modeling - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "0200PM",
+            "endTime": "0250PM"
+        },
+        {
+            "days": "MW",
+            "startTime": "0300PM",
+            "endTime": "0415PM"
+        }
+    ],
+    "me 180 - Mech Properties Materials - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0900AM",
+            "endTime": "0950AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0130PM",
+            "endTime": "0220PM"
+        },
+        {
+            "days": "TR",
+            "startTime": "0300PM",
+            "endTime": "0350PM"
+        },
+        {
+            "days": "T",
+            "startTime": "0230PM",
+            "endTime": "0520PM"
+        },
+        {
+            "days": "T",
+            "startTime": "0530PM",
+            "endTime": "0820PM"
+        },
+        {
+            "days": "R",
+            "startTime": "0230PM",
+            "endTime": "0520PM"
+        },
+        {
+            "days": "R",
+            "startTime": "0530PM",
+            "endTime": "0820PM"
+        },
+        {
+            "days": "F",
+            "startTime": "1100AM",
+            "endTime": "0150PM"
+        }
+    ],
+    "me 182 - Intro Composite Materials - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "1200PM",
+            "endTime": "0115PM"
+        }
+    ],
+    "me 186 - Fracture Mech Engr Design - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0300PM",
+            "endTime": "0415PM"
+        }
+    ],
+    "me 190 - Project Engineering I - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "1100AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "TR",
+            "startTime": "1030AM",
+            "endTime": "1120AM"
+        },
+        {
+            "days": "M",
+            "startTime": "1200PM",
+            "endTime": "0250PM"
+        },
+        {
+            "days": "W",
+            "startTime": "1200PM",
+            "endTime": "0250PM"
+        },
+        {
+            "days": "M",
+            "startTime": "0900AM",
+            "endTime": "1150AM"
+        },
+        {
+            "days": "W",
+            "startTime": "0800AM",
+            "endTime": "1050AM"
+        }
+    ],
+    "me 191 - Project Engineering II - 2 Units": [
+        {
+            "days": "M",
+            "startTime": "0900AM",
+            "endTime": "0950AM"
+        },
+        {
+            "days": "M",
+            "startTime": "0500PM",
+            "endTime": "0550PM"
+        },
+        {
+            "days": "W",
+            "startTime": "0500PM",
+            "endTime": "0550PM"
+        },
+        {
+            "days": "M",
+            "startTime": "0300PM",
+            "endTime": "0550PM"
+        },
+        {
+            "days": "T",
+            "startTime": "0630PM",
+            "endTime": "0920PM"
+        },
+        {
+            "days": "W",
+            "startTime": "0300PM",
+            "endTime": "0550PM"
+        },
+        {
+            "days": "R",
+            "startTime": "0630PM",
+            "endTime": "0920PM"
+        }
+    ],
+    "me 195A - Professional Practice - 12 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "me 199 - Special Problems - 3 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "me 209 - Research Methodology - 2 Units": [
+        {
+            "days": "T",
+            "startTime": "0500PM",
+            "endTime": "0650PM"
+        }
+    ],
+    "me 233 - Intell Prod Dsgn+Manufct - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0430PM",
+            "endTime": "0545PM"
+        }
+    ],
+    "me 238 - Automated Inspection - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "0530PM",
+            "endTime": "0645PM"
+        }
+    ],
+    "me 240 - Mech Design & Failure Analysis - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0530PM",
+            "endTime": "0645PM"
+        }
+    ],
+    "me 255 - Advanced Heat Transfer - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0400PM",
+            "endTime": "0515PM"
+        }
+    ],
+    "me 272 - Finit Model Comp-Aid Dsgn - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "0500PM",
+            "endTime": "0615PM"
+        }
+    ],
+    "me 275 - Analysis of Aircraft Structure - 3 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "me 285 - Materials for Extreme Environ - 3 Units": [
+        {
+            "days": "MW",
+            "startTime": "0400PM",
+            "endTime": "0515PM"
+        }
+    ],
+    "me 295 - Fieldwork - 3 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "me 296M - Space Mission Des & Analyses - 3 Units": [
+        {
+            "days": "TR",
+            "startTime": "0430PM",
+            "endTime": "0545PM"
+        }
+    ],
+    "me 296S - Adv CAD for Aerospace Apps - 3 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "me 299 - Special Problems - 3 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ],
+    "me 500 - Masters Thesis - 1 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "edll 200 - Decoding+Fluency - 3 Units": [
+        {
+            "days": "T",
+            "startTime": "0430PM",
+            "endTime": "0720PM"
+        }
+    ],
+    "edll 201 - Compreh:Assessment+Instr - 3 Units": [
+        {
+            "days": "R",
+            "startTime": "0430PM",
+            "endTime": "0720PM"
+        }
+    ],
+    "edll 503 - Culmin Expr:Lang+Literacy - 3 Units": [
+        {
+            "days": "",
+            "startTime": "",
+            "endTime": ""
+        }
+    ]
+}
