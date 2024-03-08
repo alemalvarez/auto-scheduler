@@ -1,24 +1,22 @@
-import os
 from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service
 import time
 from bs4 import BeautifulSoup
 import json
+import os
+import multiprocessing
 
-# Set the path to the ChromeDriver executable. The driver for Apple ARM64 is included in the repo.
-service = Service('./chromedriver-mac-arm64/chromedriver')
-driver = webdriver.Chrome(service=service)
+def process_major(major):
+    # Set the path to the ChromeDriver executable. The driver for Apple ARM64 is included in the repo.
+    service = Service('./chromedriver-mac-arm64/chromedriver')
 
-# Read the JSON file containing the list of majors
-with open("fall-2024-majors.json", "r") as json_file:
-    majors = json.load(json_file)
+    # Set options for headless browsing
+    options = Options()
+    options.add_argument("--headless")
 
-# Initialize a dictionary to store all data
-all_data = {}
+    driver = webdriver.Chrome(service=service, options=options)
 
-# Process each major's webpage, extract data, and save it to a JSON file
-for major in majors:
-    print(f'Scraping major: {major}')
     # Navigate to the target URL for the current major
     url = f"https://www.csus.edu/class-schedule/fall-2024/{major}"
     driver.get(url)
@@ -57,9 +55,9 @@ for major in majors:
             # Find all child elements within the row div (assuming these represent cells)
             cells = row_div.find_all(recursive=False)
             if len(cells) >= 3:
-                days = cells[3].text.strip()
-                start_time = cells[5].text.strip()
-                end_time = cells[6].text.strip()
+                days = cells[3].text
+                start_time = cells[5].text
+                end_time = cells[6].text
 
                 row_data = {
                     'days': days,
@@ -70,15 +68,30 @@ for major in majors:
                 if class_name in data:
                     data[class_name].append(row_data)
 
-    # Add the data for the current major to the all_data dictionary
-    all_data[major] = data
+    # Quit the webdriver
+    driver.quit()
 
-output_directory = './schedules/'
+    return {major: data}
+
+# Read the JSON file containing the list of majors
+with open("fall-2024-majors.json", "r") as json_file:
+    majors = json.load(json_file)
+
+# Create a directory to store JSON files if it doesn't exist
+output_directory = "schedules"
+if not os.path.exists(output_directory):
+    os.makedirs(output_directory)
+
+# Use a Pool of workers to process the majors in parallel
+with multiprocessing.Pool() as pool:
+    results = pool.map(process_major, majors)
+
+# Combine the results into a single dictionary
+all_data = {}
+for result in results:
+    all_data.update(result)
 
 # Save all data to a single JSON file
 output_filename = os.path.join(output_directory, "fall-2024.json")
 with open(output_filename, "w", encoding="utf-8") as json_file:
     json.dump(all_data, json_file, indent=4)
-
-# Quit the webdriver
-driver.quit()
