@@ -11,6 +11,8 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 from bs4 import BeautifulSoup
 
+TERM = 'spring-2024' #< -- CHOOSE TERM HERE
+
 def setup_driver() -> webdriver.Chrome:
     """
     Set up the Chrome webdriver with appropriate options.
@@ -37,14 +39,14 @@ def get_majors(driver: webdriver.Chrome) -> List[str]:
         List[str]: A list of majors.
     """
     print("Retrieving list of majors...")
-    url = "https://www.csus.edu/class-schedule/fall-2024/"
+    url = f"https://www.csus.edu/class-schedule/{TERM}/"
     driver.get(url)
 
     time.sleep(2)
 
     html_content = driver.page_source
     soup = BeautifulSoup(html_content, "html.parser")
-    links = soup.find_all("a", href=lambda href: href and '/class-schedule/fall-2024/' in href)
+    links = soup.find_all("a", href=lambda href: href and f'/class-schedule/{TERM}/' in href)
 
     majors = []
     for link in links:
@@ -68,7 +70,7 @@ def scrape_major(driver: webdriver.Chrome, major: str) -> Dict[str, List[Dict[st
     """
     print(f'Scraping major: {major}')
 
-    url = f"https://www.csus.edu/class-schedule/fall-2024/{major}"
+    url = f"https://www.csus.edu/class-schedule/{TERM}/{major}"
     driver.get(url)
 
     WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, 'div.table')))
@@ -142,7 +144,7 @@ def save_data(data: Dict[str, Dict[str, List[Dict[str, str]]]], output_directory
         output_directory (str): The directory where the JSON file should be saved.
     """
     os.makedirs(output_directory, exist_ok=True)
-    output_filename = os.path.join(output_directory, "fall-2024.json")
+    output_filename = os.path.join(output_directory, f"{TERM}.json")
     try:
         with open(output_filename, "w", encoding="utf-8") as json_file:
             json.dump(data, json_file, indent=4)
