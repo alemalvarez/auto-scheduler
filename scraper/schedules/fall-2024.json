@@ -1136,12 +1136,12 @@
                 "endTime": "0350PM"
             },
             {
-                "days": "M",
+                "days": "W",
                 "startTime": "0100PM",
                 "endTime": "0350PM"
             },
             {
-                "days": "W",
+                "days": "M",
                 "startTime": "0100PM",
                 "endTime": "0350PM"
             },
@@ -1399,17 +1399,17 @@
                 "endTime": "0650PM"
             },
             {
-                "days": "T",
-                "startTime": "0100PM",
-                "endTime": "0350PM"
-            },
-            {
-                "days": "T",
-                "startTime": "0100PM",
-                "endTime": "0350PM"
-            },
-            {
                 "days": "R",
+                "startTime": "0100PM",
+                "endTime": "0350PM"
+            },
+            {
+                "days": "T",
+                "startTime": "0100PM",
+                "endTime": "0350PM"
+            },
+            {
+                "days": "T",
                 "startTime": "0100PM",
                 "endTime": "0350PM"
             },
@@ -1426,12 +1426,12 @@
                 "endTime": "0650PM"
             },
             {
-                "days": "T",
+                "days": "R",
                 "startTime": "0400PM",
                 "endTime": "0650PM"
             },
             {
-                "days": "R",
+                "days": "T",
                 "startTime": "0400PM",
                 "endTime": "0650PM"
             }
@@ -1457,14 +1457,9 @@
         ],
         "art 149": [
             {
-                "days": "MW",
-                "startTime": "0400PM",
-                "endTime": "0650PM"
-            },
-            {
-                "days": "MW",
-                "startTime": "0400PM",
-                "endTime": "0650PM"
+                "days": "TR",
+                "startTime": "0100PM",
+                "endTime": "0350PM"
             }
         ],
         "art 150": [
@@ -1591,19 +1586,19 @@
                 "endTime": "0350PM"
             },
             {
+                "days": "M",
+                "startTime": "0100PM",
+                "endTime": "0350PM"
+            },
+            {
+                "days": "M",
+                "startTime": "0100PM",
+                "endTime": "0350PM"
+            },
+            {
                 "days": "W",
                 "startTime": "",
                 "endTime": ""
-            },
-            {
-                "days": "M",
-                "startTime": "0100PM",
-                "endTime": "0350PM"
-            },
-            {
-                "days": "M",
-                "startTime": "0100PM",
-                "endTime": "0350PM"
             }
         ],
         "art 199": [
@@ -1781,14 +1776,14 @@
         ],
         "astr 6": [
             {
-                "days": "MT",
-                "startTime": "0700PM",
-                "endTime": "1100PM"
-            },
-            {
                 "days": "F",
                 "startTime": "0900AM",
                 "endTime": "1150AM"
+            },
+            {
+                "days": "MT",
+                "startTime": "0700PM",
+                "endTime": "1100PM"
             },
             {
                 "days": "WR",
@@ -3689,12 +3684,12 @@
             },
             {
                 "days": "W",
-                "startTime": "0200PM",
+                "startTime": "0130PM",
                 "endTime": "0420PM"
             },
             {
                 "days": "W",
-                "startTime": "0130PM",
+                "startTime": "0200PM",
                 "endTime": "0420PM"
             },
             {
@@ -4440,28 +4435,28 @@
     "CHAD": {
         "chad 23": [
             {
-                "days": "",
-                "startTime": "",
-                "endTime": ""
-            },
-            {
                 "days": "W",
                 "startTime": "1200PM",
                 "endTime": "0115PM"
-            }
-        ],
-        "chad 30": [
+            },
             {
                 "days": "",
                 "startTime": "",
                 "endTime": ""
-            },
+            }
+        ],
+        "chad 30": [
             {
                 "days": "W",
                 "startTime": "0430PM",
                 "endTime": "0545PM"
             },
             {
+                "days": "",
+                "startTime": "",
+                "endTime": ""
+            },
+            {
                 "days": "MW",
                 "startTime": "0130PM",
                 "endTime": "0245PM"
@@ -4502,14 +4497,19 @@
                 "endTime": "0245PM"
             },
             {
+                "days": "T",
+                "startTime": "1030AM",
+                "endTime": "1145AM"
+            },
+            {
                 "days": "",
                 "startTime": "",
                 "endTime": ""
             },
             {
-                "days": "T",
-                "startTime": "1030AM",
-                "endTime": "1145AM"
+                "days": "",
+                "startTime": "",
+                "endTime": ""
             },
             {
                 "days": "M",
@@ -4527,16 +4527,6 @@
                 "endTime": "1015AM"
             },
             {
-                "days": "",
-                "startTime": "",
-                "endTime": ""
-            },
-            {
-                "days": "",
-                "startTime": "",
-                "endTime": ""
-            },
-            {
                 "days": "T",
                 "startTime": "0300PM",
                 "endTime": "0415PM"
@@ -4550,6 +4540,11 @@
                 "days": "R",
                 "startTime": "0300PM",
                 "endTime": "0415PM"
+            },
+            {
+                "days": "",
+                "startTime": "",
+                "endTime": ""
             },
             {
                 "days": "MW",
@@ -4577,14 +4572,14 @@
                 "endTime": ""
             },
             {
-                "days": "R",
-                "startTime": "1030AM",
-                "endTime": "1145AM"
-            },
-            {
                 "days": "",
                 "startTime": "",
                 "endTime": ""
+            },
+            {
+                "days": "R",
+                "startTime": "1030AM",
+                "endTime": "1145AM"
             },
             {
                 "days": "W",
@@ -4636,14 +4631,14 @@
         ],
         "chad 35": [
             {
-                "days": "MW",
-                "startTime": "1000AM",
-                "endTime": "1050AM"
-            },
-            {
                 "days": "",
                 "startTime": "",
                 "endTime": ""
+            },
+            {
+                "days": "MW",
+                "startTime": "1000AM",
+                "endTime": "1050AM"
             },
             {
                 "days": "",
@@ -4691,41 +4686,36 @@
                 "endTime": ""
             },
             {
-                "days": "",
-                "startTime": "",
-                "endTime": ""
-            },
-            {
                 "days": "R",
                 "startTime": "1200PM",
                 "endTime": "0115PM"
-            }
-        ],
-        "chad 35F": [
+            },
             {
                 "days": "",
                 "startTime": "",
                 "endTime": ""
-            },
+            }
+        ],
+        "chad 35F": [
             {
                 "days": "W",
                 "startTime": "1200PM",
                 "endTime": "0115PM"
             },
             {
+                "days": "",
+                "startTime": "",
+                "endTime": ""
+            },
+            {
+                "days": "",
+                "startTime": "",
+                "endTime": ""
+            },
+            {
                 "days": "R",
                 "startTime": "1030AM",
                 "endTime": "1145AM"
-            },
-            {
-                "days": "",
-                "startTime": "",
-                "endTime": ""
-            },
-            {
-                "days": "",
-                "startTime": "",
-                "endTime": ""
             },
             {
                 "days": "M",
@@ -4736,18 +4726,23 @@
                 "days": "",
                 "startTime": "",
                 "endTime": ""
-            }
-        ],
-        "chad 101": [
-            {
-                "days": "T",
-                "startTime": "1030AM",
-                "endTime": "1145AM"
             },
             {
                 "days": "",
                 "startTime": "",
                 "endTime": ""
+            }
+        ],
+        "chad 101": [
+            {
+                "days": "",
+                "startTime": "",
+                "endTime": ""
+            },
+            {
+                "days": "T",
+                "startTime": "1030AM",
+                "endTime": "1145AM"
             },
             {
                 "days": "R",
@@ -4770,14 +4765,14 @@
                 "endTime": "0115PM"
             },
             {
-                "days": "",
-                "startTime": "",
-                "endTime": ""
-            },
-            {
                 "days": "R",
                 "startTime": "1200PM",
                 "endTime": "0115PM"
+            },
+            {
+                "days": "",
+                "startTime": "",
+                "endTime": ""
             },
             {
                 "days": "",
@@ -4790,14 +4785,14 @@
                 "endTime": "1145AM"
             },
             {
-                "days": "W",
-                "startTime": "0200PM",
-                "endTime": "0315PM"
-            },
-            {
                 "days": "",
                 "startTime": "",
                 "endTime": ""
+            },
+            {
+                "days": "W",
+                "startTime": "0200PM",
+                "endTime": "0315PM"
             },
             {
                 "days": "",
@@ -4874,14 +4869,14 @@
                 "endTime": ""
             },
             {
-                "days": "",
-                "startTime": "",
-                "endTime": ""
-            },
-            {
                 "days": "W",
                 "startTime": "0300PM",
                 "endTime": "0415PM"
+            },
+            {
+                "days": "",
+                "startTime": "",
+                "endTime": ""
             },
             {
                 "days": "",
@@ -4911,24 +4906,24 @@
                 "endTime": "0450PM"
             },
             {
+                "days": "",
+                "startTime": "",
+                "endTime": ""
+            },
+            {
                 "days": "R",
                 "startTime": "0500PM",
                 "endTime": "0650PM"
             },
             {
-                "days": "",
-                "startTime": "",
-                "endTime": ""
-            },
-            {
-                "days": "",
-                "startTime": "",
-                "endTime": ""
-            },
-            {
                 "days": "W",
                 "startTime": "1000AM",
                 "endTime": "1150AM"
+            },
+            {
+                "days": "",
+                "startTime": "",
+                "endTime": ""
             },
             {
                 "days": "T",
@@ -4963,14 +4958,14 @@
                 "endTime": "1145AM"
             },
             {
-                "days": "",
-                "startTime": "",
-                "endTime": ""
-            },
-            {
                 "days": "T",
                 "startTime": "0300PM",
                 "endTime": "0415PM"
+            },
+            {
+                "days": "",
+                "startTime": "",
+                "endTime": ""
             },
             {
                 "days": "MW",
@@ -4997,14 +4992,19 @@
         ],
         "chad 137": [
             {
+                "days": "W",
+                "startTime": "1200PM",
+                "endTime": "0115PM"
+            },
+            {
                 "days": "",
                 "startTime": "",
                 "endTime": ""
             },
             {
-                "days": "W",
-                "startTime": "1200PM",
-                "endTime": "0115PM"
+                "days": "",
+                "startTime": "",
+                "endTime": ""
             },
             {
                 "days": "T",
@@ -5020,11 +5020,6 @@
                 "days": "M",
                 "startTime": "0430PM",
                 "endTime": "0545PM"
-            },
-            {
-                "days": "",
-                "startTime": "",
-                "endTime": ""
             },
             {
                 "days": "R",
@@ -5064,14 +5059,14 @@
                 "endTime": "0115PM"
             },
             {
-                "days": "M",
-                "startTime": "0300PM",
-                "endTime": "0415PM"
-            },
-            {
                 "days": "",
                 "startTime": "",
                 "endTime": ""
+            },
+            {
+                "days": "M",
+                "startTime": "0300PM",
+                "endTime": "0415PM"
             },
             {
                 "days": "",
@@ -5086,26 +5081,26 @@
         ],
         "chad 139": [
             {
-                "days": "",
-                "startTime": "",
-                "endTime": ""
-            },
-            {
                 "days": "M",
                 "startTime": "1200PM",
                 "endTime": "0115PM"
+            },
+            {
+                "days": "",
+                "startTime": "",
+                "endTime": ""
             }
         ],
         "chad 141": [
             {
-                "days": "W",
-                "startTime": "0130PM",
-                "endTime": "0245PM"
-            },
-            {
                 "days": "",
                 "startTime": "",
                 "endTime": ""
+            },
+            {
+                "days": "W",
+                "startTime": "0130PM",
+                "endTime": "0245PM"
             },
             {
                 "days": "W",
@@ -5128,14 +5123,14 @@
                 "endTime": ""
             },
             {
-                "days": "",
-                "startTime": "",
-                "endTime": ""
-            },
-            {
                 "days": "T",
                 "startTime": "0130PM",
                 "endTime": "0245PM"
+            },
+            {
+                "days": "",
+                "startTime": "",
+                "endTime": ""
             },
             {
                 "days": "",
@@ -5165,14 +5160,14 @@
                 "endTime": ""
             },
             {
-                "days": "W",
-                "startTime": "0300PM",
-                "endTime": "0415PM"
-            },
-            {
                 "days": "",
                 "startTime": "",
                 "endTime": ""
+            },
+            {
+                "days": "W",
+                "startTime": "0300PM",
+                "endTime": "0415PM"
             }
         ],
         "chad 145": [
@@ -5209,11 +5204,6 @@
         ],
         "chad 146": [
             {
-                "days": "",
-                "startTime": "",
-                "endTime": ""
-            },
-            {
                 "days": "M",
                 "startTime": "0300PM",
                 "endTime": "0415PM"
@@ -5227,28 +5217,33 @@
                 "days": "M",
                 "startTime": "0530PM",
                 "endTime": "0645PM"
+            },
+            {
+                "days": "",
+                "startTime": "",
+                "endTime": ""
             }
         ],
         "chad 147": [
+            {
+                "days": "",
+                "startTime": "",
+                "endTime": ""
+            },
             {
                 "days": "M",
                 "startTime": "0900AM",
                 "endTime": "1015AM"
             },
             {
-                "days": "",
-                "startTime": "",
-                "endTime": ""
-            },
-            {
-                "days": "",
-                "startTime": "",
-                "endTime": ""
-            },
-            {
                 "days": "M",
                 "startTime": "0130PM",
                 "endTime": "0245PM"
+            },
+            {
+                "days": "",
+                "startTime": "",
+                "endTime": ""
             }
         ],
         "chad 150": [
@@ -5258,14 +5253,14 @@
                 "endTime": "0115PM"
             },
             {
-                "days": "M",
-                "startTime": "0530PM",
-                "endTime": "0645PM"
-            },
-            {
                 "days": "",
                 "startTime": "",
                 "endTime": ""
+            },
+            {
+                "days": "M",
+                "startTime": "0530PM",
+                "endTime": "0645PM"
             }
         ],
         "chad 156": [
@@ -5273,6 +5268,11 @@
                 "days": "T",
                 "startTime": "0300PM",
                 "endTime": "0415PM"
+            },
+            {
+                "days": "",
+                "startTime": "",
+                "endTime": ""
             },
             {
                 "days": "",
@@ -5303,11 +5303,6 @@
                 "days": "R",
                 "startTime": "0530PM",
                 "endTime": "0645PM"
-            },
-            {
-                "days": "",
-                "startTime": "",
-                "endTime": ""
             }
         ],
         "chad 157": [
@@ -5346,14 +5341,14 @@
                 "endTime": "0820PM"
             },
             {
-                "days": "R",
-                "startTime": "1030AM",
-                "endTime": "1145AM"
-            },
-            {
                 "days": "",
                 "startTime": "",
                 "endTime": ""
+            },
+            {
+                "days": "R",
+                "startTime": "1030AM",
+                "endTime": "1145AM"
             },
             {
                 "days": "T",
@@ -5404,14 +5399,14 @@
         ],
         "chad 242": [
             {
-                "days": "T",
-                "startTime": "0530PM",
-                "endTime": "0720PM"
-            },
-            {
                 "days": "",
                 "startTime": "",
                 "endTime": ""
+            },
+            {
+                "days": "T",
+                "startTime": "0530PM",
+                "endTime": "0720PM"
             }
         ],
         "chad 245": [
@@ -6009,14 +6004,14 @@
                 "endTime": "0350PM"
             },
             {
-                "days": "M",
-                "startTime": "0200PM",
-                "endTime": "0450PM"
-            },
-            {
                 "days": "W",
                 "startTime": "0100PM",
                 "endTime": "0350PM"
+            },
+            {
+                "days": "M",
+                "startTime": "0200PM",
+                "endTime": "0450PM"
             },
             {
                 "days": "T",
@@ -6029,14 +6024,14 @@
                 "endTime": "1150AM"
             },
             {
-                "days": "R",
-                "startTime": "0130PM",
-                "endTime": "0420PM"
-            },
-            {
                 "days": "T",
                 "startTime": "0230PM",
                 "endTime": "0520PM"
+            },
+            {
+                "days": "R",
+                "startTime": "0130PM",
+                "endTime": "0420PM"
             },
             {
                 "days": "TR",
@@ -6044,14 +6039,14 @@
                 "endTime": "1150AM"
             },
             {
-                "days": "T",
-                "startTime": "0230PM",
-                "endTime": "0520PM"
-            },
-            {
                 "days": "R",
                 "startTime": "0130PM",
                 "endTime": "0420PM"
+            },
+            {
+                "days": "T",
+                "startTime": "0230PM",
+                "endTime": "0520PM"
             }
         ],
         "chem 31": [
@@ -6183,14 +6178,14 @@
                 "endTime": "0950AM"
             },
             {
-                "days": "M",
-                "startTime": "1000AM",
-                "endTime": "1250PM"
-            },
-            {
                 "days": "W",
                 "startTime": "0900AM",
                 "endTime": "1150AM"
+            },
+            {
+                "days": "M",
+                "startTime": "1000AM",
+                "endTime": "1250PM"
             }
         ],
         "chem 133": [
@@ -6229,14 +6224,14 @@
                 "endTime": "0220PM"
             },
             {
-                "days": "T",
-                "startTime": "0230PM",
-                "endTime": "0500PM"
-            },
-            {
                 "days": "R",
                 "startTime": "0130PM",
                 "endTime": "0400PM"
+            },
+            {
+                "days": "T",
+                "startTime": "0230PM",
+                "endTime": "0500PM"
             }
         ],
         "chem 142": [
@@ -6329,14 +6324,14 @@
                 "endTime": "0950AM"
             },
             {
-                "days": "T",
-                "startTime": "1000AM",
-                "endTime": "1250PM"
-            },
-            {
                 "days": "R",
                 "startTime": "0900AM",
                 "endTime": "1150AM"
+            },
+            {
+                "days": "T",
+                "startTime": "1000AM",
+                "endTime": "1250PM"
             }
         ],
         "chem 189A": [
@@ -6911,14 +6906,14 @@
         ],
         "coms 4": [
             {
-                "days": "",
-                "startTime": "",
-                "endTime": ""
-            },
-            {
                 "days": "M",
                 "startTime": "0800AM",
                 "endTime": "0850AM"
+            },
+            {
+                "days": "",
+                "startTime": "",
+                "endTime": ""
             },
             {
                 "days": "",
@@ -6934,11 +6929,6 @@
                 "days": "F",
                 "startTime": "0800AM",
                 "endTime": "0850AM"
-            },
-            {
-                "days": "",
-                "startTime": "",
-                "endTime": ""
             },
             {
                 "days": "",
@@ -6981,6 +6971,11 @@
                 "endTime": "1050AM"
             },
             {
+                "days": "",
+                "startTime": "",
+                "endTime": ""
+            },
+            {
                 "days": "W",
                 "startTime": "1000AM",
                 "endTime": "1050AM"
@@ -7011,7 +7006,17 @@
                 "endTime": "1150AM"
             },
             {
+                "days": "",
+                "startTime": "",
+                "endTime": ""
+            },
+            {
                 "days": "W",
+                "startTime": "1100AM",
+                "endTime": "1150AM"
+            },
+            {
+                "days": "F",
                 "startTime": "1100AM",
                 "endTime": "1150AM"
             },
@@ -7019,11 +7024,6 @@
                 "days": "",
                 "startTime": "",
                 "endTime": ""
-            },
-            {
-                "days": "F",
-                "startTime": "1100AM",
-                "endTime": "1150AM"
             },
             {
                 "days": "",
@@ -7036,11 +7036,6 @@
                 "endTime": "1250PM"
             },
             {
-                "days": "",
-                "startTime": "",
-                "endTime": ""
-            },
-            {
                 "days": "W",
                 "startTime": "1200PM",
                 "endTime": "1250PM"
@@ -7061,17 +7056,7 @@
                 "endTime": "1250PM"
             },
             {
-                "days": "",
-                "startTime": "",
-                "endTime": ""
-            },
-            {
                 "days": "M",
-                "startTime": "0100PM",
-                "endTime": "0150PM"
-            },
-            {
-                "days": "F",
                 "startTime": "0100PM",
                 "endTime": "0150PM"
             },
@@ -7086,9 +7071,19 @@
                 "endTime": ""
             },
             {
+                "days": "F",
+                "startTime": "0100PM",
+                "endTime": "0150PM"
+            },
+            {
                 "days": "M",
                 "startTime": "0200PM",
                 "endTime": "0250PM"
+            },
+            {
+                "days": "",
+                "startTime": "",
+                "endTime": ""
             },
             {
                 "days": "",
@@ -7101,14 +7096,14 @@
                 "endTime": "0250PM"
             },
             {
-                "days": "F",
-                "startTime": "0200PM",
-                "endTime": "0250PM"
-            },
-            {
                 "days": "",
                 "startTime": "",
                 "endTime": ""
+            },
+            {
+                "days": "F",
+                "startTime": "0200PM",
+                "endTime": "0250PM"
             },
             {
                 "days": "MW",
@@ -7225,14 +7220,19 @@
         ],
         "coms 5": [
             {
-                "days": "",
-                "startTime": "",
-                "endTime": ""
-            },
-            {
                 "days": "T",
                 "startTime": "0730AM",
                 "endTime": "0845AM"
+            },
+            {
+                "days": "R",
+                "startTime": "0900AM",
+                "endTime": "1015AM"
+            },
+            {
+                "days": "",
+                "startTime": "",
+                "endTime": ""
             },
             {
                 "days": "R",
@@ -7240,17 +7240,17 @@
                 "endTime": "0845AM"
             },
             {
-                "days": "",
-                "startTime": "",
-                "endTime": ""
-            },
-            {
-                "days": "",
-                "startTime": "",
-                "endTime": ""
+                "days": "R",
+                "startTime": "0900AM",
+                "endTime": "1015AM"
             },
             {
                 "days": "T",
+                "startTime": "0900AM",
+                "endTime": "1015AM"
+            },
+            {
+                "days": "R",
                 "startTime": "0900AM",
                 "endTime": "1015AM"
             },
@@ -7260,16 +7260,6 @@
                 "endTime": "1145AM"
             },
             {
-                "days": "",
-                "startTime": "",
-                "endTime": ""
-            },
-            {
-                "days": "",
-                "startTime": "",
-                "endTime": ""
-            },
-            {
                 "days": "R",
                 "startTime": "1030AM",
                 "endTime": "1145AM"
@@ -7280,6 +7270,11 @@
                 "endTime": ""
             },
             {
+                "days": "R",
+                "startTime": "0900AM",
+                "endTime": "1015AM"
+            },
+            {
                 "days": "T",
                 "startTime": "1200PM",
                 "endTime": "0115PM"
@@ -7295,14 +7290,14 @@
                 "endTime": ""
             },
             {
+                "days": "R",
+                "startTime": "0900AM",
+                "endTime": "1015AM"
+            },
+            {
                 "days": "T",
                 "startTime": "0130PM",
                 "endTime": "0245PM"
-            },
-            {
-                "days": "",
-                "startTime": "",
-                "endTime": ""
             },
             {
                 "days": "R",
@@ -7325,19 +7320,24 @@
                 "endTime": "0415PM"
             },
             {
-                "days": "R",
-                "startTime": "0300PM",
-                "endTime": "0415PM"
-            },
-            {
                 "days": "",
                 "startTime": "",
                 "endTime": ""
             },
             {
+                "days": "R",
+                "startTime": "0300PM",
+                "endTime": "0415PM"
+            },
+            {
                 "days": "T",
                 "startTime": "1200PM",
                 "endTime": "0115PM"
+            },
+            {
+                "days": "",
+                "startTime": "",
+                "endTime": ""
             },
             {
                 "days": "",
@@ -7358,11 +7358,6 @@
                 "days": "T",
                 "startTime": "0130PM",
                 "endTime": "0245PM"
-            },
-            {
-                "days": "",
-                "startTime": "",
-                "endTime": ""
             },
             {
                 "days": "",
@@ -7767,22 +7762,22 @@
         ],
         "coms 145": [
             {
-                "days": "T",
-                "startTime": "0130PM",
-                "endTime": "0245PM"
-            },
-            {
                 "days": "R",
                 "startTime": "0130PM",
                 "endTime": "0245PM"
             },
             {
                 "days": "T",
+                "startTime": "0130PM",
+                "endTime": "0245PM"
+            },
+            {
+                "days": "R",
                 "startTime": "1200PM",
                 "endTime": "0115PM"
             },
             {
-                "days": "R",
+                "days": "T",
                 "startTime": "1200PM",
                 "endTime": "0115PM"
             }
@@ -7921,24 +7916,24 @@
         ],
         "coms 173": [
             {
-                "days": "F",
+                "days": "MW",
                 "startTime": "1100AM",
                 "endTime": "1150AM"
             },
             {
-                "days": "MW",
+                "days": "F",
                 "startTime": "1100AM",
                 "endTime": "1150AM"
             }
         ],
         "coms 174": [
             {
-                "days": "MW",
+                "days": "F",
                 "startTime": "1000AM",
                 "endTime": "1050AM"
             },
             {
-                "days": "F",
+                "days": "MW",
                 "startTime": "1000AM",
                 "endTime": "1050AM"
             }
@@ -7976,12 +7971,12 @@
         ],
         "coms 184": [
             {
-                "days": "F",
+                "days": "MW",
                 "startTime": "1000AM",
                 "endTime": "1050AM"
             },
             {
-                "days": "MW",
+                "days": "F",
                 "startTime": "1000AM",
                 "endTime": "1050AM"
             }
@@ -8205,14 +8200,14 @@
         ],
         "cpe 166": [
             {
-                "days": "M",
-                "startTime": "0900AM",
-                "endTime": "1015AM"
-            },
-            {
                 "days": "",
                 "startTime": "",
                 "endTime": ""
+            },
+            {
+                "days": "M",
+                "startTime": "0900AM",
+                "endTime": "1015AM"
             },
             {
                 "days": "T",
@@ -8237,14 +8232,14 @@
         ],
         "cpe 185": [
             {
-                "days": "T",
-                "startTime": "1030AM",
-                "endTime": "1145AM"
-            },
-            {
                 "days": "",
                 "startTime": "",
                 "endTime": ""
+            },
+            {
+                "days": "T",
+                "startTime": "1030AM",
+                "endTime": "1145AM"
             },
             {
                 "days": "T",
@@ -8424,14 +8419,14 @@
                 "endTime": "0415PM"
             },
             {
-                "days": "MW",
-                "startTime": "1100AM",
-                "endTime": "1150AM"
-            },
-            {
                 "days": "F",
                 "startTime": "",
                 "endTime": ""
+            },
+            {
+                "days": "MW",
+                "startTime": "1100AM",
+                "endTime": "1150AM"
             },
             {
                 "days": "",
@@ -8523,8 +8518,8 @@
             },
             {
                 "days": "TR",
-                "startTime": "1200PM",
-                "endTime": "0115PM"
+                "startTime": "0900AM",
+                "endTime": "1015AM"
             },
             {
                 "days": "",
@@ -8540,31 +8535,6 @@
                 "days": "TR",
                 "startTime": "0130PM",
                 "endTime": "0245PM"
-            },
-            {
-                "days": "TR",
-                "startTime": "1200PM",
-                "endTime": "0115PM"
-            },
-            {
-                "days": "MW",
-                "startTime": "1200PM",
-                "endTime": "0115PM"
-            },
-            {
-                "days": "TR",
-                "startTime": "0900AM",
-                "endTime": "1015AM"
-            },
-            {
-                "days": "MW",
-                "startTime": "0300PM",
-                "endTime": "0415PM"
-            },
-            {
-                "days": "TR",
-                "startTime": "0430PM",
-                "endTime": "0545PM"
             }
         ],
         "crj 109": [
@@ -8604,41 +8574,6 @@
                 "days": "",
                 "startTime": "",
                 "endTime": ""
-            },
-            {
-                "days": "MWF",
-                "startTime": "0900AM",
-                "endTime": "0950AM"
-            },
-            {
-                "days": "MWF",
-                "startTime": "1000AM",
-                "endTime": "1050AM"
-            },
-            {
-                "days": "MWF",
-                "startTime": "1100AM",
-                "endTime": "1150AM"
-            },
-            {
-                "days": "TR",
-                "startTime": "0730AM",
-                "endTime": "0845AM"
-            },
-            {
-                "days": "MWF",
-                "startTime": "0800AM",
-                "endTime": "0850AM"
-            },
-            {
-                "days": "MWF",
-                "startTime": "0900AM",
-                "endTime": "0950AM"
-            },
-            {
-                "days": "MW",
-                "startTime": "1030AM",
-                "endTime": "1145AM"
             }
         ],
         "crj 114": [
@@ -8654,8 +8589,8 @@
             },
             {
                 "days": "TR",
-                "startTime": "0530PM",
-                "endTime": "0645PM"
+                "startTime": "0300PM",
+                "endTime": "0415PM"
             },
             {
                 "days": "",
@@ -8841,13 +8776,6 @@
                 "endTime": ""
             }
         ],
-        "crj 131": [
-            {
-                "days": "TR",
-                "startTime": "0300PM",
-                "endTime": "0415PM"
-            }
-        ],
         "crj 141": [
             {
                 "days": "MW",
@@ -8855,9 +8783,9 @@
                 "endTime": "0415PM"
             },
             {
-                "days": "",
-                "startTime": "",
-                "endTime": ""
+                "days": "TR",
+                "startTime": "0300PM",
+                "endTime": "0415PM"
             },
             {
                 "days": "",
@@ -8875,8 +8803,8 @@
         "crj 152": [
             {
                 "days": "TR",
-                "startTime": "0130PM",
-                "endTime": "0245PM"
+                "startTime": "0530PM",
+                "endTime": "0645PM"
             }
         ],
         "crj 153": [
@@ -8895,9 +8823,9 @@
         ],
         "crj 156": [
             {
-                "days": "MW",
-                "startTime": "1200PM",
-                "endTime": "0115PM"
+                "days": "MWF",
+                "startTime": "0800AM",
+                "endTime": "0850AM"
             }
         ],
         "crj 160": [
@@ -8922,9 +8850,14 @@
                 "endTime": ""
             },
             {
-                "days": "TR",
+                "days": "T",
                 "startTime": "0130PM",
                 "endTime": "0245PM"
+            },
+            {
+                "days": "R",
+                "startTime": "",
+                "endTime": ""
             }
         ],
         "crj 169": [
@@ -8960,7 +8893,7 @@
             {
                 "days": "MW",
                 "startTime": "0130PM",
-                "endTime": "0230PM"
+                "endTime": "0245PM"
             },
             {
                 "days": "",
@@ -8977,6 +8910,13 @@
                 "startTime": "0530PM",
                 "endTime": "0645PM"
             },
+            {
+                "days": "",
+                "startTime": "",
+                "endTime": ""
+            }
+        ],
+        "crj 191": [
             {
                 "days": "",
                 "startTime": "",
@@ -9075,11 +9015,6 @@
         ],
         "csad 110": [
             {
-                "days": "W",
-                "startTime": "0100PM",
-                "endTime": "0250PM"
-            },
-            {
                 "days": "M",
                 "startTime": "0100PM",
                 "endTime": "0250PM"
@@ -9090,17 +9025,22 @@
                 "endTime": "0250PM"
             },
             {
+                "days": "W",
+                "startTime": "0100PM",
+                "endTime": "0250PM"
+            },
+            {
                 "days": "M",
                 "startTime": "0100PM",
                 "endTime": "0250PM"
             },
             {
-                "days": "W",
+                "days": "M",
                 "startTime": "0300PM",
                 "endTime": "0450PM"
             },
             {
-                "days": "M",
+                "days": "W",
                 "startTime": "0300PM",
                 "endTime": "0450PM"
             }
@@ -9283,14 +9223,14 @@
         ],
         "csad 241S": [
             {
-                "days": "F",
-                "startTime": "0900AM",
-                "endTime": "0200PM"
-            },
-            {
                 "days": "R",
                 "startTime": "0200PM",
                 "endTime": "0250PM"
+            },
+            {
+                "days": "F",
+                "startTime": "0900AM",
+                "endTime": "0200PM"
             }
         ],
         "csad 242A": [
@@ -10041,17 +9981,17 @@
         ],
         "csc 126": [
             {
-                "days": "M",
-                "startTime": "0400PM",
-                "endTime": "0650PM"
-            },
-            {
-                "days": "M",
-                "startTime": "0400PM",
-                "endTime": "0650PM"
-            },
-            {
                 "days": "W",
+                "startTime": "0400PM",
+                "endTime": "0650PM"
+            },
+            {
+                "days": "M",
+                "startTime": "0400PM",
+                "endTime": "0650PM"
+            },
+            {
+                "days": "M",
                 "startTime": "0400PM",
                 "endTime": "0650PM"
             },
@@ -10394,8 +10334,8 @@
         "csc 163": [
             {
                 "days": "TR",
-                "startTime": "0400PM",
-                "endTime": "0515PM"
+                "startTime": "1030AM",
+                "endTime": "1145AM"
             }
         ],
         "csc 171": [
@@ -10641,8 +10581,8 @@
         "csc 258": [
             {
                 "days": "TR",
-                "startTime": "0400PM",
-                "endTime": "0515PM"
+                "startTime": "1030AM",
+                "endTime": "1145AM"
             },
             {
                 "days": "TR",
@@ -10773,24 +10713,24 @@
                 "endTime": "0150PM"
             },
             {
-                "days": "",
-                "startTime": "",
-                "endTime": ""
-            },
-            {
                 "days": "T",
                 "startTime": "0900AM",
                 "endTime": "1050AM"
             },
             {
-                "days": "T",
-                "startTime": "1100AM",
-                "endTime": "1250PM"
+                "days": "",
+                "startTime": "",
+                "endTime": ""
             },
             {
                 "days": "",
                 "startTime": "",
                 "endTime": ""
+            },
+            {
+                "days": "T",
+                "startTime": "1100AM",
+                "endTime": "1250PM"
             },
             {
                 "days": "",
@@ -10813,14 +10753,14 @@
                 "endTime": "0150PM"
             },
             {
-                "days": "M",
-                "startTime": "0430PM",
-                "endTime": "0620PM"
-            },
-            {
                 "days": "",
                 "startTime": "",
                 "endTime": ""
+            },
+            {
+                "days": "M",
+                "startTime": "0430PM",
+                "endTime": "0620PM"
             },
             {
                 "days": "",
@@ -10843,14 +10783,14 @@
                 "endTime": ""
             },
             {
-                "days": "T",
-                "startTime": "0200PM",
-                "endTime": "0350PM"
-            },
-            {
                 "days": "",
                 "startTime": "",
                 "endTime": ""
+            },
+            {
+                "days": "T",
+                "startTime": "0200PM",
+                "endTime": "0350PM"
             },
             {
                 "days": "TR",
@@ -10910,24 +10850,24 @@
                 "endTime": ""
             },
             {
+                "days": "",
+                "startTime": "",
+                "endTime": ""
+            },
+            {
                 "days": "T",
                 "startTime": "0900AM",
                 "endTime": "1050AM"
             },
             {
-                "days": "",
-                "startTime": "",
-                "endTime": ""
-            },
-            {
-                "days": "",
-                "startTime": "",
-                "endTime": ""
-            },
-            {
                 "days": "T",
                 "startTime": "1100AM",
                 "endTime": "1250PM"
+            },
+            {
+                "days": "",
+                "startTime": "",
+                "endTime": ""
             },
             {
                 "days": "R",
@@ -10972,14 +10912,14 @@
         ],
         "deaf 53": [
             {
-                "days": "T",
-                "startTime": "0900AM",
-                "endTime": "1050AM"
-            },
-            {
                 "days": "",
                 "startTime": "",
                 "endTime": ""
+            },
+            {
+                "days": "T",
+                "startTime": "0900AM",
+                "endTime": "1050AM"
             }
         ],
         "deaf 56": [
@@ -11430,13 +11370,6 @@
                 "days": "TR",
                 "startTime": "0130PM",
                 "endTime": "0245PM"
-            }
-        ],
-        "econ 114": [
-            {
-                "days": "R",
-                "startTime": "0530PM",
-                "endTime": "0820PM"
             }
         ],
         "econ 132": [
@@ -11899,19 +11832,19 @@
         ],
         "edc 245": [
             {
-                "days": "S",
-                "startTime": "0800AM",
-                "endTime": "1200PM"
-            },
-            {
-                "days": "S",
-                "startTime": "0800AM",
-                "endTime": "1200PM"
-            },
-            {
                 "days": "T",
                 "startTime": "0900AM",
                 "endTime": "1150AM"
+            },
+            {
+                "days": "S",
+                "startTime": "0800AM",
+                "endTime": "1200PM"
+            },
+            {
+                "days": "S",
+                "startTime": "0800AM",
+                "endTime": "1200PM"
             }
         ],
         "edc 252": [
@@ -12309,14 +12242,14 @@
         ],
         "edsp 200": [
             {
-                "days": "R",
-                "startTime": "0730PM",
-                "endTime": "0900PM"
-            },
-            {
                 "days": "",
                 "startTime": "",
                 "endTime": ""
+            },
+            {
+                "days": "R",
+                "startTime": "0730PM",
+                "endTime": "0900PM"
             }
         ],
         "edsp 201": [
@@ -12414,14 +12347,14 @@
         ],
         "edsp 220": [
             {
-                "days": "T",
-                "startTime": "0430PM",
-                "endTime": "0720PM"
-            },
-            {
                 "days": "",
                 "startTime": "",
                 "endTime": ""
+            },
+            {
+                "days": "T",
+                "startTime": "0430PM",
+                "endTime": "0720PM"
             }
         ],
         "edsp 225": [
@@ -12459,14 +12392,14 @@
         ],
         "edsp 282": [
             {
-                "days": "T",
-                "startTime": "0430PM",
-                "endTime": "0720PM"
-            },
-            {
                 "days": "",
                 "startTime": "",
                 "endTime": ""
+            },
+            {
+                "days": "T",
+                "startTime": "0430PM",
+                "endTime": "0720PM"
             },
             {
                 "days": "T",
@@ -12481,14 +12414,14 @@
         ],
         "edsp 292": [
             {
-                "days": "",
-                "startTime": "",
-                "endTime": ""
-            },
-            {
                 "days": "T",
                 "startTime": "0730PM",
                 "endTime": "0950PM"
+            },
+            {
+                "days": "",
+                "startTime": "",
+                "endTime": ""
             }
         ],
         "edsp 420B": [
@@ -12516,24 +12449,24 @@
         ],
         "educ 10": [
             {
+                "days": "",
+                "startTime": "",
+                "endTime": ""
+            },
+            {
                 "days": "M",
                 "startTime": "0900AM",
                 "endTime": "1015AM"
             },
             {
-                "days": "",
-                "startTime": "",
-                "endTime": ""
-            },
-            {
-                "days": "",
-                "startTime": "",
-                "endTime": ""
-            },
-            {
                 "days": "M",
                 "startTime": "1030AM",
                 "endTime": "1145AM"
+            },
+            {
+                "days": "",
+                "startTime": "",
+                "endTime": ""
             },
             {
                 "days": "MW",
@@ -12596,14 +12529,14 @@
                 "endTime": "1145AM"
             },
             {
-                "days": "",
-                "startTime": "",
-                "endTime": ""
-            },
-            {
                 "days": "M",
                 "startTime": "1030AM",
                 "endTime": "1145AM"
+            },
+            {
+                "days": "",
+                "startTime": "",
+                "endTime": ""
             },
             {
                 "days": "MW",
@@ -12641,14 +12574,14 @@
                 "endTime": ""
             },
             {
-                "days": "M",
-                "startTime": "1200PM",
-                "endTime": "0115PM"
-            },
-            {
                 "days": "",
                 "startTime": "",
                 "endTime": ""
+            },
+            {
+                "days": "M",
+                "startTime": "1200PM",
+                "endTime": "0115PM"
             },
             {
                 "days": "",
@@ -12745,14 +12678,14 @@
                 "endTime": "1015AM"
             },
             {
-                "days": "W",
-                "startTime": "1200PM",
-                "endTime": "0115PM"
-            },
-            {
                 "days": "",
                 "startTime": "",
                 "endTime": ""
+            },
+            {
+                "days": "W",
+                "startTime": "1200PM",
+                "endTime": "0115PM"
             },
             {
                 "days": "TR",
@@ -12770,14 +12703,14 @@
                 "endTime": ""
             },
             {
-                "days": "T",
-                "startTime": "1030AM",
-                "endTime": "1145AM"
-            },
-            {
                 "days": "",
                 "startTime": "",
                 "endTime": ""
+            },
+            {
+                "days": "T",
+                "startTime": "1030AM",
+                "endTime": "1145AM"
             }
         ],
         "educ 100A": [
@@ -12858,14 +12791,14 @@
         ],
         "educ 121": [
             {
-                "days": "M",
-                "startTime": "1030AM",
-                "endTime": "1145AM"
-            },
-            {
                 "days": "",
                 "startTime": "",
                 "endTime": ""
+            },
+            {
+                "days": "M",
+                "startTime": "1030AM",
+                "endTime": "1145AM"
             },
             {
                 "days": "M",
@@ -13019,14 +12952,14 @@
         ],
         "educ 158": [
             {
-                "days": "T",
-                "startTime": "0900AM",
-                "endTime": "1015AM"
-            },
-            {
                 "days": "",
                 "startTime": "",
                 "endTime": ""
+            },
+            {
+                "days": "T",
+                "startTime": "0900AM",
+                "endTime": "1015AM"
             }
         ],
         "educ 160": [
@@ -13078,11 +13011,6 @@
         ],
         "educ 165": [
             {
-                "days": "",
-                "startTime": "",
-                "endTime": ""
-            },
-            {
                 "days": "T",
                 "startTime": "0130PM",
                 "endTime": "0245PM"
@@ -13096,6 +13024,11 @@
                 "days": "T",
                 "startTime": "1200PM",
                 "endTime": "0115PM"
+            },
+            {
+                "days": "",
+                "startTime": "",
+                "endTime": ""
             },
             {
                 "days": "",
@@ -13140,12 +13073,12 @@
                 "endTime": "0520PM"
             },
             {
-                "days": "T",
+                "days": "R",
                 "startTime": "0130PM",
                 "endTime": "0245PM"
             },
             {
-                "days": "R",
+                "days": "T",
                 "startTime": "0130PM",
                 "endTime": "0245PM"
             },
@@ -13182,14 +13115,14 @@
                 "endTime": ""
             },
             {
-                "days": "T",
-                "startTime": "0430PM",
-                "endTime": "0720PM"
-            },
-            {
                 "days": "",
                 "startTime": "",
                 "endTime": ""
+            },
+            {
+                "days": "T",
+                "startTime": "0430PM",
+                "endTime": "0720PM"
             },
             {
                 "days": "MW",
@@ -13281,14 +13214,14 @@
     "EEE": {
         "eee 64": [
             {
-                "days": "",
-                "startTime": "",
-                "endTime": ""
-            },
-            {
                 "days": "T",
                 "startTime": "1200PM",
                 "endTime": "0115PM"
+            },
+            {
+                "days": "",
+                "startTime": "",
+                "endTime": ""
             },
             {
                 "days": "W",
@@ -13296,14 +13229,14 @@
                 "endTime": "0840PM"
             },
             {
-                "days": "",
-                "startTime": "",
-                "endTime": ""
-            },
-            {
                 "days": "M",
                 "startTime": "1200PM",
                 "endTime": "0115PM"
+            },
+            {
+                "days": "",
+                "startTime": "",
+                "endTime": ""
             },
             {
                 "days": "F",
@@ -13311,14 +13244,14 @@
                 "endTime": "0840PM"
             },
             {
-                "days": "",
-                "startTime": "",
-                "endTime": ""
-            },
-            {
                 "days": "T",
                 "startTime": "0300PM",
                 "endTime": "0415PM"
+            },
+            {
+                "days": "",
+                "startTime": "",
+                "endTime": ""
             },
             {
                 "days": "R",
@@ -13326,12 +13259,12 @@
                 "endTime": "0110PM"
             },
             {
-                "days": "R",
+                "days": "T",
                 "startTime": "0130PM",
                 "endTime": "0245PM"
             },
             {
-                "days": "T",
+                "days": "R",
                 "startTime": "0130PM",
                 "endTime": "0245PM"
             },
@@ -13455,12 +13388,12 @@
         ],
         "eee 122": [
             {
-                "days": "F",
+                "days": "MW",
                 "startTime": "1100AM",
                 "endTime": "1150AM"
             },
             {
-                "days": "MW",
+                "days": "F",
                 "startTime": "1100AM",
                 "endTime": "1150AM"
             }
@@ -13486,12 +13419,12 @@
         ],
         "eee 142": [
             {
-                "days": "W",
+                "days": "M",
                 "startTime": "0445PM",
                 "endTime": "0600PM"
             },
             {
-                "days": "M",
+                "days": "W",
                 "startTime": "0445PM",
                 "endTime": "0600PM"
             }
@@ -13549,14 +13482,14 @@
                 "endTime": "1015AM"
             },
             {
-                "days": "",
-                "startTime": "",
-                "endTime": ""
-            },
-            {
                 "days": "R",
                 "startTime": "1030AM",
                 "endTime": "1145AM"
+            },
+            {
+                "days": "",
+                "startTime": "",
+                "endTime": ""
             },
             {
                 "days": "M",
@@ -13630,19 +13563,14 @@
         ],
         "eee 180": [
             {
-                "days": "T",
-                "startTime": "0130PM",
-                "endTime": "0245PM"
-            },
-            {
                 "days": "R",
                 "startTime": "0130PM",
                 "endTime": "0230PM"
             },
             {
-                "days": "R",
-                "startTime": "0900AM",
-                "endTime": "1015AM"
+                "days": "T",
+                "startTime": "0130PM",
+                "endTime": "0245PM"
             },
             {
                 "days": "T",
@@ -13650,14 +13578,19 @@
                 "endTime": "1015AM"
             },
             {
-                "days": "",
-                "startTime": "",
-                "endTime": ""
+                "days": "R",
+                "startTime": "0900AM",
+                "endTime": "1015AM"
             },
             {
                 "days": "M",
                 "startTime": "0730AM",
                 "endTime": "0845AM"
+            },
+            {
+                "days": "",
+                "startTime": "",
+                "endTime": ""
             }
         ],
         "eee 184": [
@@ -13674,22 +13607,22 @@
         ],
         "eee 185": [
             {
-                "days": "F",
-                "startTime": "1100AM",
-                "endTime": "1150AM"
-            },
-            {
                 "days": "MW",
                 "startTime": "1100AM",
                 "endTime": "1150AM"
             },
             {
-                "days": "T",
+                "days": "F",
+                "startTime": "1100AM",
+                "endTime": "1150AM"
+            },
+            {
+                "days": "R",
                 "startTime": "1200PM",
                 "endTime": "0115PM"
             },
             {
-                "days": "R",
+                "days": "T",
                 "startTime": "1200PM",
                 "endTime": "0115PM"
             }
@@ -13917,29 +13850,29 @@
         ],
         "eee 264": [
             {
-                "days": "R",
+                "days": "T",
                 "startTime": "0130PM",
                 "endTime": "0245PM"
             },
             {
-                "days": "T",
+                "days": "R",
                 "startTime": "0130PM",
                 "endTime": "0245PM"
             }
         ],
         "eee 270": [
             {
+                "days": "M",
+                "startTime": "0500PM",
+                "endTime": "0615PM"
+            },
+            {
+                "days": "M",
+                "startTime": "0500PM",
+                "endTime": "0615PM"
+            },
+            {
                 "days": "W",
-                "startTime": "0500PM",
-                "endTime": "0615PM"
-            },
-            {
-                "days": "M",
-                "startTime": "0500PM",
-                "endTime": "0615PM"
-            },
-            {
-                "days": "M",
                 "startTime": "0500PM",
                 "endTime": "0615PM"
             },
@@ -14329,14 +14262,14 @@
                 "endTime": "0950AM"
             },
             {
-                "days": "M",
-                "startTime": "1000AM",
-                "endTime": "1050AM"
-            },
-            {
                 "days": "",
                 "startTime": "",
                 "endTime": ""
+            },
+            {
+                "days": "M",
+                "startTime": "1000AM",
+                "endTime": "1050AM"
             },
             {
                 "days": "MWF",
@@ -14525,12 +14458,12 @@
                 "endTime": "0850AM"
             },
             {
-                "days": "MW",
+                "days": "F",
                 "startTime": "0800AM",
                 "endTime": "0850AM"
             },
             {
-                "days": "F",
+                "days": "MW",
                 "startTime": "0800AM",
                 "endTime": "0850AM"
             },
@@ -14655,12 +14588,12 @@
                 "endTime": "1145AM"
             },
             {
-                "days": "R",
+                "days": "T",
                 "startTime": "1200PM",
                 "endTime": "0115PM"
             },
             {
-                "days": "T",
+                "days": "R",
                 "startTime": "1200PM",
                 "endTime": "0115PM"
             },
@@ -14700,22 +14633,22 @@
                 "endTime": "0415PM"
             },
             {
+                "days": "T",
+                "startTime": "0300PM",
+                "endTime": "0415PM"
+            },
+            {
                 "days": "R",
                 "startTime": "0300PM",
                 "endTime": "0415PM"
             },
             {
-                "days": "T",
-                "startTime": "0300PM",
-                "endTime": "0415PM"
-            },
-            {
-                "days": "T",
+                "days": "R",
                 "startTime": "0430PM",
                 "endTime": "0545PM"
             },
             {
-                "days": "R",
+                "days": "T",
                 "startTime": "0430PM",
                 "endTime": "0545PM"
             },
@@ -14855,6 +14788,11 @@
                 "days": "TR",
                 "startTime": "0600PM",
                 "endTime": "0715PM"
+            },
+            {
+                "days": "M",
+                "startTime": "0300PM",
+                "endTime": "0545PM"
             }
         ],
         "engl 109X": [
@@ -14899,14 +14837,14 @@
                 "endTime": ""
             },
             {
-                "days": "T",
-                "startTime": "0400PM",
-                "endTime": "0450PM"
-            },
-            {
                 "days": "R",
                 "startTime": "",
                 "endTime": ""
+            },
+            {
+                "days": "T",
+                "startTime": "0400PM",
+                "endTime": "0450PM"
             },
             {
                 "days": "",
@@ -15389,17 +15327,17 @@
         ],
         "engr 17": [
             {
+                "days": "T",
+                "startTime": "0130PM",
+                "endTime": "0245PM"
+            },
+            {
                 "days": "",
                 "startTime": "",
                 "endTime": ""
             },
             {
                 "days": "T",
-                "startTime": "0130PM",
-                "endTime": "0245PM"
-            },
-            {
-                "days": "T",
                 "startTime": "0900AM",
                 "endTime": "1015AM"
             },
@@ -15409,12 +15347,12 @@
                 "endTime": "1015AM"
             },
             {
-                "days": "T",
+                "days": "R",
                 "startTime": "1030AM",
                 "endTime": "1145AM"
             },
             {
-                "days": "R",
+                "days": "T",
                 "startTime": "1030AM",
                 "endTime": "1145AM"
             },
@@ -17138,14 +17076,14 @@
     "FIN": {
         "fin 10": [
             {
-                "days": "",
-                "startTime": "",
-                "endTime": ""
-            },
-            {
                 "days": "MW",
                 "startTime": "0130PM",
                 "endTime": "0245PM"
+            },
+            {
+                "days": "",
+                "startTime": "",
+                "endTime": ""
             }
         ],
         "fin 19": [
@@ -17357,14 +17295,14 @@
                 "endTime": "0950AM"
             },
             {
-                "days": "MW",
-                "startTime": "1100AM",
-                "endTime": "1150AM"
-            },
-            {
                 "days": "TR",
                 "startTime": "1030AM",
                 "endTime": "1120AM"
+            },
+            {
+                "days": "MW",
+                "startTime": "1100AM",
+                "endTime": "1150AM"
             },
             {
                 "days": "MTWR",
@@ -17467,11 +17405,6 @@
                 "days": "MW",
                 "startTime": "1030AM",
                 "endTime": "1145AM"
-            },
-            {
-                "days": "TR",
-                "startTime": "0130PM",
-                "endTime": "0245PM"
             }
         ],
         "fshd 154": [
@@ -18800,12 +18733,12 @@
                 "endTime": ""
             },
             {
-                "days": "M",
+                "days": "W",
                 "startTime": "0730AM",
                 "endTime": "0845AM"
             },
             {
-                "days": "W",
+                "days": "M",
                 "startTime": "0730AM",
                 "endTime": "0845AM"
             }
@@ -19774,14 +19707,14 @@
     "HRS": {
         "hrs 4": [
             {
-                "days": "",
-                "startTime": "",
-                "endTime": ""
-            },
-            {
                 "days": "M",
                 "startTime": "1200PM",
                 "endTime": "0115PM"
+            },
+            {
+                "days": "",
+                "startTime": "",
+                "endTime": ""
             },
             {
                 "days": "",
@@ -19856,14 +19789,14 @@
         ],
         "hrs 80": [
             {
-                "days": "",
-                "startTime": "",
-                "endTime": ""
-            },
-            {
                 "days": "M",
                 "startTime": "0300PM",
                 "endTime": "0415PM"
+            },
+            {
+                "days": "",
+                "startTime": "",
+                "endTime": ""
             },
             {
                 "days": "TR",
@@ -19911,14 +19844,14 @@
         ],
         "hrs 121": [
             {
-                "days": "W",
-                "startTime": "1200PM",
-                "endTime": "0115PM"
-            },
-            {
                 "days": "",
                 "startTime": "",
                 "endTime": ""
+            },
+            {
+                "days": "W",
+                "startTime": "1200PM",
+                "endTime": "0115PM"
             }
         ],
         "hrs 126": [
@@ -19930,14 +19863,14 @@
         ],
         "hrs 131": [
             {
-                "days": "",
-                "startTime": "",
-                "endTime": ""
-            },
-            {
                 "days": "R",
                 "startTime": "1200PM",
                 "endTime": "0115PM"
+            },
+            {
+                "days": "",
+                "startTime": "",
+                "endTime": ""
             }
         ],
         "hrs 144": [
@@ -20025,14 +19958,14 @@
         ],
         "hrs 181": [
             {
-                "days": "M",
-                "startTime": "0130PM",
-                "endTime": "0245PM"
-            },
-            {
                 "days": "",
                 "startTime": "",
                 "endTime": ""
+            },
+            {
+                "days": "M",
+                "startTime": "0130PM",
+                "endTime": "0245PM"
             }
         ],
         "hrs 190D": [
@@ -20345,14 +20278,14 @@
     "ITAL": {
         "ital 1A": [
             {
-                "days": "TR",
-                "startTime": "1030AM",
-                "endTime": "1120AM"
-            },
-            {
                 "days": "MW",
                 "startTime": "1100AM",
                 "endTime": "1150AM"
+            },
+            {
+                "days": "TR",
+                "startTime": "1030AM",
+                "endTime": "1120AM"
             },
             {
                 "days": "MTWR",
@@ -20945,12 +20878,12 @@
                 "endTime": "0350PM"
             },
             {
-                "days": "F",
+                "days": "MW",
                 "startTime": "0100PM",
                 "endTime": "0150PM"
             },
             {
-                "days": "MW",
+                "days": "F",
                 "startTime": "0100PM",
                 "endTime": "0150PM"
             }
@@ -21008,12 +20941,12 @@
                 "endTime": "1050AM"
             },
             {
-                "days": "MW",
+                "days": "MWF",
                 "startTime": "1000AM",
                 "endTime": "1050AM"
             },
             {
-                "days": "MWF",
+                "days": "MW",
                 "startTime": "1000AM",
                 "endTime": "1050AM"
             },
@@ -22256,17 +22189,12 @@
                 "endTime": "0850AM"
             },
             {
+                "days": "MWF",
+                "startTime": "0900AM",
+                "endTime": "0950AM"
+            },
+            {
                 "days": "T",
-                "startTime": "0900AM",
-                "endTime": "0950AM"
-            },
-            {
-                "days": "MWF",
-                "startTime": "0900AM",
-                "endTime": "0950AM"
-            },
-            {
-                "days": "MWF",
                 "startTime": "0900AM",
                 "endTime": "0950AM"
             },
@@ -22276,9 +22204,9 @@
                 "endTime": "0950AM"
             },
             {
-                "days": "T",
-                "startTime": "1030AM",
-                "endTime": "1120AM"
+                "days": "MWF",
+                "startTime": "0900AM",
+                "endTime": "0950AM"
             },
             {
                 "days": "MWF",
@@ -22286,64 +22214,14 @@
                 "endTime": "1050AM"
             },
             {
-                "days": "MWF",
-                "startTime": "1000AM",
-                "endTime": "1050AM"
+                "days": "T",
+                "startTime": "1030AM",
+                "endTime": "1120AM"
             },
             {
                 "days": "R",
                 "startTime": "1030AM",
                 "endTime": "1120AM"
-            },
-            {
-                "days": "MWF",
-                "startTime": "1100AM",
-                "endTime": "1150AM"
-            },
-            {
-                "days": "R",
-                "startTime": "1030AM",
-                "endTime": "1120AM"
-            },
-            {
-                "days": "T",
-                "startTime": "1200PM",
-                "endTime": "1250PM"
-            },
-            {
-                "days": "MWF",
-                "startTime": "1200PM",
-                "endTime": "1250PM"
-            },
-            {
-                "days": "T",
-                "startTime": "1200PM",
-                "endTime": "1250PM"
-            },
-            {
-                "days": "MWF",
-                "startTime": "1200PM",
-                "endTime": "1250PM"
-            },
-            {
-                "days": "MWF",
-                "startTime": "0100PM",
-                "endTime": "0150PM"
-            },
-            {
-                "days": "T",
-                "startTime": "0130PM",
-                "endTime": "0220PM"
-            },
-            {
-                "days": "R",
-                "startTime": "0130PM",
-                "endTime": "0220PM"
-            },
-            {
-                "days": "MWF",
-                "startTime": "0200PM",
-                "endTime": "0250PM"
             },
             {
                 "days": "MWF",
@@ -22362,11 +22240,76 @@
             },
             {
                 "days": "T",
+                "startTime": "1200PM",
+                "endTime": "1250PM"
+            },
+            {
+                "days": "MWF",
+                "startTime": "1200PM",
+                "endTime": "1250PM"
+            },
+            {
+                "days": "MWF",
+                "startTime": "1200PM",
+                "endTime": "1250PM"
+            },
+            {
+                "days": "T",
+                "startTime": "1200PM",
+                "endTime": "1250PM"
+            },
+            {
+                "days": "T",
+                "startTime": "0130PM",
+                "endTime": "0220PM"
+            },
+            {
+                "days": "MWF",
+                "startTime": "0100PM",
+                "endTime": "0150PM"
+            },
+            {
+                "days": "MWF",
+                "startTime": "0200PM",
+                "endTime": "0250PM"
+            },
+            {
+                "days": "R",
+                "startTime": "0130PM",
+                "endTime": "0220PM"
+            },
+            {
+                "days": "MWF",
+                "startTime": "1000AM",
+                "endTime": "1050AM"
+            },
+            {
+                "days": "R",
                 "startTime": "1030AM",
                 "endTime": "1120AM"
             },
             {
                 "days": "T",
+                "startTime": "1030AM",
+                "endTime": "1120AM"
+            },
+            {
+                "days": "MWF",
+                "startTime": "1100AM",
+                "endTime": "1150AM"
+            },
+            {
+                "days": "T",
+                "startTime": "0130PM",
+                "endTime": "0220PM"
+            },
+            {
+                "days": "MWF",
+                "startTime": "0200PM",
+                "endTime": "0250PM"
+            },
+            {
+                "days": "T",
                 "startTime": "0130PM",
                 "endTime": "0220PM"
             },
@@ -22377,28 +22320,13 @@
             },
             {
                 "days": "MWF",
-                "startTime": "0200PM",
-                "endTime": "0250PM"
-            },
-            {
-                "days": "T",
-                "startTime": "0130PM",
-                "endTime": "0220PM"
-            },
-            {
-                "days": "T",
-                "startTime": "1200PM",
-                "endTime": "1250PM"
-            },
-            {
-                "days": "MWF",
                 "startTime": "1200PM",
                 "endTime": "1250PM"
             },
             {
                 "days": "T",
-                "startTime": "0800AM",
-                "endTime": "0850AM"
+                "startTime": "1200PM",
+                "endTime": "1250PM"
             },
             {
                 "days": "MWF",
@@ -22407,11 +22335,11 @@
             },
             {
                 "days": "T",
-                "startTime": "1200PM",
-                "endTime": "1250PM"
+                "startTime": "0800AM",
+                "endTime": "0850AM"
             },
             {
-                "days": "MWF",
+                "days": "T",
                 "startTime": "1200PM",
                 "endTime": "1250PM"
             },
@@ -22427,13 +22355,18 @@
             },
             {
                 "days": "MWF",
-                "startTime": "0100PM",
-                "endTime": "0150PM"
+                "startTime": "1200PM",
+                "endTime": "1250PM"
             },
             {
                 "days": "T",
                 "startTime": "0130PM",
                 "endTime": "0220PM"
+            },
+            {
+                "days": "MWF",
+                "startTime": "0100PM",
+                "endTime": "0150PM"
             },
             {
                 "days": "R",
@@ -22559,12 +22492,12 @@
         ],
         "math 29": [
             {
-                "days": "T",
+                "days": "MWF",
                 "startTime": "0800AM",
                 "endTime": "0850AM"
             },
             {
-                "days": "MWF",
+                "days": "T",
                 "startTime": "0800AM",
                 "endTime": "0850AM"
             },
@@ -22579,14 +22512,19 @@
                 "endTime": "0850AM"
             },
             {
+                "days": "T",
+                "startTime": "0900AM",
+                "endTime": "0950AM"
+            },
+            {
                 "days": "MWF",
                 "startTime": "0900AM",
                 "endTime": "0950AM"
             },
             {
-                "days": "T",
-                "startTime": "0900AM",
-                "endTime": "0950AM"
+                "days": "R",
+                "startTime": "1030AM",
+                "endTime": "1120AM"
             },
             {
                 "days": "MWF",
@@ -22594,19 +22532,14 @@
                 "endTime": "1050AM"
             },
             {
-                "days": "R",
-                "startTime": "1030AM",
-                "endTime": "1120AM"
-            },
-            {
-                "days": "R",
-                "startTime": "1030AM",
-                "endTime": "1120AM"
-            },
-            {
                 "days": "MWF",
                 "startTime": "1100AM",
                 "endTime": "1150AM"
+            },
+            {
+                "days": "R",
+                "startTime": "1030AM",
+                "endTime": "1120AM"
             },
             {
                 "days": "MWF",
@@ -22639,12 +22572,12 @@
                 "endTime": "0515PM"
             },
             {
-                "days": "MWF",
+                "days": "R",
                 "startTime": "1200PM",
                 "endTime": "1250PM"
             },
             {
-                "days": "R",
+                "days": "MWF",
                 "startTime": "1200PM",
                 "endTime": "1250PM"
             },
@@ -22669,11 +22602,6 @@
                 "endTime": "1120AM"
             },
             {
-                "days": "MWF",
-                "startTime": "1200PM",
-                "endTime": "1250PM"
-            },
-            {
                 "days": "T",
                 "startTime": "1200PM",
                 "endTime": "1250PM"
@@ -22684,31 +22612,41 @@
                 "endTime": "1250PM"
             },
             {
-                "days": "T",
+                "days": "MWF",
                 "startTime": "1200PM",
                 "endTime": "1250PM"
             },
             {
-                "days": "R",
-                "startTime": "0130PM",
-                "endTime": "0220PM"
+                "days": "T",
+                "startTime": "1200PM",
+                "endTime": "1250PM"
             },
             {
                 "days": "MWF",
                 "startTime": "0200PM",
                 "endTime": "0250PM"
+            },
+            {
+                "days": "R",
+                "startTime": "0130PM",
+                "endTime": "0220PM"
             }
         ],
         "math 30": [
             {
+                "days": "T",
+                "startTime": "0800AM",
+                "endTime": "0850AM"
+            },
+            {
                 "days": "MWF",
                 "startTime": "0800AM",
                 "endTime": "0850AM"
             },
             {
                 "days": "T",
-                "startTime": "0800AM",
-                "endTime": "0850AM"
+                "startTime": "0900AM",
+                "endTime": "0950AM"
             },
             {
                 "days": "MWF",
@@ -22716,17 +22654,12 @@
                 "endTime": "0950AM"
             },
             {
-                "days": "T",
+                "days": "MWF",
                 "startTime": "0900AM",
                 "endTime": "0950AM"
             },
             {
                 "days": "R",
-                "startTime": "0900AM",
-                "endTime": "0950AM"
-            },
-            {
-                "days": "MWF",
                 "startTime": "0900AM",
                 "endTime": "0950AM"
             },
@@ -22741,19 +22674,24 @@
                 "endTime": "1120AM"
             },
             {
-                "days": "R",
-                "startTime": "1030AM",
-                "endTime": "1120AM"
-            },
-            {
                 "days": "MWF",
                 "startTime": "1000AM",
                 "endTime": "1050AM"
             },
             {
+                "days": "R",
+                "startTime": "1030AM",
+                "endTime": "1120AM"
+            },
+            {
                 "days": "T",
                 "startTime": "1030AM",
                 "endTime": "1120AM"
+            },
+            {
+                "days": "MWF",
+                "startTime": "1100AM",
+                "endTime": "1150AM"
             },
             {
                 "days": "MWF",
@@ -22766,11 +22704,6 @@
                 "endTime": "1120AM"
             },
             {
-                "days": "MWF",
-                "startTime": "1100AM",
-                "endTime": "1150AM"
-            },
-            {
                 "days": "T",
                 "startTime": "1200PM",
                 "endTime": "1250PM"
@@ -22779,6 +22712,11 @@
                 "days": "MWF",
                 "startTime": "1200PM",
                 "endTime": "1250PM"
+            },
+            {
+                "days": "R",
+                "startTime": "0130PM",
+                "endTime": "0220PM"
             },
             {
                 "days": "MWF",
@@ -22786,11 +22724,6 @@
                 "endTime": "0150PM"
             },
             {
-                "days": "R",
-                "startTime": "0130PM",
-                "endTime": "0220PM"
-            },
-            {
                 "days": "MWF",
                 "startTime": "0800AM",
                 "endTime": "0850AM"
@@ -22799,11 +22732,6 @@
                 "days": "R",
                 "startTime": "0800AM",
                 "endTime": "0850AM"
-            },
-            {
-                "days": "R",
-                "startTime": "1030AM",
-                "endTime": "1120AM"
             },
             {
                 "days": "MWF",
@@ -22811,14 +22739,19 @@
                 "endTime": "1150AM"
             },
             {
-                "days": "MWF",
-                "startTime": "0200PM",
-                "endTime": "0250PM"
+                "days": "R",
+                "startTime": "1030AM",
+                "endTime": "1120AM"
             },
             {
                 "days": "R",
                 "startTime": "0130PM",
                 "endTime": "0220PM"
+            },
+            {
+                "days": "MWF",
+                "startTime": "0200PM",
+                "endTime": "0250PM"
             }
         ],
         "math 31": [
@@ -22833,12 +22766,12 @@
                 "endTime": "0850AM"
             },
             {
-                "days": "T",
+                "days": "MWF",
                 "startTime": "0900AM",
                 "endTime": "0950AM"
             },
             {
-                "days": "MWF",
+                "days": "T",
                 "startTime": "0900AM",
                 "endTime": "0950AM"
             },
@@ -22853,17 +22786,17 @@
                 "endTime": "1050AM"
             },
             {
+                "days": "MWF",
+                "startTime": "1100AM",
+                "endTime": "1150AM"
+            },
+            {
                 "days": "R",
                 "startTime": "1030AM",
                 "endTime": "1120AM"
             },
             {
                 "days": "MWF",
-                "startTime": "1100AM",
-                "endTime": "1150AM"
-            },
-            {
-                "days": "MWF",
                 "startTime": "1200PM",
                 "endTime": "1250PM"
             },
@@ -22871,46 +22804,21 @@
                 "days": "T",
                 "startTime": "1200PM",
                 "endTime": "1250PM"
-            },
-            {
-                "days": "MWF",
-                "startTime": "1100AM",
-                "endTime": "1150AM"
             },
             {
                 "days": "T",
                 "startTime": "1030AM",
                 "endTime": "1120AM"
+            },
+            {
+                "days": "MWF",
+                "startTime": "1100AM",
+                "endTime": "1150AM"
             },
             {
                 "days": "MWF",
                 "startTime": "0100PM",
                 "endTime": "0150PM"
-            },
-            {
-                "days": "T",
-                "startTime": "0130PM",
-                "endTime": "0220PM"
-            },
-            {
-                "days": "R",
-                "startTime": "0130PM",
-                "endTime": "0220PM"
-            },
-            {
-                "days": "MWF",
-                "startTime": "0200PM",
-                "endTime": "0250PM"
-            },
-            {
-                "days": "R",
-                "startTime": "0900AM",
-                "endTime": "0950AM"
-            },
-            {
-                "days": "MWF",
-                "startTime": "0900AM",
-                "endTime": "0950AM"
             },
             {
                 "days": "T",
@@ -22928,29 +22836,54 @@
                 "endTime": "0220PM"
             },
             {
+                "days": "R",
+                "startTime": "0900AM",
+                "endTime": "0950AM"
+            },
+            {
+                "days": "MWF",
+                "startTime": "0900AM",
+                "endTime": "0950AM"
+            },
+            {
+                "days": "MWF",
+                "startTime": "0200PM",
+                "endTime": "0250PM"
+            },
+            {
+                "days": "T",
+                "startTime": "0130PM",
+                "endTime": "0220PM"
+            },
+            {
                 "days": "MWF",
                 "startTime": "0100PM",
                 "endTime": "0150PM"
+            },
+            {
+                "days": "R",
+                "startTime": "0130PM",
+                "endTime": "0220PM"
             }
         ],
         "math 32": [
             {
-                "days": "R",
-                "startTime": "0800AM",
-                "endTime": "0850AM"
-            },
-            {
                 "days": "MWF",
                 "startTime": "0800AM",
                 "endTime": "0850AM"
             },
             {
                 "days": "R",
+                "startTime": "0800AM",
+                "endTime": "0850AM"
+            },
+            {
+                "days": "MWF",
                 "startTime": "0900AM",
                 "endTime": "0950AM"
             },
             {
-                "days": "MWF",
+                "days": "R",
                 "startTime": "0900AM",
                 "endTime": "0950AM"
             },
@@ -22975,12 +22908,12 @@
                 "endTime": "1120AM"
             },
             {
-                "days": "R",
+                "days": "MWF",
                 "startTime": "1200PM",
                 "endTime": "1250PM"
             },
             {
-                "days": "MWF",
+                "days": "R",
                 "startTime": "1200PM",
                 "endTime": "1250PM"
             },
@@ -23561,14 +23494,14 @@
         ],
         "me 108": [
             {
-                "days": "TR",
-                "startTime": "0800AM",
-                "endTime": "0850AM"
-            },
-            {
                 "days": "",
                 "startTime": "",
                 "endTime": ""
+            },
+            {
+                "days": "TR",
+                "startTime": "0800AM",
+                "endTime": "0850AM"
             },
             {
                 "days": "TR",
@@ -24076,13 +24009,13 @@
         "mils 24": [
             {
                 "days": "W",
-                "startTime": "1015AM",
-                "endTime": "1215PM"
+                "startTime": "0300PM",
+                "endTime": "0500PM"
             },
             {
                 "days": "W",
-                "startTime": "0300PM",
-                "endTime": "0500PM"
+                "startTime": "1015AM",
+                "endTime": "1215PM"
             }
         ],
         "mils 99": [
@@ -24121,14 +24054,14 @@
         ],
         "mils 144": [
             {
-                "days": "W",
-                "startTime": "0300PM",
-                "endTime": "0500PM"
-            },
-            {
                 "days": "T",
                 "startTime": "1000AM",
                 "endTime": "0100PM"
+            },
+            {
+                "days": "W",
+                "startTime": "0300PM",
+                "endTime": "0500PM"
             },
             {
                 "days": "W",
@@ -24152,14 +24085,14 @@
     "MIS": {
         "mis 10": [
             {
-                "days": "",
-                "startTime": "",
-                "endTime": ""
-            },
-            {
                 "days": "M",
                 "startTime": "0900AM",
                 "endTime": "0950AM"
+            },
+            {
+                "days": "",
+                "startTime": "",
+                "endTime": ""
             },
             {
                 "days": "",
@@ -24182,14 +24115,14 @@
                 "endTime": ""
             },
             {
-                "days": "",
-                "startTime": "",
-                "endTime": ""
-            },
-            {
                 "days": "M",
                 "startTime": "1000AM",
                 "endTime": "1050AM"
+            },
+            {
+                "days": "",
+                "startTime": "",
+                "endTime": ""
             }
         ],
         "mis 15": [
@@ -24525,12 +24458,12 @@
                 "endTime": "1050AM"
             },
             {
-                "days": "MW",
+                "days": "F",
                 "startTime": "0800AM",
                 "endTime": "0850AM"
             },
             {
-                "days": "F",
+                "days": "MW",
                 "startTime": "0800AM",
                 "endTime": "0850AM"
             },
@@ -25151,11 +25084,6 @@
                 "endTime": ""
             },
             {
-                "days": "",
-                "startTime": "",
-                "endTime": ""
-            },
-            {
                 "days": "TR",
                 "startTime": "0130PM",
                 "endTime": "0220PM"
@@ -25171,6 +25099,11 @@
                 "endTime": "0250PM"
             },
             {
+                "days": "",
+                "startTime": "",
+                "endTime": ""
+            },
+            {
                 "days": "F",
                 "startTime": "1100AM",
                 "endTime": "1150AM"
@@ -25181,14 +25114,14 @@
                 "endTime": ""
             },
             {
-                "days": "F",
-                "startTime": "1150AM",
-                "endTime": "0140PM"
-            },
-            {
                 "days": "",
                 "startTime": "",
                 "endTime": ""
+            },
+            {
+                "days": "F",
+                "startTime": "1150AM",
+                "endTime": "0140PM"
             }
         ],
         "musc 107": [
@@ -27098,6 +27031,11 @@
                 "endTime": "0400PM"
             },
             {
+                "days": "R",
+                "startTime": "0900AM",
+                "endTime": "1200PM"
+            },
+            {
                 "days": "W",
                 "startTime": "0800AM",
                 "endTime": "0400PM"
@@ -27109,6 +27047,11 @@
             },
             {
                 "days": "W",
+                "startTime": "0800AM",
+                "endTime": "0400PM"
+            },
+            {
+                "days": "F",
                 "startTime": "0800AM",
                 "endTime": "0400PM"
             },
@@ -27126,16 +27069,6 @@
                 "days": "R",
                 "startTime": "0900AM",
                 "endTime": "1200PM"
-            },
-            {
-                "days": "R",
-                "startTime": "0900AM",
-                "endTime": "1200PM"
-            },
-            {
-                "days": "F",
-                "startTime": "0800AM",
-                "endTime": "0400PM"
             },
             {
                 "days": "F",
@@ -27170,14 +27103,14 @@
                 "endTime": ""
             },
             {
-                "days": "",
-                "startTime": "",
-                "endTime": ""
-            },
-            {
                 "days": "R",
                 "startTime": "1230PM",
                 "endTime": "0330PM"
+            },
+            {
+                "days": "",
+                "startTime": "",
+                "endTime": ""
             },
             {
                 "days": "R",
@@ -27440,14 +27373,14 @@
         ],
         "nurs 138": [
             {
-                "days": "F",
-                "startTime": "0100PM",
-                "endTime": "0400PM"
-            },
-            {
                 "days": "",
                 "startTime": "",
                 "endTime": ""
+            },
+            {
+                "days": "F",
+                "startTime": "0100PM",
+                "endTime": "0400PM"
             },
             {
                 "days": "",
@@ -27497,11 +27430,6 @@
         ],
         "nurs 139": [
             {
-                "days": "",
-                "startTime": "",
-                "endTime": ""
-            },
-            {
                 "days": "R",
                 "startTime": "0800AM",
                 "endTime": "1100AM"
@@ -27515,6 +27443,11 @@
                 "days": "R",
                 "startTime": "0800AM",
                 "endTime": "1100AM"
+            },
+            {
+                "days": "",
+                "startTime": "",
+                "endTime": ""
             },
             {
                 "days": "",
@@ -27731,38 +27664,38 @@
         ],
         "nurs 209": [
             {
-                "days": "",
-                "startTime": "",
-                "endTime": ""
-            },
-            {
                 "days": "T",
                 "startTime": "1200PM",
                 "endTime": "0300PM"
+            },
+            {
+                "days": "",
+                "startTime": "",
+                "endTime": ""
             }
         ],
         "nurs 210": [
             {
-                "days": "",
-                "startTime": "",
-                "endTime": ""
-            },
-            {
                 "days": "T",
                 "startTime": "0900AM",
                 "endTime": "1150AM"
+            },
+            {
+                "days": "",
+                "startTime": "",
+                "endTime": ""
             }
         ],
         "nurs 213": [
             {
-                "days": "",
-                "startTime": "",
-                "endTime": ""
-            },
-            {
                 "days": "R",
                 "startTime": "0600PM",
                 "endTime": "0850PM"
+            },
+            {
+                "days": "",
+                "startTime": "",
+                "endTime": ""
             }
         ],
         "nurs 215": [
@@ -27779,14 +27712,14 @@
         ],
         "nurs 232": [
             {
-                "days": "S",
-                "startTime": "0900AM",
-                "endTime": "0200PM"
-            },
-            {
                 "days": "",
                 "startTime": "",
                 "endTime": ""
+            },
+            {
+                "days": "S",
+                "startTime": "0900AM",
+                "endTime": "0200PM"
             },
             {
                 "days": "",
@@ -27899,14 +27832,14 @@
                 "endTime": ""
             },
             {
-                "days": "",
-                "startTime": "",
-                "endTime": ""
-            },
-            {
                 "days": "MW",
                 "startTime": "0900AM",
                 "endTime": "0950AM"
+            },
+            {
+                "days": "",
+                "startTime": "",
+                "endTime": ""
             },
             {
                 "days": "MWF",
@@ -28160,14 +28093,14 @@
         ],
         "phil 180": [
             {
-                "days": "",
-                "startTime": "",
-                "endTime": ""
-            },
-            {
                 "days": "M",
                 "startTime": "0430PM",
                 "endTime": "0545PM"
+            },
+            {
+                "days": "",
+                "startTime": "",
+                "endTime": ""
             }
         ],
         "phil 183": [
@@ -29959,14 +29892,14 @@
         ],
         "psyc 143": [
             {
-                "days": "T",
-                "startTime": "",
-                "endTime": ""
-            },
-            {
                 "days": "R",
                 "startTime": "0900AM",
                 "endTime": "1015AM"
+            },
+            {
+                "days": "T",
+                "startTime": "",
+                "endTime": ""
             }
         ],
         "psyc 145": [
@@ -30437,18 +30370,8 @@
                 "endTime": "1250PM"
             },
             {
-                "days": "W",
-                "startTime": "0900AM",
-                "endTime": "1250PM"
-            },
-            {
                 "days": "F",
                 "startTime": "1100AM",
-                "endTime": "1250PM"
-            },
-            {
-                "days": "W",
-                "startTime": "0900AM",
                 "endTime": "1250PM"
             },
             {
@@ -30460,6 +30383,16 @@
                 "days": "F",
                 "startTime": "1100AM",
                 "endTime": "0100PM"
+            },
+            {
+                "days": "W",
+                "startTime": "0900AM",
+                "endTime": "1250PM"
+            },
+            {
+                "days": "W",
+                "startTime": "0900AM",
+                "endTime": "1250PM"
             }
         ],
         "pt 668": [
@@ -30706,8 +30639,8 @@
             },
             {
                 "days": "MW",
-                "startTime": "1200PM",
-                "endTime": "0115PM"
+                "startTime": "0430PM",
+                "endTime": "0545PM"
             }
         ],
         "pubh 122": [
@@ -30777,9 +30710,9 @@
                 "endTime": ""
             },
             {
-                "days": "TR",
-                "startTime": "1030AM",
-                "endTime": "1145AM"
+                "days": "",
+                "startTime": "",
+                "endTime": ""
             }
         ],
         "pubh 124": [
@@ -30813,14 +30746,14 @@
         ],
         "pubh 134": [
             {
-                "days": "R",
-                "startTime": "1030AM",
-                "endTime": "1145AM"
-            },
-            {
                 "days": "",
                 "startTime": "",
                 "endTime": ""
+            },
+            {
+                "days": "R",
+                "startTime": "1030AM",
+                "endTime": "1145AM"
             },
             {
                 "days": "",
@@ -30864,6 +30797,11 @@
         ],
         "pubh 147": [
             {
+                "days": "",
+                "startTime": "",
+                "endTime": ""
+            },
+            {
                 "days": "W",
                 "startTime": "0600PM",
                 "endTime": "0715PM"
@@ -30877,11 +30815,6 @@
                 "days": "T",
                 "startTime": "0430PM",
                 "endTime": "0545PM"
-            },
-            {
-                "days": "",
-                "startTime": "",
-                "endTime": ""
             },
             {
                 "days": "M",
@@ -30929,8 +30862,8 @@
             },
             {
                 "days": "TR",
-                "startTime": "1200PM",
-                "endTime": "0115PM"
+                "startTime": "1030AM",
+                "endTime": "1145AM"
             }
         ],
         "pubh 151": [
@@ -31040,11 +30973,6 @@
     "AERO": {
         "aero 1A": [
             {
-                "days": "F",
-                "startTime": "0100PM",
-                "endTime": "0250PM"
-            },
-            {
                 "days": "W",
                 "startTime": "1000AM",
                 "endTime": "1050AM"
@@ -31056,18 +30984,23 @@
             },
             {
                 "days": "F",
+                "startTime": "0100PM",
+                "endTime": "0250PM"
+            },
+            {
+                "days": "F",
                 "startTime": "1000AM",
                 "endTime": "1050AM"
             },
             {
                 "days": "F",
-                "startTime": "1100AM",
-                "endTime": "1150AM"
+                "startTime": "0100PM",
+                "endTime": "0250PM"
             },
             {
                 "days": "F",
-                "startTime": "0100PM",
-                "endTime": "0250PM"
+                "startTime": "1100AM",
+                "endTime": "1150AM"
             }
         ],
         "aero 21A": [
@@ -31094,14 +31027,14 @@
         ],
         "aero 135A": [
             {
-                "days": "F",
-                "startTime": "0100PM",
-                "endTime": "0250PM"
-            },
-            {
                 "days": "W",
                 "startTime": "0830AM",
                 "endTime": "1120AM"
+            },
+            {
+                "days": "F",
+                "startTime": "0100PM",
+                "endTime": "0250PM"
             }
         ],
         "aero 145A": [
@@ -31137,14 +31070,14 @@
                 "endTime": "1015AM"
             },
             {
-                "days": "R",
-                "startTime": "0900AM",
-                "endTime": "1015AM"
-            },
-            {
                 "days": "",
                 "startTime": "",
                 "endTime": ""
+            },
+            {
+                "days": "R",
+                "startTime": "0900AM",
+                "endTime": "1015AM"
             },
             {
                 "days": "R",
@@ -31179,24 +31112,24 @@
                 "endTime": "0950AM"
             },
             {
-                "days": "",
-                "startTime": "",
-                "endTime": ""
-            },
-            {
                 "days": "MW",
                 "startTime": "1000AM",
                 "endTime": "1050AM"
             },
             {
-                "days": "MW",
-                "startTime": "1100AM",
-                "endTime": "1150AM"
+                "days": "",
+                "startTime": "",
+                "endTime": ""
             },
             {
                 "days": "",
                 "startTime": "",
                 "endTime": ""
+            },
+            {
+                "days": "MW",
+                "startTime": "1100AM",
+                "endTime": "1150AM"
             },
             {
                 "days": "MW",
@@ -31219,29 +31152,24 @@
                 "endTime": ""
             },
             {
-                "days": "",
-                "startTime": "",
-                "endTime": ""
-            },
-            {
                 "days": "T",
                 "startTime": "0900AM",
                 "endTime": "1015AM"
             },
             {
+                "days": "",
+                "startTime": "",
+                "endTime": ""
+            },
+            {
+                "days": "",
+                "startTime": "",
+                "endTime": ""
+            },
+            {
                 "days": "T",
                 "startTime": "1030AM",
                 "endTime": "1145AM"
-            },
-            {
-                "days": "",
-                "startTime": "",
-                "endTime": ""
-            },
-            {
-                "days": "",
-                "startTime": "",
-                "endTime": ""
             },
             {
                 "days": "T",
@@ -31259,14 +31187,19 @@
                 "endTime": "1015AM"
             },
             {
-                "days": "R",
-                "startTime": "1030AM",
-                "endTime": "1145AM"
+                "days": "",
+                "startTime": "",
+                "endTime": ""
             },
             {
                 "days": "",
                 "startTime": "",
                 "endTime": ""
+            },
+            {
+                "days": "R",
+                "startTime": "1030AM",
+                "endTime": "1145AM"
             },
             {
                 "days": "R",
@@ -31281,12 +31214,12 @@
         ],
         "rpta 22": [
             {
-                "days": "R",
+                "days": "T",
                 "startTime": "1030AM",
                 "endTime": "1145AM"
             },
             {
-                "days": "T",
+                "days": "R",
                 "startTime": "1030AM",
                 "endTime": "1145AM"
             }
@@ -31315,6 +31248,11 @@
         ],
         "rpta 32": [
             {
+                "days": "",
+                "startTime": "",
+                "endTime": ""
+            },
+            {
                 "days": "T",
                 "startTime": "1030AM",
                 "endTime": "1145AM"
@@ -31325,19 +31263,9 @@
                 "endTime": ""
             },
             {
-                "days": "",
-                "startTime": "",
-                "endTime": ""
-            },
-            {
                 "days": "R",
                 "startTime": "1030AM",
                 "endTime": "1145AM"
-            },
-            {
-                "days": "",
-                "startTime": "",
-                "endTime": ""
             },
             {
                 "days": "R",
@@ -31345,14 +31273,19 @@
                 "endTime": "0245PM"
             },
             {
-                "days": "M",
-                "startTime": "0600PM",
-                "endTime": "0715PM"
+                "days": "",
+                "startTime": "",
+                "endTime": ""
             },
             {
                 "days": "",
                 "startTime": "",
                 "endTime": ""
+            },
+            {
+                "days": "M",
+                "startTime": "0600PM",
+                "endTime": "0715PM"
             }
         ],
         "rpta 33": [
@@ -31406,14 +31339,14 @@
         ],
         "rpta 42": [
             {
-                "days": "R",
-                "startTime": "0900AM",
-                "endTime": "1015AM"
-            },
-            {
                 "days": "",
                 "startTime": "",
                 "endTime": ""
+            },
+            {
+                "days": "R",
+                "startTime": "0900AM",
+                "endTime": "1015AM"
             }
         ],
         "rpta 50": [
@@ -31430,14 +31363,14 @@
         ],
         "rpta 54": [
             {
-                "days": "M",
-                "startTime": "0130PM",
-                "endTime": "0245PM"
-            },
-            {
                 "days": "",
                 "startTime": "",
                 "endTime": ""
+            },
+            {
+                "days": "M",
+                "startTime": "0130PM",
+                "endTime": "0245PM"
             },
             {
                 "days": "",
@@ -31452,14 +31385,14 @@
         ],
         "rpta 60": [
             {
-                "days": "",
-                "startTime": "",
-                "endTime": ""
-            },
-            {
                 "days": "T",
                 "startTime": "0300PM",
                 "endTime": "0415PM"
+            },
+            {
+                "days": "",
+                "startTime": "",
+                "endTime": ""
             }
         ],
         "rpta 61": [
@@ -31495,14 +31428,14 @@
         ],
         "rpta 84": [
             {
-                "days": "",
-                "startTime": "",
-                "endTime": ""
-            },
-            {
                 "days": "T",
                 "startTime": "1030AM",
                 "endTime": "1145AM"
+            },
+            {
+                "days": "",
+                "startTime": "",
+                "endTime": ""
             }
         ],
         "rpta 100": [
@@ -31512,14 +31445,14 @@
                 "endTime": ""
             },
             {
-                "days": "T",
-                "startTime": "1200PM",
-                "endTime": "0115PM"
-            },
-            {
                 "days": "",
                 "startTime": "",
                 "endTime": ""
+            },
+            {
+                "days": "T",
+                "startTime": "1200PM",
+                "endTime": "0115PM"
             }
         ],
         "rpta 101": [
@@ -31546,14 +31479,14 @@
                 "endTime": "0250PM"
             },
             {
-                "days": "",
-                "startTime": "",
-                "endTime": ""
-            },
-            {
                 "days": "F",
                 "startTime": "0900AM",
                 "endTime": "0250PM"
+            },
+            {
+                "days": "",
+                "startTime": "",
+                "endTime": ""
             }
         ],
         "rpta 105": [
@@ -31580,6 +31513,11 @@
                 "endTime": ""
             },
             {
+                "days": "",
+                "startTime": "",
+                "endTime": ""
+            },
+            {
                 "days": "M",
                 "startTime": "0130PM",
                 "endTime": "0245PM"
@@ -31595,31 +31533,26 @@
                 "endTime": "0415PM"
             },
             {
-                "days": "",
-                "startTime": "",
-                "endTime": ""
-            },
-            {
-                "days": "",
-                "startTime": "",
-                "endTime": ""
-            },
-            {
                 "days": "W",
                 "startTime": "0300PM",
                 "endTime": "0415PM"
+            },
+            {
+                "days": "",
+                "startTime": "",
+                "endTime": ""
             }
         ],
         "rpta 110": [
             {
-                "days": "",
-                "startTime": "",
-                "endTime": ""
-            },
-            {
                 "days": "R",
                 "startTime": "1200PM",
                 "endTime": "0115PM"
+            },
+            {
+                "days": "",
+                "startTime": "",
+                "endTime": ""
             }
         ],
         "rpta 116": [
@@ -31682,36 +31615,36 @@
                 "endTime": "0415PM"
             },
             {
+                "days": "T",
+                "startTime": "0130PM",
+                "endTime": "0245PM"
+            },
+            {
                 "days": "",
                 "startTime": "",
                 "endTime": ""
             },
             {
-                "days": "T",
-                "startTime": "0130PM",
-                "endTime": "0245PM"
+                "days": "",
+                "startTime": "",
+                "endTime": ""
             },
             {
                 "days": "M",
                 "startTime": "0130PM",
                 "endTime": "0245PM"
-            },
-            {
-                "days": "",
-                "startTime": "",
-                "endTime": ""
             }
         ],
         "rpta 125": [
             {
-                "days": "T",
-                "startTime": "1030AM",
-                "endTime": "1145AM"
-            },
-            {
                 "days": "",
                 "startTime": "",
                 "endTime": ""
+            },
+            {
+                "days": "T",
+                "startTime": "1030AM",
+                "endTime": "1145AM"
             },
             {
                 "days": "T",
@@ -31759,11 +31692,6 @@
                 "endTime": ""
             },
             {
-                "days": "",
-                "startTime": "",
-                "endTime": ""
-            },
-            {
                 "days": "M",
                 "startTime": "0600PM",
                 "endTime": "0715PM"
@@ -31804,6 +31732,11 @@
                 "endTime": ""
             },
             {
+                "days": "",
+                "startTime": "",
+                "endTime": ""
+            },
+            {
                 "days": "T",
                 "startTime": "1030AM",
                 "endTime": "1145AM"
@@ -31811,14 +31744,14 @@
         ],
         "rpta 126": [
             {
-                "days": "T",
-                "startTime": "1200PM",
-                "endTime": "0115PM"
-            },
-            {
                 "days": "",
                 "startTime": "",
                 "endTime": ""
+            },
+            {
+                "days": "T",
+                "startTime": "1200PM",
+                "endTime": "0115PM"
             },
             {
                 "days": "R",
@@ -31841,14 +31774,14 @@
                 "endTime": "0645PM"
             },
             {
-                "days": "W",
-                "startTime": "0300PM",
-                "endTime": "0415PM"
-            },
-            {
                 "days": "",
                 "startTime": "",
                 "endTime": ""
+            },
+            {
+                "days": "W",
+                "startTime": "0300PM",
+                "endTime": "0415PM"
             }
         ],
         "rpta 129": [
@@ -31910,14 +31843,14 @@
         ],
         "rpta 154": [
             {
-                "days": "",
-                "startTime": "",
-                "endTime": ""
-            },
-            {
                 "days": "T",
                 "startTime": "0600PM",
                 "endTime": "0715PM"
+            },
+            {
+                "days": "",
+                "startTime": "",
+                "endTime": ""
             }
         ],
         "rpta 165": [
@@ -31946,14 +31879,14 @@
         ],
         "rpta 178": [
             {
-                "days": "",
-                "startTime": "",
-                "endTime": ""
-            },
-            {
                 "days": "T",
                 "startTime": "0130PM",
                 "endTime": "0245PM"
+            },
+            {
+                "days": "",
+                "startTime": "",
+                "endTime": ""
             }
         ],
         "rpta 182": [
@@ -32717,14 +32650,14 @@
                 "endTime": ""
             },
             {
-                "days": "",
-                "startTime": "",
-                "endTime": ""
-            },
-            {
                 "days": "MTW",
                 "startTime": "0200PM",
                 "endTime": "0250PM"
+            },
+            {
+                "days": "",
+                "startTime": "",
+                "endTime": ""
             }
         ],
         "span 1B": [
@@ -32860,14 +32793,14 @@
         ],
         "span 121J": [
             {
-                "days": "T",
-                "startTime": "0600PM",
-                "endTime": "0715PM"
-            },
-            {
                 "days": "",
                 "startTime": "",
                 "endTime": ""
+            },
+            {
+                "days": "T",
+                "startTime": "0600PM",
+                "endTime": "0715PM"
             }
         ],
         "span 123": [
@@ -33171,14 +33104,14 @@
                 "endTime": "1150AM"
             },
             {
-                "days": "MWF",
-                "startTime": "0100PM",
-                "endTime": "0150PM"
-            },
-            {
                 "days": "R",
                 "startTime": "0130PM",
                 "endTime": "0220PM"
+            },
+            {
+                "days": "MWF",
+                "startTime": "0100PM",
+                "endTime": "0150PM"
             },
             {
                 "days": "T",
@@ -33191,12 +33124,12 @@
                 "endTime": "0250PM"
             },
             {
-                "days": "R",
+                "days": "MW",
                 "startTime": "0400PM",
                 "endTime": "0515PM"
             },
             {
-                "days": "MW",
+                "days": "R",
                 "startTime": "0400PM",
                 "endTime": "0515PM"
             }
@@ -33341,7 +33274,12 @@
                 "endTime": "0250PM"
             },
             {
-                "days": "TR",
+                "days": "",
+                "startTime": "",
+                "endTime": ""
+            },
+            {
+                "days": "T",
                 "startTime": "1030AM",
                 "endTime": "1145AM"
             },
@@ -33351,9 +33289,14 @@
                 "endTime": "0550PM"
             },
             {
-                "days": "MW",
+                "days": "W",
                 "startTime": "0400PM",
                 "endTime": "0515PM"
+            },
+            {
+                "days": "",
+                "startTime": "",
+                "endTime": ""
             }
         ],
         "swrk 118": [
@@ -33595,6 +33538,11 @@
             },
             {
                 "days": "M",
+                "startTime": "0300PM",
+                "endTime": "0550PM"
+            },
+            {
+                "days": "M",
                 "startTime": "0300AM",
                 "endTime": "0550PM"
             },
@@ -33747,11 +33695,13 @@
                 "days": "M",
                 "startTime": "0300PM",
                 "endTime": "0550PM"
-            },
+            }
+        ],
+        "swrk 199": [
             {
-                "days": "M",
-                "startTime": "0300PM",
-                "endTime": "0550PM"
+                "days": "",
+                "startTime": "",
+                "endTime": ""
             }
         ],
         "swrk 202": [
@@ -33867,6 +33817,11 @@
             }
         ],
         "swrk 223": [
+            {
+                "days": "R",
+                "startTime": "0900AM",
+                "endTime": "1150AM"
+            },
             {
                 "days": "R",
                 "startTime": "0900AM",
@@ -34280,26 +34235,101 @@
                 "endTime": "0550PM"
             },
             {
-                "days": "",
-                "startTime": "",
-                "endTime": ""
+                "days": "W",
+                "startTime": "0300PM",
+                "endTime": "0550PM"
             },
             {
-                "days": "",
-                "startTime": "",
-                "endTime": ""
+                "days": "W",
+                "startTime": "0300PM",
+                "endTime": "0550PM"
             },
             {
-                "days": "",
-                "startTime": "",
-                "endTime": ""
+                "days": "W",
+                "startTime": "0300PM",
+                "endTime": "0550PM"
+            },
+            {
+                "days": "W",
+                "startTime": "0300PM",
+                "endTime": "0550PM"
+            },
+            {
+                "days": "W",
+                "startTime": "0300PM",
+                "endTime": "0550PM"
+            },
+            {
+                "days": "W",
+                "startTime": "0300PM",
+                "endTime": "0550PM"
+            },
+            {
+                "days": "W",
+                "startTime": "0300PM",
+                "endTime": "0550PM"
+            },
+            {
+                "days": "W",
+                "startTime": "0300PM",
+                "endTime": "0550PM"
+            },
+            {
+                "days": "W",
+                "startTime": "0300PM",
+                "endTime": "0550PM"
+            },
+            {
+                "days": "W",
+                "startTime": "0300PM",
+                "endTime": "0550PM"
+            },
+            {
+                "days": "W",
+                "startTime": "0300PM",
+                "endTime": "0550PM"
+            },
+            {
+                "days": "W",
+                "startTime": "0300PM",
+                "endTime": "0550PM"
+            },
+            {
+                "days": "W",
+                "startTime": "0300PM",
+                "endTime": "0550PM"
+            },
+            {
+                "days": "W",
+                "startTime": "0300PM",
+                "endTime": "0550PM"
             }
         ],
         "swrk 298A": [
             {
-                "days": "",
-                "startTime": "",
-                "endTime": ""
+                "days": "W",
+                "startTime": "0300PM",
+                "endTime": "0550PM"
+            },
+            {
+                "days": "W",
+                "startTime": "0300PM",
+                "endTime": "0550PM"
+            },
+            {
+                "days": "W",
+                "startTime": "0300PM",
+                "endTime": "0550PM"
+            },
+            {
+                "days": "W",
+                "startTime": "0300PM",
+                "endTime": "0550PM"
+            },
+            {
+                "days": "W",
+                "startTime": "0300PM",
+                "endTime": "0550PM"
             }
         ],
         "swrk 299": [
@@ -34318,14 +34348,14 @@
         ],
         "swrk 501": [
             {
-                "days": "F",
-                "startTime": "1200PM",
-                "endTime": "0150PM"
-            },
-            {
                 "days": "",
                 "startTime": "",
                 "endTime": ""
+            },
+            {
+                "days": "F",
+                "startTime": "1200PM",
+                "endTime": "0150PM"
             },
             {
                 "days": "F",
