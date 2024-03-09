@@ -16,7 +16,7 @@ The scraper is a Python-based module that retrieves class schedule data from the
 The scraper performs the following tasks:
 - Retrieves the rendered HTML content of the class schedule page.
 - Parses the HTML structure using BeautifulSoup to extract relevant data.
-- Stores the extracted data in a structured format (e.g., JSON, CSV) for further processing.
+- Stores the extracted data in a structured format (JSON) for further processing.
 
 ## 2. LLM API Connection 🤖
 The LLM (Large Language Model) API Connection module establishes a connection with a language model API, such as OpenAI's GPT-3 or Anthropic's Claude. This module is responsible for sending prompts to the LLM and receiving the generated responses.
@@ -38,11 +38,13 @@ The User Interface Application offers the following features:
 5. Ability to save or export the generated schedules for future reference.
 
 ## Getting Started! 🎉
-To get started with the LLM-based Autoscheduler project, follow these steps:
+To see the LLM-based Autoscheduler project in action, follow these steps:
 1. Clone the repository: `git clone https://github.com/yourusername/llm-based-autoscheduler.git`
-2. Install the required dependencies.
-3. Configure the necessary API keys and credentials for the LLM API and any other required services.
-4. Follow the prompts in the application to input your scheduling preferences and generate schedules using the LLM.
+2. Install the required dependencies. `pip install -r dependencies.txt`
+3. Configure the necessary API keys and credentials for the OpenAI API. ([Tutorial](https://openai.com/blog/openai-api))
+4. Select the term in the the `scraper/scraper.py` code.
+4. Run the scraper `python3 scraper.py` to generate the file `schedules/{term}.json/`.
+5. Run the notebook `API/api_notebook.ipynb`.
 
 ## Contributing 🤝
 Contributions to the LLM-based Autoscheduler project are welcome! If you'd like to contribute, please follow these steps:
