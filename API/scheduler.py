@@ -51,7 +51,7 @@ def get_timetables(requirements: List[str], schedule: Dict[str, Dict]) -> Dict[s
     """
     timetables = {}
     for requirement in requirements:
-        major = re.match(r"^[\w\d]+", requirement).group(0).upper()
+        major = re.match(r"^.*?(?=\d)", requirement).group(0).upper()
         course = re.sub(r'\s+', '', requirement).upper()
         if major in schedule and course in schedule[major]:
             timetables[course] = schedule[major][course]
