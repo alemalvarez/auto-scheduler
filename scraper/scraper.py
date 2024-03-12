@@ -1,6 +1,7 @@
 import os
 import json
 import time
+import re
 from typing import Dict, List
 
 from selenium import webdriver
@@ -11,7 +12,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 from bs4 import BeautifulSoup
 
-TERM = 'spring-2024' #< -- CHOOSE TERM HERE
+TERM = 'fall-2024' #< -- CHOOSE TERM HERE
 
 def setup_driver() -> webdriver.Chrome:
     """
@@ -87,6 +88,7 @@ def scrape_major(driver: webdriver.Chrome, major: str) -> Dict[str, List[Dict[st
         if h2_element:
             h2_text = h2_element.text.strip()
             class_name = h2_text.split(' - ')[0]
+            class_name = re.sub(r'\s+', '', class_name).upper()
             data[class_name] = []
 
             row_divs = table_div.find_all('div', role='row')
