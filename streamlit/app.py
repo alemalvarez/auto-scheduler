@@ -68,7 +68,10 @@ def query_openai_api(requirements: List[str], timetables: Dict[str, Dict]) -> st
     The list is: {timetables}
     """
 
-    client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))
+    client = OpenAI(
+        api_key=os.getenv('OPENAI_API_KEY'),
+        organization='org-R588VtVPiLayZlPfc2F0DyAI'
+        )
     completion = client.chat.completions.create(
         model="gpt-3.5-turbo",
         messages=[
