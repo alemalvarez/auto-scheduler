@@ -19,7 +19,7 @@ The scraper performs the following tasks:
 - Stores the extracted data in a structured format (JSON) for further processing.
 
 ## 2. LLM API Connection 🤖
-The LLM (Large Language Model) API Connection module establishes a connection with a language model API, such as OpenAI's GPT-3 or Anthropic's Claude. This module is responsible for sending prompts to the LLM and receiving the generated responses.
+The LLM (Large Language Model) API Connection module establishes a connection with a language model API, in this case OpenAI GPT-3.5. This module is responsible for sending prompts to the LLM and receiving the generated responses.
 
 The LLM API Connection module performs the following tasks:
 - Authenticates with the LLM API service using provided credentials.
@@ -28,14 +28,13 @@ The LLM API Connection module performs the following tasks:
 - Applies any necessary post-processing or formatting to the LLM responses.
 
 ## 3. User Interface Application 💻
-The User Interface Application provides a graphical interface for users to interact with the LLM-based Autoscheduler. It acts as a bridge between the user and the underlying scraper and LLM API Connection components.
+The User Interface Application provides a graphical interface for users to interact with the LLM-based Autoscheduler. It acts as a bridge between the user and the underlying scraper and LLM API Connection components. It's build using the fantastic library [streamlit.io](https://streamlit.io), which provides a clean-looking UI on top of Python apps.
 
 The User Interface Application offers the following features:
 1. A user-friendly interface for inputting preferences and constraints for scheduling (e.g., desired courses, time preferences, workload limitations).
-2. Integration with the scraper module to retrieve the latest class schedule data from the CSUS webpage.
+2. Integration with the scraper module to retrieve the latest class schedule data from the scraped JSON files.
 3. Integration with the LLM API Connection module to send prompts and receive generated schedules from the LLM.
 4. Display of the generated schedules in a clear and organized manner.
-5. Ability to save or export the generated schedules for future reference.
 
 ## Getting Started! 🎉
 To see the LLM-based Autoscheduler project in action, follow these steps:
@@ -43,8 +42,10 @@ To see the LLM-based Autoscheduler project in action, follow these steps:
 2. Install the required dependencies. `pip install -r dependencies.txt`
 3. Configure the necessary API keys and credentials for the OpenAI API. ([Tutorial](https://openai.com/blog/openai-api))
 4. Select the term in the the `scraper/scraper.py` code.
-4. Run the scraper `python3 scraper.py` to generate the file `schedules/{term}.json/`.
-5. Run the notebook `API/api_notebook.ipynb`.
+5. Run the scraper `python3 scraper.py` to generate the file `schedules/{term}.json/`.
+6. Go into the folder containing the streamlit app `cd streamlit`.
+7. Run the app with `streamlit run app.py`.
+8. Access the app at `http://localhost:8501`.
 
 ## Contributing 🤝
 Contributions to the LLM-based Autoscheduler project are welcome! If you'd like to contribute, please follow these steps:
