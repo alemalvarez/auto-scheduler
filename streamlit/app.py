@@ -40,7 +40,7 @@ def get_timetables(requirements: List[str], schedule: Dict[str, Dict]) -> Dict[s
         major = re.match(r"^.*?(?=\d)", requirement).group(0).upper()
         course = re.sub(r'\s+', '', requirement).upper()
         if major in schedule and course in schedule[major]:
-            timetables[course] = schedule[major][course]
+            timetables[course] = schedule[major][course]['shcedules']
         else:
             print(f"No timetable found for requirement: {requirement}")
     return timetables
@@ -102,10 +102,20 @@ def app():
 
         if selected_majors:
             requirements = []
+            total_units = 0  # Initialize the total units variable
+
             for major in selected_majors:
                 courses = list(schedule[major].keys())
                 selected_courses = st.multiselect(f"Select courses for {major}:", courses, max_selections=10)
+
+                # Add the units of the selected courses to the total units
+                for course in selected_courses:
+                    total_units += int(schedule[major][course]["units"])
+
                 requirements.extend([f"{course}" for course in selected_courses])
+
+            # Display the total units
+            st.write(f"Total units selected: {total_units}")
 
             if requirements:
                 if st.button("Submit"):

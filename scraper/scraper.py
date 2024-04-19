@@ -88,8 +88,13 @@ def scrape_major(driver: webdriver.Chrome, major: str) -> Dict[str, List[Dict[st
         if h2_element:
             h2_text = h2_element.text.strip()
             class_name = h2_text.split(' - ')[0]
+            units = h2_text.split(' - ')[2].split()[0]
+
             class_name = re.sub(r'\s+', '', class_name).upper()
-            data[class_name] = []
+            data[class_name] = {
+                'units': units,
+                'schedules': []
+            }
 
             row_divs = table_div.find_all('div', role='row')
             row_divs = row_divs[1:]
@@ -108,7 +113,7 @@ def scrape_major(driver: webdriver.Chrome, major: str) -> Dict[str, List[Dict[st
                     }
 
                     if class_name in data:
-                        data[class_name].append(row_data)
+                        data[class_name]['schedules'].append(row_data)
 
     print(f'{len(data.keys())} courses found for {major}.')
     return data

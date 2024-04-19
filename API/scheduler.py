@@ -50,13 +50,17 @@ def get_timetables(requirements: List[str], schedule: Dict[str, Dict]) -> Dict[s
         Dict[str, Dict]: A dictionary containing the timetables for the given requirements.
     """
     timetables = {}
+    units = 0
     for requirement in requirements:
-        major = re.match(r"^.*?(?=\d)", requirement).group(0).upper()
+        major = re.match(r"^.*?(?=\d)", requirement).group(0).upper().strip()
         course = re.sub(r'\s+', '', requirement).upper()
         if major in schedule and course in schedule[major]:
-            timetables[course] = schedule[major][course]
+            timetables[course] = schedule[major][course]['schedules']
+            units += int(schedule[major][course]['units'])
         else:
             print(f"No timetable found for requirement: {requirement}")
+
+    print(f"Total units: {units}")
     return timetables
 
 def query_openai_api(requirements: List[str], timetables: Dict[str, Dict]) -> None:
