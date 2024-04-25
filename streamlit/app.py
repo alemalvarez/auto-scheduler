@@ -40,7 +40,7 @@ def get_timetables(requirements: List[str], schedule: Dict[str, Dict]) -> Dict[s
         major = re.match(r"^.*?(?=\d)", requirement).group(0).upper()
         course = re.sub(r'\s+', '', requirement).upper()
         if major in schedule and course in schedule[major]:
-            timetables[course] = schedule[major][course]['shcedules']
+            timetables[course] = schedule[major][course]['schedules']
         else:
             print(f"No timetable found for requirement: {requirement}")
     return timetables
@@ -57,7 +57,20 @@ def query_openai_api(requirements: List[str], timetables: Dict[str, Dict]) -> st
         str: The response from the OpenAI API.
     """
     instructions = """
-    You are a scheduler. You make college schedules. When you are told a list of classes and their days and hours, you find a combination of the possible timeslots avoiding any overlap. For each class, return one and only one timeslot.
+    You are a scheduler. You make college schedules. When you are told a list of classes and their days and hours, you find a combination of the possible timeslots avoiding any overlap. For each class, return one and only one timeslot. Return the timeslots in JSON format, with the classes as keys.
+    An example of a response would be:
+    {
+        "CS101":{
+            "Day":"Monday",
+            "StartingTime":"10:00 AM",
+            "EndingTime":"11:15 AM"
+        },
+        "CS102":{
+            "Day":"Tuesday",
+            "StartingTime":"11:00 AM",
+            "EndingTime":"12:15 PM"
+        }
+    }
     """
 
     prompt = f"""
